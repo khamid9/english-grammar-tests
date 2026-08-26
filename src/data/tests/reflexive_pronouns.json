@@ -1,0 +1,146 @@
+{
+  "topic": "Reflexive Pronouns",
+  "level": "A2-B1",
+  "questions": [
+    {
+      "id": "rp_001",
+      "sentence": "She taught ___ English when she was young.",
+      "correct": "herself",
+      "distractors": ["her", "she", "himself"],
+      "explanation": "Подлежащее «She» и дополнение — одно и то же лицо, поэтому используется возвратное местоимение herself."
+    },
+    {
+      "id": "rp_002",
+      "sentence": "I made this cake all by ___.",
+      "correct": "myself",
+      "distractors": ["me", "my", "himself"],
+      "explanation": "Подлежащее «I» и дополнение совпадают, поэтому нужен myself."
+    },
+    {
+      "id": "rp_003",
+      "sentence": "He hurt ___ while playing football.",
+      "correct": "himself",
+      "distractors": ["him", "he", "his"],
+      "explanation": "Подлежащее «He» и дополнение — одно лицо, поэтому используется himself."
+    },
+    {
+      "id": "rp_004",
+      "sentence": "Did you enjoy ___ at the party?",
+      "correct": "yourself",
+      "distractors": ["you", "your", "yourselves"],
+      "explanation": "Вопрос обращён к одному лицу (you в единственном числе), поэтому используется yourself."
+    },
+    {
+      "id": "rp_005",
+      "sentence": "The cat washed ___ after lunch.",
+      "correct": "itself",
+      "distractors": ["it", "itself", "himself"],
+      "explanation": "Животное (it) — подлежащее и дополнение совпадают, поэтому используется itself."
+    },
+    {
+      "id": "rp_006",
+      "sentence": "We enjoyed ___ at the concert last night.",
+      "correct": "ourselves",
+      "distractors": ["us", "our", "themselves"],
+      "explanation": "Подлежащее «We» — множественное число, поэтому используется ourselves."
+    },
+    {
+      "id": "rp_007",
+      "sentence": "They built that house ___.",
+      "correct": "themselves",
+      "distractors": ["them", "their", "ourselves"],
+      "explanation": "Подлежащее «They» и дополнение совпадают, поэтому используется themselves."
+    },
+    {
+      "id": "rp_008",
+      "sentence": "My brother can take care of ___ now.",
+      "correct": "himself",
+      "distractors": ["he", "him", "his"],
+      "explanation": "Подлежащее «My brother» — мужской род единственного числа, поэтому используется himself."
+    },
+    {
+      "id": "rp_009",
+      "sentence": "You need to believe in ___ more.",
+      "correct": "yourself",
+      "distractors": ["you", "your", "yourselves"],
+      "explanation": "Обращение к одному лицу (you единственного числа), поэтому используется yourself."
+    },
+    {
+      "id": "rp_010",
+      "sentence": "The children taught ___ to swim when they were five.",
+      "correct": "themselves",
+      "distractors": ["them", "their", "ourselves"],
+      "explanation": "Подлежащее «The children» — множественное число, поэтому используется themselves."
+    },
+    {
+      "id": "rp_011",
+      "sentence": "She prepared dinner all by ___ yesterday.",
+      "correct": "herself",
+      "distractors": ["her", "she", "yourself"],
+      "explanation": "Подлежащее «She» и дополнение совпадают, поэтому используется herself."
+    },
+    {
+      "id": "rp_012",
+      "sentence": "I hurt ___ while cooking dinner.",
+      "correct": "myself",
+      "distractors": ["me", "my", "himself"],
+      "explanation": "Подлежащее «I» и дополнение — одно лицо, поэтому нужен myself."
+    },
+    {
+      "id": "rp_013",
+      "sentence": "I feel ___ today — I think I have a cold.",
+      "correct": "bad",
+      "distractors": ["myself", "me", "badly"],
+      "explanation": "После глагола feel не используется возвратное местоимение. Корректно: «I feel bad»."
+    },
+    {
+      "id": "rp_014",
+      "sentence": "Please concentrate ___ on your work.",
+      "correct": "hard",
+      "distractors": ["yourself", "you", "hardly"],
+      "explanation": "Глагол concentrate не требует возвратного местоимения. Корректно: «concentrate hard on your work»."
+    },
+    {
+      "id": "rp_015",
+      "sentence": "After a long day, I like to relax ___.",
+      "correct": "on the sofa",
+      "distractors": ["myself", "me", "by myself"],
+      "explanation": "После глагола relax не используется возвратное местоимение. Корректно: «relax on the sofa»."
+    },
+    {
+      "id": "rp_016",
+      "sentence": "Let's meet ___ at the café at 5 o'clock.",
+      "correct": "there",
+      "distractors": ["ourselves", "us", "ourself"],
+      "explanation": "Глагол meet не требует возвратного местоимения в значении «встретиться». Корректно: «meet there»."
+    },
+    {
+      "id": "rp_017",
+      "sentence": "She feels ___ when she speaks English.",
+      "correct": "confident",
+      "distractors": ["herself", "her", "confidently"],
+      "explanation": "После feel используется прилагательное, а не возвратное местоимение: «feels confident»."
+    },
+    {
+      "id": "rp_018",
+      "sentence": "We need to concentrate ___ before the exam.",
+      "correct": "well",
+      "distractors": ["ourselves", "us", "good"],
+      "explanation": "Глагол concentrate не используется с возвратным местоимением. Корректно: «concentrate well»."
+    },
+    {
+      "id": "rp_019",
+      "sentence": "He taught ___ to play the guitar over the summer.",
+      "correct": "himself",
+      "distractors": ["him", "he", "his"],
+      "explanation": "Подлежащее «He» и дополнение совпадают — используется himself. Не путайте с неправильным употреблением после feel/relax."
+    },
+    {
+      "id": "rp_020",
+      "sentence": "The girls enjoyed ___ at the amusement park.",
+      "correct": "themselves",
+      "distractors": ["them", "their", "herself"],
+      "explanation": "Подлежащее «The girls» — множественное число женского рода, поэтому используется themselves."
+    }
+  ]
+}
