@@ -71,7 +71,14 @@ function TestPage() {
     setIsNewRecord(false);
     import(`../data/tests/${testInfo.questionsFile}.json`)
       .then((mod) => {
-        setQuestions(mod.default);
+        const data = mod.default;
+        if (Array.isArray(data)) {
+          setQuestions(data);
+        } else if (data && Array.isArray(data.questions)) {
+          setQuestions(data.questions);
+        } else {
+          setLoadError(true);
+        }
       })
       .catch(() => {
         setLoadError(true);

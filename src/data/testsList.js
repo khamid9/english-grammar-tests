@@ -180,9 +180,9 @@ const testsList = [
     hasContent: true,
   },
   {
-    id: "passive_voice",
+    id: "passive_active",
     title: "Passive Voice or Active Voice",
-    questionsFile: "passive_voice",
+    questionsFile: "passive_active",
     category: "Voice",
     icon: "arrows",
     questionCount: 100,
