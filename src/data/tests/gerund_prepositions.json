@@ -1,0 +1,142 @@
+[
+  {
+    "id": "gp_001",
+    "sentence": "I'm interested ___ (learn) English.",
+    "correct": "in learning",
+    "distractors": ["in learn", "to learn", "for learning"],
+    "explanation": "После прилагательного 'interested' используется предлог 'in' + герундий (V-ing). Нельзя использовать инфинитив с 'to'."
+  },
+  {
+    "id": "gp_002",
+    "sentence": "She is interested ___ (work) abroad.",
+    "correct": "in working",
+    "distractors": ["in work", "to work", "about working"],
+    "explanation": "Конструкция 'interested in' всегда требует герундий. Инфинитив 'to work' здесь является распространённой ошибкой."
+  },
+  {
+    "id": "gp_003",
+    "sentence": "We are very interested ___ (visit) your country.",
+    "correct": "in visiting",
+    "distractors": ["in visit", "to visit", "on visiting"],
+    "explanation": "После предлога 'in' глагол всегда принимает форму -ing. Предлог 'on' в данном контексте не используется."
+  },
+  {
+    "id": "gp_004",
+    "sentence": "He is good ___ (play) the guitar.",
+    "correct": "at playing",
+    "distractors": ["at play", "in playing", "to play"],
+    "explanation": "После 'good' используется предлог 'at' + герундий. Предлог 'in' или инфинитив с 'to' здесь не подходят."
+  },
+  {
+    "id": "gp_005",
+    "sentence": "My sister is good ___ (cook) Italian food.",
+    "correct": "at cooking",
+    "distractors": ["at cook", "in cooking", "to cook"],
+    "explanation": "Конструкция 'good at' требует после себя существительное или герундий (V-ing), но не инфинитив."
+  },
+  {
+    "id": "gp_006",
+    "sentence": "I'm tired ___ (wait) for the bus every morning.",
+    "correct": "of waiting",
+    "distractors": ["of wait", "from waiting", "to wait"],
+    "explanation": "После 'tired' используется предлог 'of' + герундий. Предлог 'from' и инфинитив здесь ошибочны."
+  },
+  {
+    "id": "gp_007",
+    "sentence": "She is tired ___ (do) the same thing every day.",
+    "correct": "of doing",
+    "distractors": ["of do", "from doing", "to do"],
+    "explanation": "'Tired of' означает 'устал от чего-то' и требует герундий. Инфинитив с 'to' меняет значение."
+  },
+  {
+    "id": "gp_008",
+    "sentence": "I was thinking about ___ (change) my job.",
+    "correct": "changing",
+    "distractors": ["to change", "change", "for changing"],
+    "explanation": "После предлога 'about' глагол принимает форму -ing. Инфинитив с 'to' не используется после предлогов."
+  },
+  {
+    "id": "gp_009",
+    "sentence": "Have you thought about ___ (buy) a new car?",
+    "correct": "buying",
+    "distractors": ["to buy", "buy", "of buying"],
+    "explanation": "Предлог 'about' требует после себя герундий или существительное. Нельзя ставить инфинитив с 'to'."
+  },
+  {
+    "id": "gp_010",
+    "sentence": "I'm looking forward to ___ (see) you next week.",
+    "correct": "seeing",
+    "distractors": ["see", "to see", "for seeing"],
+    "explanation": "В 'look forward to' слово 'to' — это предлог, а не частица инфинитива, поэтому после него используется герундий."
+  },
+  {
+    "id": "gp_011",
+    "sentence": "She is looking forward to ___ (meet) her new neighbours.",
+    "correct": "meeting",
+    "distractors": ["meet", "to meet", "for meeting"],
+    "explanation": "Многие ошибочно думают, что 'to' в 'looking forward to' — это начало инфинитива. На самом деле это предлог, требующий V-ing."
+  },
+  {
+    "id": "gp_012",
+    "sentence": "Instead of ___ (go) to the cinema, we stayed at home.",
+    "correct": "going",
+    "distractors": ["to go", "go", "for going"],
+    "explanation": "'Instead of' — составной предлог, после которого глагол всегда стоит в форме -ing. Инфинитив с 'to' здесь недопустим."
+  },
+  {
+    "id": "gp_013",
+    "sentence": "Instead of ___ (complain), why don't you do something?",
+    "correct": "complaining",
+    "distractors": ["to complain", "complain", "about complaining"],
+    "explanation": "После составного предлога 'instead of' используется только герундий. Это важно запомнить как единое целое."
+  },
+  {
+    "id": "gp_014",
+    "sentence": "In spite of ___ (feel) tired, she finished the marathon.",
+    "correct": "feeling",
+    "distractors": ["to feel", "feel", "of feeling"],
+    "explanation": "'In spite of' — составной предлог, после которого используется герундий (V-ing). Инфинитив здесь ошибочен."
+  },
+  {
+    "id": "gp_015",
+    "sentence": "In spite of ___ (rain), we went for a walk.",
+    "correct": "raining",
+    "distractors": ["to rain", "rain", "for raining"],
+    "explanation": "После 'in spite of' всегда стоит герундий или существительное. Это одна из самых частых ошибок на экзаменах."
+  },
+  {
+    "id": "gp_016",
+    "sentence": "He apologized for ___ (be) late.",
+    "correct": "being",
+    "distractors": ["to be", "be", "in being"],
+    "explanation": "После предлога 'for' глагол принимает форму -ing. 'Apologize for' + герундий — устойчивая конструкция."
+  },
+  {
+    "id": "gp_017",
+    "sentence": "She finally succeeded in ___ (pass) the exam.",
+    "correct": "passing",
+    "distractors": ["to pass", "pass", "on passing"],
+    "explanation": "'Succeed in' требует после себя герундий. Предлог 'in' указывает на сферу успеха, после него нельзя ставить инфинитив."
+  },
+  {
+    "id": "gp_018",
+    "sentence": "I often dream about ___ (travel) around the world.",
+    "correct": "traveling",
+    "distractors": ["to travel", "travel", "for traveling"],
+    "explanation": "После предлога 'about' используется герундий. 'Dream about' + V-ing — стандартная конструкция в английском языке."
+  },
+  {
+    "id": "gp_019",
+    "sentence": "He insisted on ___ (pay) for dinner.",
+    "correct": "paying",
+    "distractors": ["to pay", "pay", "for paying"],
+    "explanation": "'Insist on' требует герундий после предлога 'on'. Инфинитив с 'to' — типичная ошибка русскоязычных студентов."
+  },
+  {
+    "id": "gp_020",
+    "sentence": "I don't feel like ___ (cook) tonight. Let's order pizza.",
+    "correct": "cooking",
+    "distractors": ["to cook", "cook", "for cooking"],
+    "explanation": "'Feel like' означает 'иметь желание' и требует после себя герундий. Инфинитив с 'to' здесь грамматически неверен."
+  }
+]

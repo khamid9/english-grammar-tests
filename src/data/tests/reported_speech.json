@@ -1,0 +1,142 @@
+[
+  {
+    "id": "rs_001",
+    "sentence": "She said, 'I am very happy today.' She said that she ___ (be) very happy.",
+    "correct": "was",
+    "distractors": ["is", "has been", "were"],
+    "explanation": "В косвенной речи Present Simple (am/is/are) заменяется на Past Simple (was/were)."
+  },
+  {
+    "id": "rs_002",
+    "sentence": "He said, 'I will help you.' He said that he ___ (will) help me.",
+    "correct": "would",
+    "distractors": ["will", "should", "could"],
+    "explanation": "В косвенной речи will заменяется на would."
+  },
+  {
+    "id": "rs_003",
+    "sentence": "She said, 'I can speak three languages.' She said that she ___ (can) speak three languages.",
+    "correct": "could",
+    "distractors": ["can", "would", "should"],
+    "explanation": "В косвенной речи can заменяется на could."
+  },
+  {
+    "id": "rs_004",
+    "sentence": "He said, 'I have finished my homework.' He said that he ___ (have) finished his homework.",
+    "correct": "had",
+    "distractors": ["has", "have", "was"],
+    "explanation": "В косвенной речи Present Perfect заменяется на Past Perfect (had + V3)."
+  },
+  {
+    "id": "rs_005",
+    "sentence": "Tom said, 'I don't like coffee.' Tom said that he ___ (don't) like coffee.",
+    "correct": "didn't",
+    "distractors": ["doesn't", "don't", "hasn't"],
+    "explanation": "В косвенной речи отрицательный Present Simple (don't/doesn't) заменяется на Past Simple (didn't)."
+  },
+  {
+    "id": "rs_006",
+    "sentence": "She said, 'I am going to visit my grandmother.' She said that she ___ (be) going to visit her grandmother.",
+    "correct": "was",
+    "distractors": ["is", "has been", "were"],
+    "explanation": "В косвенной речи Present Continuous (am/is/are + V-ing) заменяется на Past Continuous (was/were + V-ing)."
+  },
+  {
+    "id": "rs_007",
+    "sentence": "He said, 'I must finish this project by Friday.' He said that he ___ (must) finish this project by Friday.",
+    "correct": "had to",
+    "distractors": ["must", "has to", "should"],
+    "explanation": "В косвенной речи must заменяется на had to."
+  },
+  {
+    "id": "rs_008",
+    "sentence": "She said, 'I may go to the cinema tomorrow.' She said that she ___ (may) go to the cinema tomorrow.",
+    "correct": "might",
+    "distractors": ["may", "can", "would"],
+    "explanation": "В косвенной речи may заменяется на might."
+  },
+  {
+    "id": "rs_009",
+    "sentence": "She asked me, 'Do you like tea?' She asked me ___ I liked tea.",
+    "correct": "if",
+    "distractors": ["that", "do", "about"],
+    "explanation": "Общий вопрос (Yes/No) в косвенной речи передаётся с помощью if и порядка слов как в утверждении."
+  },
+  {
+    "id": "rs_010",
+    "sentence": "He asked her, 'Are you feeling well?' He asked her ___ she was feeling well.",
+    "correct": "if",
+    "distractors": ["that", "are", "do"],
+    "explanation": "Вопросы с глаголом to be в косвенной речи используют if и утвердительный порядок слов."
+  },
+  {
+    "id": "rs_011",
+    "sentence": "He asked me, 'Where do you live?' He asked me ___ I lived.",
+    "correct": "where",
+    "distractors": ["if", "do", "that"],
+    "explanation": "В косвенной речи wh-вопросы сохраняют вопросительное слово и используют утвердительный порядок слов."
+  },
+  {
+    "id": "rs_012",
+    "sentence": "She asked him, 'What do you do for a living?' She asked him ___ he did for a living.",
+    "correct": "what",
+    "distractors": ["if", "that", "how"],
+    "explanation": "В косвенной речи wh-вопросы используют вопросительное слово и порядок слов как в утверждении."
+  },
+  {
+    "id": "rs_013",
+    "sentence": "They asked me, 'When does the train leave?' They asked me ___ the train left.",
+    "correct": "when",
+    "distractors": ["if", "that", "does"],
+    "explanation": "Вопросы со словом When в косвенной речи: when + утвердительный порядок слов."
+  },
+  {
+    "id": "rs_014",
+    "sentence": "She asked me, 'Can you help me?' She asked me ___ I could help her.",
+    "correct": "if",
+    "distractors": ["that", "can", "do"],
+    "explanation": "Вопросы с модальными глаголами (can, will) в косвенной речи передаются через if или whether."
+  },
+  {
+    "id": "rs_015",
+    "sentence": "'Please sit down,' the teacher said to us. The teacher ___ us to sit down.",
+    "correct": "told",
+    "distractors": ["said", "asked", "wanted"],
+    "explanation": "Приказы в косвенной речи передаются через told + объект + to + инфинитив."
+  },
+  {
+    "id": "rs_016",
+    "sentence": "'Please help me carry these bags,' she said to me. She ___ me to help her carry the bags.",
+    "correct": "asked",
+    "distractors": ["told", "said", "wanted"],
+    "explanation": "Вежливые просьбы в косвенной речи: asked + объект + to + инфинитив."
+  },
+  {
+    "id": "rs_017",
+    "sentence": "'Don't touch that wire!' he said to the children. He ___ the children not to touch that wire.",
+    "correct": "told",
+    "distractors": ["said", "asked", "wanted"],
+    "explanation": "Запреты в косвенной речи: told + объект + not + to + инфинитив."
+  },
+  {
+    "id": "rs_018",
+    "sentence": "'Please don't make so much noise,' she said to us. She ___ us not to make so much noise.",
+    "correct": "asked",
+    "distractors": ["told", "said", "wanted"],
+    "explanation": "Вежливые просьбы об отказе: asked + объект + not + to + инфинитив."
+  },
+  {
+    "id": "rs_019",
+    "sentence": "She said, 'I love my family.' She said that she loved ___ family.",
+    "correct": "her",
+    "distractors": ["my", "his", "the"],
+    "explanation": "В косвенной речи местоимения меняются: my заменяется на her или his, I — на she или he."
+  },
+  {
+    "id": "rs_020",
+    "sentence": "He said, 'I will come here tomorrow.' He said that he would come ___ the next day.",
+    "correct": "there",
+    "distractors": ["here", "where", "home"],
+    "explanation": "В косвенной речи слова места и времени меняются: here — there, tomorrow — the next day, today — that day."
+  }
+]

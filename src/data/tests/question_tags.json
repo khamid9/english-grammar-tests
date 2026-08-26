@@ -1,0 +1,146 @@
+{
+  "topic": "Question Tags",
+  "level": "A2-B1",
+  "questions": [
+    {
+      "id": "qt_001",
+      "sentence": "You speak English, ___?",
+      "correct": "don't you",
+      "distractors": ["aren't you", "doesn't you", "do you"],
+      "explanation": "При утвердительном предложении в Present Simple с подлежащим you используется вспомогательный глагол do в отрицательном теге."
+    },
+    {
+      "id": "qt_002",
+      "sentence": "She likes coffee, ___?",
+      "correct": "doesn't she",
+      "distractors": ["isn't she", "don't she", "does she"],
+      "explanation": "С глаголами в Present Simple (кроме to be) используется does в теге для she/he/it."
+    },
+    {
+      "id": "qt_003",
+      "sentence": "He doesn't live here, ___?",
+      "correct": "does he",
+      "distractors": ["doesn't he", "isn't he", "don't he"],
+      "explanation": "В отрицательном предложении тег должен быть утвердительным — does для he."
+    },
+    {
+      "id": "qt_004",
+      "sentence": "They don't play football, ___?",
+      "correct": "do they",
+      "distractors": ["don't they", "aren't they", "doesn't they"],
+      "explanation": "В отрицательном предложении с don't тег должен быть утвердительным с do."
+    },
+    {
+      "id": "qt_005",
+      "sentence": "He is working hard, ___?",
+      "correct": "isn't he",
+      "distractors": ["is he", "doesn't he", "isn't him"],
+      "explanation": "В Present Continuous используется вспомогательный глагол is в тегах. Местоимение he заменяет him."
+    },
+    {
+      "id": "qt_006",
+      "sentence": "You are joking, ___?",
+      "correct": "aren't you",
+      "distractors": ["are you", "don't you", "isn't you"],
+      "explanation": "С глаголом are в Present Continuous тег образуется с aren't для you."
+    },
+    {
+      "id": "qt_007",
+      "sentence": "She isn't sleeping, ___?",
+      "correct": "is she",
+      "distractors": ["isn't she", "doesn't she", "isn't her"],
+      "explanation": "В отрицательном предложении с isn't тег должен быть утвердительным с is."
+    },
+    {
+      "id": "qt_008",
+      "sentence": "They went home, ___?",
+      "correct": "didn't they",
+      "distractors": ["weren't they", "didn't them", "did they"],
+      "explanation": "В Past Simple с любыми глаголами (кроме was/were) используется did в теге."
+    },
+    {
+      "id": "qt_009",
+      "sentence": "He didn't call you, ___?",
+      "correct": "did he",
+      "distractors": ["didn't he", "doesn't he", "wasn't he"],
+      "explanation": "В отрицательном предложении с didn't тег должен быть утвердительным с did."
+    },
+    {
+      "id": "qt_010",
+      "sentence": "She arrived late, ___?",
+      "correct": "didn't she",
+      "distractors": ["wasn't she", "didn't she", "doesn't she"],
+      "explanation": "С глаголами правильного прошедшего времени используется didn't в отрицательном теге."
+    },
+    {
+      "id": "qt_011",
+      "sentence": "She was cooking dinner, ___?",
+      "correct": "wasn't she",
+      "distractors": ["was she", "didn't she", "weren't she"],
+      "explanation": "В Past Continuous с was используется wasn't в отрицательном теге."
+    },
+    {
+      "id": "qt_012",
+      "sentence": "They weren't listening, ___?",
+      "correct": "were they",
+      "distractors": ["weren't they", "didn't they", "wasn't they"],
+      "explanation": "В отрицательном предложении с weren't тег должен быть утвердительным с were."
+    },
+    {
+      "id": "qt_013",
+      "sentence": "You have finished your homework, ___?",
+      "correct": "haven't you",
+      "distractors": ["don't you", "didn't you", "haven't you"],
+      "explanation": "В Present Perfect используется have/has в теге. С you — haven't."
+    },
+    {
+      "id": "qt_014",
+      "sentence": "He hasn't eaten anything, ___?",
+      "correct": "has he",
+      "distractors": ["hasn't he", "didn't he", "doesn't he"],
+      "explanation": "В отрицательном предложении с hasn't тег должен быть утвердительным с has."
+    },
+    {
+      "id": "qt_015",
+      "sentence": "He will come to the party, ___?",
+      "correct": "won't he",
+      "distractors": ["will he", "isn't he", "won't him"],
+      "explanation": "С модальным глаголом will используется won't в отрицательном теге. Местоимение he заменяет him."
+    },
+    {
+      "id": "qt_016",
+      "sentence": "She won't be late, ___?",
+      "correct": "will she",
+      "distractors": ["won't she", "isn't she", "doesn't she"],
+      "explanation": "В отрицательном предложении с won't тег должен быть утвердительным с will."
+    },
+    {
+      "id": "qt_017",
+      "sentence": "You can swim very well, ___?",
+      "correct": "can't you",
+      "distractors": ["can you", "don't you", "aren't you"],
+      "explanation": "С модальным глаголом can используется can't в отрицательном теге."
+    },
+    {
+      "id": "qt_018",
+      "sentence": "He must study hard, ___?",
+      "correct": "mustn't he",
+      "distractors": ["must he", "doesn't he", "won't he"],
+      "explanation": "С модальным глаголом must используется mustn't в отрицательном теге."
+    },
+    {
+      "id": "qt_019",
+      "sentence": "She shouldn't smoke, ___?",
+      "correct": "should she",
+      "distractors": ["shouldn't she", "doesn't she", "isn't she"],
+      "explanation": "В отрицательном предложении с shouldn't тег должен быть утвердительным с should."
+    },
+    {
+      "id": "qt_020",
+      "sentence": "Nobody knows the answer, ___?",
+      "correct": "do they",
+      "distractors": ["isn't it", "does nobody", "don't nobody"],
+      "explanation": "С неопределёнными местоимениями (nobody, nothing, anybody) тег образуется с do/does и они заменяются на they."
+    }
+  ]
+}

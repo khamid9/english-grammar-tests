@@ -1,5 +1,32 @@
 const testsList = [
   {
+    id: "question_tags",
+    title: "Question Tags",
+    questionsFile: "question_tags",
+    category: "Grammar",
+    icon: "link",
+    questionCount: 20,
+    hasContent: true,
+  },
+  {
+    id: "reported_speech",
+    title: "Reported Speech",
+    questionsFile: "reported_speech",
+    category: "Sentence Structure",
+    icon: "split",
+    questionCount: 20,
+    hasContent: true,
+  },
+  {
+    id: "gerund_prepositions",
+    title: "Prepositions + V-ing (Gerund)",
+    questionsFile: "gerund_prepositions",
+    category: "Grammar",
+    icon: "plus",
+    questionCount: 20,
+    hasContent: true,
+  },
+  {
     id: "pp_ps",
     title: "Present Perfect or Past Simple",
     questionsFile: "pp_ps",

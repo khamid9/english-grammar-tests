@@ -1,5 +1,5 @@
 import { useState, useMemo, useCallback, useEffect } from "react";
-import { useParams, Link } from "react-router-dom";
+import { useParams, Link, useNavigate } from "react-router-dom";
 import testsList from "../data/testsList";
 import ComingSoon from "./ComingSoon";
 
@@ -26,6 +26,7 @@ function saveBestScore(testId, score, total) {
 
 function TestPage() {
   const { testId } = useParams();
+  const navigate = useNavigate();
   const testInfo = testsList.find((t) => t.id === testId);
   const [questions, setQuestions] = useState(null);
   const [loadError, setLoadError] = useState(false);
@@ -104,6 +105,12 @@ function TestPage() {
   const handleRestart = useCallback(() => {
     setRestartKey((k) => k + 1);
   }, []);
+
+  const handleExit = useCallback(() => {
+    if (window.confirm("Your progress will be lost. Exit to menu?")) {
+      navigate("/");
+    }
+  }, [navigate]);
 
   if (!testInfo) {
     return (
@@ -203,7 +210,9 @@ function TestPage() {
   return (
     <div className="test-page">
       <div className="test-header">
-        <Link to="/" className="back-link">&larr; Topics</Link>
+        <button onClick={handleExit} className="back-link back-btn">
+          &larr; Menu
+        </button>
         <h2 className="test-title">{testInfo.title}</h2>
         <div className="progress-text">
           Question {currentIndex + 1} of {totalQuestions}

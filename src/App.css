@@ -203,6 +203,14 @@
   text-decoration: underline;
 }
 
+.back-btn {
+  background: none;
+  border: none;
+  cursor: pointer;
+  font: inherit;
+  padding: 0;
+}
+
 .test-header {
   width: 100%;
   display: flex;
