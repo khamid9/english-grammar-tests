@@ -1,4 +1,4 @@
-import { useState, useMemo, useCallback, useEffect } from "react";
+import { useState, useMemo, useCallback, useEffect, useRef } from "react";
 import { useParams, Link, useNavigate } from "react-router-dom";
 import testsList from "../data/testsList";
 import ComingSoon from "./ComingSoon";
@@ -37,6 +37,8 @@ function TestPage() {
   const [answers, setAnswers] = useState([]);
   const [restartKey, setRestartKey] = useState(0);
   const [isNewRecord, setIsNewRecord] = useState(false);
+  const navigateRef = useRef(navigate);
+  navigateRef.current = navigate;
 
   useEffect(() => {
     if (!testInfo) return;
@@ -46,7 +48,7 @@ function TestPage() {
 
     const handleVisibility = () => {
       if (active && document.hidden) {
-        navigate("/", { replace: true });
+        navigateRef.current("/", { replace: true });
       }
     };
     document.addEventListener("visibilitychange", handleVisibility);
@@ -55,7 +57,7 @@ function TestPage() {
       clearTimeout(timer);
       document.removeEventListener("visibilitychange", handleVisibility);
     };
-  }, [testInfo, navigate]);
+  }, [testInfo]);
 
   useEffect(() => {
     if (!testInfo) return;
