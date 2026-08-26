@@ -41,14 +41,18 @@ function TestPage() {
   useEffect(() => {
     if (!testInfo) return;
 
+    let active = false;
+    const timer = setTimeout(() => { active = true; }, 1000);
+
     const handleVisibility = () => {
-      if (document.hidden) {
+      if (active && document.hidden) {
         navigate("/", { replace: true });
       }
     };
     document.addEventListener("visibilitychange", handleVisibility);
 
     return () => {
+      clearTimeout(timer);
       document.removeEventListener("visibilitychange", handleVisibility);
     };
   }, [testInfo, navigate]);
