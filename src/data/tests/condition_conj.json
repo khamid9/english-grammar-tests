@@ -1,0 +1,142 @@
+[
+  {
+    "id": "cc_001",
+    "sentence": "Take an umbrella ___ it rains later.",
+    "correct": "in case",
+    "distractors": ["unless", "as long as", "even if"],
+    "explanation": "In case = на случай если (precaution). We take an umbrella to be prepared, not because it is likely."
+  },
+  {
+    "id": "cc_002",
+    "sentence": "You won't pass the test ___ you study harder.",
+    "correct": "unless",
+    "distractors": ["in case", "as long as", "provided that"],
+    "explanation": "Unless = if ... not (если не). Без этого условия результат будет отрицательным."
+  },
+  {
+    "id": "cc_003",
+    "sentence": "You can borrow my bike ___ you bring it back by six.",
+    "correct": "as long as",
+    "distractors": ["in case", "unless", "even if"],
+    "explanation": "As long as = при условии что. Указывает на единственное обязательное условие для действия."
+  },
+  {
+    "id": "cc_004",
+    "sentence": "I'll wait here ___ you need help.",
+    "correct": "in case",
+    "distractors": ["unless", "as long as", "so that"],
+    "explanation": "In case = на случай если (precaution). Я заранее采取 меры на случай, если помощь понадобится."
+  },
+  {
+    "id": "cc_005",
+    "sentence": "She won't forgive you ___ you say sorry.",
+    "correct": "unless",
+    "distractors": ["in case", "as long as", "provided that"],
+    "explanation": "Unless = if ... not (если не). Без извинения прощения не будет."
+  },
+  {
+    "id": "cc_006",
+    "sentence": "I always carry a water bottle ___ I get thirsty.",
+    "correct": "in case",
+    "distractors": ["unless", "as long as", "so that"],
+    "explanation": "In case = на случай если (precaution). Беру бутылку заранее, чтобы быть готовым."
+  },
+  {
+    "id": "cc_007",
+    "sentence": "The party will be fun ___ everyone brings a dish.",
+    "correct": "as long as",
+    "distractors": ["in case", "unless", "even if"],
+    "explanation": "As long as = при условии что. Праздник будет весёлым только при выполнении этого условия."
+  },
+  {
+    "id": "cc_008",
+    "sentence": "Don't call me ___ it's really urgent.",
+    "correct": "unless",
+    "distractors": ["in case", "as long as", "provided that"],
+    "explanation": "Unless = if ... not (если не). Не звони, если только дело не срочное."
+  },
+  {
+    "id": "cc_009",
+    "sentence": "I'll bring my camera ___ we see something beautiful.",
+    "correct": "in case",
+    "distractors": ["unless", "as long as", "so that"],
+    "explanation": "In case = на случай если (preaction). Беру камеру про запас, на случай если увидим что-то красивое."
+  },
+  {
+    "id": "cc_010",
+    "sentence": "The door stays locked ___ the manager arrives.",
+    "correct": "unless",
+    "distractors": ["in case", "as long as", "even if"],
+    "explanation": "Unless = if ... not (если не). Дверь остаётся запертой, если только менеджер не приедет."
+  },
+  {
+    "id": "cc_011",
+    "sentence": "You can use my laptop ___ you take good care of it.",
+    "correct": "as long as",
+    "distractors": ["in case", "unless", "provided that"],
+    "explanation": "As long as = при условии что. Разрешаю использовать при одном условии — беречь его."
+  },
+  {
+    "id": "cc_012",
+    "sentence": "I packed extra snacks ___ the children got hungry.",
+    "correct": "in case",
+    "distractors": ["unless", "as long as", "so that"],
+    "explanation": "In case = на случай если (precaution). Взял лишние снеки заранее, на случай голода."
+  },
+  {
+    "id": "cc_013",
+    "sentence": "He won't be allowed in ___ he shows his ticket.",
+    "correct": "unless",
+    "distractors": ["in case", "as long as", "even if"],
+    "explanation": "Unless = if ... not (если не). Без предъявления билета вход запрещён."
+  },
+  {
+    "id": "cc_014",
+    "sentence": "We'll go on a picnic ___ the weather stays nice.",
+    "correct": "as long as",
+    "distractors": ["in case", "unless", "provided that"],
+    "explanation": "As long as = при условии что. Пикник состоится только при хорошей погоде."
+  },
+  {
+    "id": "cc_015",
+    "sentence": "Keep your phone charged ___ you need to make an emergency call.",
+    "correct": "in case",
+    "distractors": ["unless", "as long as", "so that"],
+    "explanation": "In case = на случай если (precaution). Заряжай телефон заранее на случай экстренного звонка."
+  },
+  {
+    "id": "cc_016",
+    "sentence": "Don't leave the house ___ you finish your homework.",
+    "correct": "unless",
+    "distractors": ["in case", "as long as", "even if"],
+    "explanation": "Unless = if ... not (если не). Не выходи из дома, пока не сделаешь домашнее задание."
+  },
+  {
+    "id": "cc_017",
+    "sentence": "You can stay here ___ you follow the house rules.",
+    "correct": "as long as",
+    "distractors": ["in case", "unless", "provided that"],
+    "explanation": "As long as = при условии что. Оставайся, но только при соблюдении правил дома."
+  },
+  {
+    "id": "cc_018",
+    "sentence": "I'll take some cash with me ___ the card machine doesn't work.",
+    "correct": "in case",
+    "distractors": ["unless", "as long as", "so that"],
+    "explanation": "In case = на случай если (precaution). Возьму наличные про запас, на случай поломки терминала."
+  },
+  {
+    "id": "cc_019",
+    "sentence": "The meeting will be cancelled ___ the manager shows up.",
+    "correct": "unless",
+    "distractors": ["in case", "as long as", "even if"],
+    "explanation": "Unless = if ... not (если не). Встреча отменяется, если только менеджер не явится."
+  },
+  {
+    "id": "cc_020",
+    "sentence": "The recipe works perfectly ___ you follow every step.",
+    "correct": "as long as",
+    "distractors": ["in case", "unless", "provided that"],
+    "explanation": "As long as = при условии что. Рецепт сработает идеально только при строгом следовании инструкции."
+  }
+]

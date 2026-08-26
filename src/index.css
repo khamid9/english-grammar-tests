@@ -1,0 +1,53 @@
+@import url("https://fonts.googleapis.com/css2?family=Manrope:wght@500;600;700;800&family=Inter:wght@400;500;600&display=swap");
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+:root {
+  --bg: #f7f6f2;
+  --surface: #ffffff;
+  --ink: #1b1f3b;
+  --ink-muted: rgba(27, 31, 59, 0.55);
+  --accent: #e8a33d;
+  --accent-secondary: #2f6f6e;
+  --border: rgba(27, 31, 59, 0.08);
+  --radius: 16px;
+  --shadow-card: 0 1px 3px rgba(27, 31, 59, 0.06);
+  --shadow-card-hover: 0 8px 24px rgba(27, 31, 59, 0.12);
+  --font-heading: "Manrope", system-ui, sans-serif;
+  --font-body: "Inter", system-ui, sans-serif;
+  --grid-gap: 24px;
+
+  font-family: var(--font-body);
+  font-size: 16px;
+  line-height: 1.5;
+  color: var(--ink);
+  background: var(--bg);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  min-height: 100svh;
+}
+
+#root {
+  min-height: 100svh;
+  display: flex;
+  flex-direction: column;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+button {
+  font: inherit;
+  cursor: pointer;
+}

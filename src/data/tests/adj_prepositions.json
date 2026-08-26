@@ -1,0 +1,142 @@
+[
+  {
+    "id": "ap_001",
+    "sentence": "She is very interested ___ learning new languages.",
+    "correct": "in",
+    "distractors": ["at", "on", "for"],
+    "explanation": "Interested IN — прилагательное interested требует предлог in. Интерес к чему-то → interested in something."
+  },
+  {
+    "id": "ap_002",
+    "sentence": "My brother is good ___ fixing things around the house.",
+    "correct": "at",
+    "distractors": ["in", "on", "for"],
+    "explanation": "Good AT — прилагательное good требует предлог at, когда речь о навыке или умении."
+  },
+  {
+    "id": "ap_003",
+    "sentence": "The little boy is afraid ___ the dark.",
+    "correct": "of",
+    "distractors": ["about", "from", "with"],
+    "explanation": "Afraid OF — прилагательное afraid требует предлог of. Страх перед чем-то → afraid of something."
+  },
+  {
+    "id": "ap_004",
+    "sentence": "I'm sorry ___ breaking your vase.",
+    "correct": "for",
+    "distractors": ["about", "of", "with"],
+    "explanation": "Sorry FOR + V-ing — извинение за конкретное действие. Sorry about используется с существительным."
+  },
+  {
+    "id": "ap_005",
+    "sentence": "He is tired ___ eating the same food every day.",
+    "correct": "of",
+    "distractors": ["from", "about", "with"],
+    "explanation": "Tired OF — усталость от чего-то (монотонность). Tired from — усталость от физического усилия."
+  },
+  {
+    "id": "ap_006",
+    "sentence": "Her ideas are very different ___ mine.",
+    "correct": "from",
+    "distractors": ["than", "to", "with"],
+    "explanation": "Different FROM — в английском языке правильный предлог для different — это from."
+  },
+  {
+    "id": "ap_007",
+    "sentence": "This painting is similar ___ the one in the museum.",
+    "correct": "to",
+    "distractors": ["with", "as", "like"],
+    "explanation": "Similar TO — прилагательное similar требует предлог to для указания на объект сравнения."
+  },
+  {
+    "id": "ap_008",
+    "sentence": "Paris is famous ___ its beautiful architecture.",
+    "correct": "for",
+    "distractors": ["about", "as", "with"],
+    "explanation": "Famous FOR — слава из-за чего-то. Famous as — слава как (в качестве кого-то)."
+  },
+  {
+    "id": "ap_009",
+    "sentence": "We are proud ___ our school football team.",
+    "correct": "of",
+    "distractors": ["about", "for", "with"],
+    "explanation": "Proud OF — гордость за кого-то/что-то. Наша команда → proud of our team."
+  },
+  {
+    "id": "ap_010",
+    "sentence": "She was angry ___ her friend for telling a secret.",
+    "correct": "with",
+    "distractors": ["at", "on", "about"],
+    "explanation": "Angry WITH — злость на конкретного человека. Angry ABOUT — злость по поводу ситуации."
+  },
+  {
+    "id": "ap_011",
+    "sentence": "Who is responsible ___ organizing the office party?",
+    "correct": "for",
+    "distractors": ["of", "about", "with"],
+    "explanation": "Responsible FOR — ответственность за что-то. Responsible to — ответственность перед кем-то."
+  },
+  {
+    "id": "ap_012",
+    "sentence": "He is very keen ___ playing the guitar.",
+    "correct": "on",
+    "distractors": ["at", "about", "for"],
+    "explanation": "Keen ON — прилагательное keen требует предлог on. Сильный интерес к чему-то."
+  },
+  {
+    "id": "ap_013",
+    "sentence": "Are you aware ___ the changes to the schedule?",
+    "correct": "of",
+    "distractors": ["about", "for", "with"],
+    "explanation": "Aware OF — осведомлённость о чём-то. Aware about тоже встречается, но of более стандартно."
+  },
+  {
+    "id": "ap_014",
+    "sentence": "The students are bored ___ doing the same exercise again.",
+    "correct": "with",
+    "distractors": ["of", "about", "from"],
+    "explanation": "Bored WITH — скука от чего-то конкретного. Bored of тоже используется в разговорном английском."
+  },
+  {
+    "id": "ap_015",
+    "sentence": "I'm satisfied ___ the service at this restaurant.",
+    "correct": "with",
+    "distractors": ["about", "of", "for"],
+    "explanation": "Satisfied WITH — удовлетворение чем-то. Satisfaction with something."
+  },
+  {
+    "id": "ap_016",
+    "sentence": "She was surprised ___ how quickly the project was finished.",
+    "correct": "at",
+    "distractors": ["by", "of", "about"],
+    "explanation": "Surprised AT — удивление чем-то конкретным. Surprised BY — удивление чем-то, что вызвало реакцию."
+  },
+  {
+    "id": "ap_017",
+    "sentence": "Mum is worried ___ your late nights.",
+    "correct": "about",
+    "distractors": ["of", "for", "with"],
+    "explanation": "Worried ABOUT — беспокойство по поводу чего-то. Worried about — самый распространённый предлог."
+  },
+  {
+    "id": "ap_018",
+    "sentence": "She is fond ___ her grandmother's old recipes.",
+    "correct": "of",
+    "distractors": ["about", "for", "with"],
+    "explanation": "Fond OF — прилагательное fond требует предлог of. Привязанность к чему-то."
+  },
+  {
+    "id": "ap_019",
+    "sentence": "He is capable ___ solving difficult problems.",
+    "correct": "of",
+    "distractors": ["about", "in", "for"],
+    "explanation": "Capable OF — способность что-то сделать. Capable of + V-ing."
+  },
+  {
+    "id": "ap_020",
+    "sentence": "I'm sorry ___ what I said yesterday.",
+    "correct": "about",
+    "distractors": ["for", "of", "with"],
+    "explanation": "Sorry ABOUT — сожаление о чём-то (ситуации/словSorry FOR — сожаление за действие (V-ing или noun)."
+  }
+]

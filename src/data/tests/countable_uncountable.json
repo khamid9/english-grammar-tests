@@ -1,0 +1,142 @@
+[
+  {
+    "id": "cu_001",
+    "sentence": "There are ___ books on the shelf in my bedroom.",
+    "correct": "many",
+    "distractors": ["much", "a little", "little"],
+    "explanation": "Many используется с исчисляемыми существительными во множественном числе: \"many books\"."
+  },
+  {
+    "id": "cu_002",
+    "sentence": "I don't have ___ time to finish this project.",
+    "correct": "much",
+    "distractors": ["many", "a few", "few"],
+    "explanation": "Much используется с неисчисляемыми существительными: \"much time\"."
+  },
+  {
+    "id": "cu_003",
+    "sentence": "We need to buy ___ new chairs for the kitchen.",
+    "correct": "a few",
+    "distractors": ["a little", "much", "little"],
+    "explanation": "A few используется с исчисляемыми существительными и означает небольшое количество: \"a few chairs\"."
+  },
+  {
+    "id": "cu_004",
+    "sentence": "There is ___ sugar in my coffee, please.",
+    "correct": "a little",
+    "distractors": ["a few", "many", "few"],
+    "explanation": "A little используется с неисчисляемыми существительными и означает небольшое количество: \"a little sugar\"."
+  },
+  {
+    "id": "cu_005",
+    "sentence": "She has ___ friends at her new school.",
+    "correct": "several",
+    "distractors": ["several", "much", "a little", "little"],
+    "explanation": "Several используется с исчисляемыми существительными и означает несколько: \"several friends\"."
+  },
+  {
+    "id": "cu_006",
+    "sentence": "How ___ water do you drink every day?",
+    "correct": "much",
+    "distractors": ["many", "few", "a few"],
+    "explanation": "Much используется в вопросах с неисчисляемыми существительными: \"How much water\"."
+  },
+  {
+    "id": "cu_007",
+    "sentence": "There aren't ___ restaurants in this small town.",
+    "correct": "many",
+    "distractors": ["much", "little", "a little"],
+    "explanation": "Many используется с исчисляемыми существительными во множественном числе: \"many restaurants\"."
+  },
+  {
+    "id": "cu_008",
+    "sentence": "I need ___ piece of advice about my homework.",
+    "correct": "a",
+    "distractors": ["a few", "much", "many"],
+    "explanation": "Неисчисляемое существительное \"advice\" можно сделать исчисляемым с помощью конструкции \"a piece of\"."
+  },
+  {
+    "id": "cu_009",
+    "sentence": "There are ___ eggs left in the refrigerator.",
+    "correct": "a few",
+    "distractors": ["a little", "much", "little"],
+    "explanation": "A few используется с исчисляемыми существительными: \"a few eggs\"."
+  },
+  {
+    "id": "cu_010",
+    "sentence": "She doesn't have ___ money to buy a new phone.",
+    "correct": "much",
+    "distractors": ["many", "few", "a few"],
+    "explanation": "Much используется с неисчисляемыми существительными: \"much money\"."
+  },
+  {
+    "id": "cu_011",
+    "sentence": "How ___ students are in your English class?",
+    "correct": "many",
+    "distractors": ["much", "little", "a little"],
+    "explanation": "Many используется в вопросах с исчисляемыми существительными: \"How many students\"."
+  },
+  {
+    "id": "cu_012",
+    "sentence": "There is ___ bread on the table for breakfast.",
+    "correct": "some",
+    "distractors": ["any", "many", "few"],
+    "explanation": "Some используется в утвердительных предложениях как с исчисляемыми, так и с неисчисляемыми существительными: \"some bread\"."
+  },
+  {
+    "id": "cu_013",
+    "sentence": "Do you have ___ questions about the lesson?",
+    "correct": "any",
+    "distractors": ["some", "much", "a little"],
+    "explanation": "Any используется в вопросах с исчисляемыми существительными: \"any questions\"."
+  },
+  {
+    "id": "cu_014",
+    "sentence": "We bought ___ new paintings for the office walls.",
+    "correct": "several",
+    "distractors": ["several", "much", "a little", "little"],
+    "explanation": "Several используется с исчисляемыми существительными и означает несколько: \"several paintings\"."
+  },
+  {
+    "id": "cu_015",
+    "sentence": "There is ___ milk in the carton — enough for cereal.",
+    "correct": "a little",
+    "distractors": ["a few", "many", "few"],
+    "explanation": "A little используется с неисчисляемыми существительными и означает небольшое количество: \"a little milk\"."
+  },
+  {
+    "id": "cu_016",
+    "sentence": "She has ___ experience working with children.",
+    "correct": "much",
+    "distractors": ["many", "few", "a few"],
+    "explanation": "Much используется с неисчисляемыми существительными: \"much experience\"."
+  },
+  {
+    "id": "cu_017",
+    "sentence": "There are ___ apples in the fruit basket.",
+    "correct": "a few",
+    "distractors": ["a little", "much", "little"],
+    "explanation": "A few используется с исчисляемыми существительными: \"a few apples\"."
+  },
+  {
+    "id": "cu_018",
+    "sentence": "I don't have ___ information about the meeting.",
+    "correct": "much",
+    "distractors": ["many", "few", "a few"],
+    "explanation": "Much используется с неисчисляемыми существительными: \"much information\"."
+  },
+  {
+    "id": "cu_019",
+    "sentence": "Would you like ___ coffee with your cake?",
+    "correct": "some",
+    "distractors": ["any", "many", "much"],
+    "explanation": "Some используется в предложениях с предложениями и предложениях, где ожидается положительный ответ: \"some coffee\"."
+  },
+  {
+    "id": "cu_020",
+    "sentence": "There is ___ hope that the weather will improve tomorrow.",
+    "correct": "some",
+    "distractors": ["any", "many", "few"],
+    "explanation": "Some используется в утвердительных предложениях с неисчисляемыми существительными: \"some hope\"."
+  }
+]

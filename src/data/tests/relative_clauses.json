@@ -1,0 +1,142 @@
+[
+  {
+    "id": "rc_001",
+    "sentence": "The woman ___ lives next door is a doctor.",
+    "correct": "who",
+    "distractors": ["which", "whose", "where"],
+    "explanation": "Who используется для людей: \"the woman who lives\"."
+  },
+  {
+    "id": "rc_002",
+    "sentence": "I bought a laptop ___ has a very fast processor.",
+    "correct": "which",
+    "distractors": ["who", "whose", "where"],
+    "explanation": "Which используется для вещей и животных: \"a laptop which has\"."
+  },
+  {
+    "id": "rc_003",
+    "sentence": "The teacher ___ car is parked outside is on holiday.",
+    "correct": "whose",
+    "distractors": ["who", "which", "where"],
+    "explanation": "Whose используется для выражения принадлежности: \"the teacher whose car\"."
+  },
+  {
+    "id": "rc_004",
+    "sentence": "This is the cafe ___ we had our first date.",
+    "correct": "where",
+    "distractors": ["which", "who", "whose"],
+    "explanation": "Where используется для обозначения места: \"the cafe where we had\"."
+  },
+  {
+    "id": "rc_005",
+    "sentence": "The man ___ called you this morning is my boss.",
+    "correct": "who",
+    "distractors": ["which", "whose", "where"],
+    "explanation": "Who используется для людей: \"the man who called\"."
+  },
+  {
+    "id": "rc_006",
+    "sentence": "She showed me the photo ___ was taken on holiday.",
+    "correct": "which",
+    "distractors": ["who", "whose", "where"],
+    "explanation": "Which используется для вещей: \"the photo which was taken\"."
+  },
+  {
+    "id": "rc_007",
+    "sentence": "The student ___ phone rang during the exam was embarrassed.",
+    "correct": "whose",
+    "distractors": ["who", "which", "where"],
+    "explanation": "Whose используется для выражения принадлежности: \"the student whose phone\"."
+  },
+  {
+    "id": "rc_008",
+    "sentence": "I like the city ___ I was born in.",
+    "correct": "where",
+    "distractors": ["which", "who", "whose"],
+    "explanation": "Where используется для обозначения места: \"the city where I was born\"."
+  },
+  {
+    "id": "rc_009",
+    "sentence": "The people ___ live on my street are very friendly.",
+    "correct": "who",
+    "distractors": ["which", "whose", "where"],
+    "explanation": "Who используется для людей: \"the people who live\"."
+  },
+  {
+    "id": "rc_010",
+    "sentence": "This is the book ___ I told you about.",
+    "correct": "that",
+    "distractors": ["who", "whose", "where"],
+    "explanation": "That используется для вещей и людей, особенно после предлогов: \"the book that I told you about\"."
+  },
+  {
+    "id": "rc_011",
+    "sentence": "The restaurant ___ we ate at last night was expensive.",
+    "correct": "that",
+    "distractors": ["who", "whose", "where"],
+    "explanation": "That используется для вещей после предлогов: \"the restaurant that we ate at\"."
+  },
+  {
+    "id": "rc_012",
+    "sentence": "The girl ___ father is a pilot wants to travel the world.",
+    "correct": "whose",
+    "distractors": ["who", "which", "where"],
+    "explanation": "Whose используется для выражения принадлежности: \"the girl whose father\"."
+  },
+  {
+    "id": "rc_013",
+    "sentence": "The office ___ I work in has large windows.",
+    "correct": "that",
+    "distractors": ["who", "whose", "where"],
+    "explanation": "That используется для вещей после предлогов: \"the office that I work in\"."
+  },
+  {
+    "id": "rc_014",
+    "sentence": "The film ___ we watched yesterday was really funny.",
+    "correct": "that",
+    "distractors": ["who", "whose", "where"],
+    "explanation": "That используется для вещей: \"the film that we watched\"."
+  },
+  {
+    "id": "rc_015",
+    "sentence": "He is the only person ___ I trust completely.",
+    "correct": "that",
+    "distractors": ["who", "which", "whose"],
+    "explanation": "That используется для людей после слов \"the only\" или \"all\": \"the only person that I trust\"."
+  },
+  {
+    "id": "rc_016",
+    "sentence": "The chair ___ you are sitting on is broken.",
+    "correct": "that",
+    "distractors": ["who", "whose", "where"],
+    "explanation": "That используется для вещей после предлогов: \"the chair that you are sitting on\"."
+  },
+  {
+    "id": "rc_017",
+    "sentence": "My grandmother, ___ is 80 years old, still goes for walks.",
+    "correct": "who",
+    "distractors": ["which", "that", "whose"],
+    "explanation": "Who используется для людей в неопределяющем придаточном предложении: \"my grandmother, who is 80\"."
+  },
+  {
+    "id": "rc_018",
+    "sentence": "The museum ___ we visited had ancient Egyptian art.",
+    "correct": "that",
+    "distractors": ["who", "whose", "where"],
+    "explanation": "That используется для вещей: \"the museum that we visited\"."
+  },
+  {
+    "id": "rc_019",
+    "sentence": "The boy ___ bike was stolen reported it to the police.",
+    "correct": "whose",
+    "distractors": ["who", "which", "where"],
+    "explanation": "Whose используется для выражения принадлежности: \"the boy whose bike\"."
+  },
+  {
+    "id": "rc_020",
+    "sentence": "This is the park ___ my children play every afternoon.",
+    "correct": "where",
+    "distractors": ["which", "who", "whose"],
+    "explanation": "Where используется для обозначения места: \"the park where my children play\"."
+  }
+]

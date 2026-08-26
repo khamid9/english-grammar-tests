@@ -1,0 +1,142 @@
+[
+  {
+    "id": "fps_001",
+    "sentence": "By the time you arrive, I ___ (cook) dinner for everyone.",
+    "correct": "will have cooked",
+    "distractors": ["will cook", "am cooking", "have cooked"],
+    "explanation": "Future Perfect: will have + V3 используется для действия, которое завершится к определённому моменту в будущем (by the time you arrive)."
+  },
+  {
+    "id": "fps_002",
+    "sentence": "I think it ___ (rain) tomorrow morning.",
+    "correct": "will rain",
+    "distractors": ["will have rained", "rains", "is going to rain"],
+    "explanation": "Future Simple: will + V1 используется для предсказаний и предположений о будущем, особенно после I think."
+  },
+  {
+    "id": "fps_003",
+    "sentence": "She ___ (finish) her homework before the teacher collects it.",
+    "correct": "will have finished",
+    "distractors": ["will finish", "finishes", "finished"],
+    "explanation": "Future Perfect: will have + V3 указывает на действие, которое будет завершено до другого будущего события (before the teacher collects it)."
+  },
+  {
+    "id": "fps_004",
+    "sentence": "We ___ (move) to a new apartment next month.",
+    "correct": "are going to move",
+    "distractors": ["will have moved", "have moved", "moved"],
+    "explanation": "Be going to используется для запланированных действий и намерений в близком будущем."
+  },
+  {
+    "id": "fps_005",
+    "sentence": "By next year, they ___ (save) enough money for a holiday.",
+    "correct": "will have saved",
+    "distractors": ["will save", "save", "are saving"],
+    "explanation": "Future Perfect: will have + V3 описывает результат, который будет достигнут к определённому моменту в будущем (by next year)."
+  },
+  {
+    "id": "fps_006",
+    "sentence": "The train ___ (leave) at 6:30, so we need to hurry.",
+    "correct": "leaves",
+    "distractors": ["will have left", "has left", "is leaving"],
+    "explanation": "Present Simple используется для расписаний и фиксированного времени (расписание поездов, самолётов и т.д.)."
+  },
+  {
+    "id": "fps_007",
+    "sentence": "By the time the doctor sees you, you ___ (wait) for over an hour.",
+    "correct": "will have waited",
+    "distractors": ["will wait", "wait", "are waiting"],
+    "explanation": "Future Perfect: will have + V3 показывает длительность действия к моменту в будущем (by the time the doctor sees you)."
+  },
+  {
+    "id": "fps_008",
+    "sentence": "Don't call me after 9 PM because I ___ (go) to bed.",
+    "correct": "will have gone",
+    "distractors": ["will go", "go", "am going"],
+    "explanation": "Future Perfect: will have + V3 означает, что действие будет завершено к указанному моменту (после 9 PM я уже лягу спать)."
+  },
+  {
+    "id": "fps_009",
+    "sentence": "The concert ___ (start) at 8 o'clock sharp.",
+    "correct": "starts",
+    "distractors": ["will have started", "has started", "is starting"],
+    "explanation": "Present Simple используется для расписаний и фиксированных событий — концерт начинается в 8 ровно."
+  },
+  {
+    "id": "fps_010",
+    "sentence": "I ___ (read) this book by the weekend.",
+    "correct": "will have read",
+    "distractors": ["will read", "read", "am reading"],
+    "explanation": "Future Perfect: will have + V3 указывает на завершение действия к определённому сроку (by the weekend)."
+  },
+  {
+    "id": "fps_011",
+    "sentence": "She ___ (travel) to five countries by the end of this year.",
+    "correct": "will have travelled",
+    "distractors": ["will travel", "travels", "is travelling"],
+    "explanation": "Future Perfect: will have + V3 используется для подсчёта результатов, достигнутых к определённому моменту в будущем."
+  },
+  {
+    "id": "fps_012",
+    "sentence": "He ___ (call) you later this evening.",
+    "correct": "will call",
+    "distractors": ["will have called", "calls", "has called"],
+    "explanation": "Future Simple: will + V1 используется для простых предсказаний о будущем без акцента на завершённости."
+  },
+  {
+    "id": "fps_013",
+    "sentence": "By the time we get to the airport, the plane ___ (take off).",
+    "correct": "will have taken off",
+    "distractors": ["will take off", "takes off", "is taking off"],
+    "explanation": "Future Perfect: will have + V3 описывает действие, которое завершится до другого будущего события (by the time we get to the airport)."
+  },
+  {
+    "id": "fps_014",
+    "sentence": "The shop ___ (close) at 9 PM tonight.",
+    "correct": "closes",
+    "distractors": ["will have closed", "has closed", "is closing"],
+    "explanation": "Present Simple используется для фиксированного расписания — магазин закрывается в 9 вечера."
+  },
+  {
+    "id": "fps_015",
+    "sentence": "By next month, she ___ (work) here for ten years.",
+    "correct": "will have worked",
+    "distractors": ["will work", "works", "is working"],
+    "explanation": "Future Perfect: will have + V3 используется для выражения длительности действия к определённому моменту в будущем."
+  },
+  {
+    "id": "fps_016",
+    "sentence": "I ___ (help) you with your bags when we arrive.",
+    "correct": "will help",
+    "distractors": ["will have helped", "help", "am helping"],
+    "explanation": "Future Simple: will + V1 используется для обещаний и предложений о помощи в будущем."
+  },
+  {
+    "id": "fps_017",
+    "sentence": "By tomorrow evening, they ___ (build) the new bridge.",
+    "correct": "will have built",
+    "distractors": ["will build", "build", "are building"],
+    "explanation": "Future Perfect: will have + V3 указывает на результат, который будет достигнут к определённому моменту (by tomorrow evening)."
+  },
+  {
+    "id": "fps_018",
+    "sentence": "We ___ (have) a meeting this Friday afternoon.",
+    "correct": "are having",
+    "distractors": ["will have had", "have had", "had"],
+    "explanation": "Present Continuous (am/are + V-ing) используется для запланированных событий в ближайшем будущем."
+  },
+  {
+    "id": "fps_019",
+    "sentence": "Before you wake up, I ___ (leave) for the airport.",
+    "correct": "will have left",
+    "distractors": ["will leave", "leave", "am leaving"],
+    "explanation": "Future Perfect: will have + V3 означает, что действие завершится до указанного момента (before you wake up)."
+  },
+  {
+    "id": "fps_020",
+    "sentence": "The sun ___ (rise) at 6:15 tomorrow.",
+    "correct": "will rise",
+    "distractors": ["will have risen", "rises", "has risen"],
+    "explanation": "Future Simple: will + V1 используется для предсказаний о природных явлениях и объективных фактах в будущем."
+  }
+]

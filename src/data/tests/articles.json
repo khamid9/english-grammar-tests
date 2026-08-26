@@ -1,0 +1,142 @@
+[
+  {
+    "id": "ar_001",
+    "sentence": "I need to buy ___ umbrella because it's raining outside.",
+    "correct": "an",
+    "distractors": ["a", "the", "—"],
+    "explanation": "Артикль \"an\" используется перед словами, начинающимися на гласный звук: \"an umbrella\"."
+  },
+  {
+    "id": "ar_002",
+    "sentence": "___ sun rises in the east and sets in the west.",
+    "correct": "The",
+    "distractors": ["A", "An", "—"],
+    "explanation": "Артикль \"the\" используется перед уникальными, единственными в своём роде предметами: \"the sun\"."
+  },
+  {
+    "id": "ar_003",
+    "sentence": "She works as ___ accountant at a big company.",
+    "correct": "an",
+    "distractors": ["a", "the", "—"],
+    "explanation": "Артикль \"an\" используется перед словами, начинающимися на гласный звук: \"an accountant\"."
+  },
+  {
+    "id": "ar_004",
+    "sentence": "Can you pass me ___ salt, please?",
+    "correct": "the",
+    "distractors": ["a", "an", "—"],
+    "explanation": "Артикль \"the\" используется перед конкретными, известными собеседнику предметами: \"the salt\" на столе."
+  },
+  {
+    "id": "ar_005",
+    "sentence": "We had ___ delicious dinner at the Italian restaurant.",
+    "correct": "a",
+    "distractors": ["an", "the", "—"],
+    "explanation": "Артикль \"a\" используется перед словами на согласный звук при первом упоминании: \"a delicious dinner\"."
+  },
+  {
+    "id": "ar_006",
+    "sentence": "___ water in this bottle tastes strange.",
+    "correct": "The",
+    "distractors": ["A", "An", "—"],
+    "explanation": "Артикль \"the\" используется перед определёнными, конкретными предметами: \"the water in this bottle\"."
+  },
+  {
+    "id": "ar_007",
+    "sentence": "He is ___ honest man who always tells the truth.",
+    "correct": "an",
+    "distractors": ["a", "the", "—"],
+    "explanation": "Артикль \"an\" используется перед словами на гласный звук: в слове \"honest\" буква \"h\" не читается, поэтому звук гласный."
+  },
+  {
+    "id": "ar_008",
+    "sentence": "I want to learn to play ___ guitar.",
+    "correct": "the",
+    "distractors": ["a", "an", "—"],
+    "explanation": "Артикль \"the\" используется с названиями музыкальных инструментов: \"play the guitar\"."
+  },
+  {
+    "id": "ar_009",
+    "sentence": "There is ___ cat sitting on the roof.",
+    "correct": "a",
+    "distractors": ["an", "the", "—"],
+    "explanation": "Артикль \"a\" используется при первом упоминании неопределённого предмета: \"a cat\"."
+  },
+  {
+    "id": "ar_010",
+    "sentence": "___ milk in the fridge has gone bad.",
+    "correct": "The",
+    "distractors": ["A", "An", "—"],
+    "explanation": "Артикль \"the\" используется перед определёнными предметами: \"the milk in the fridge\"."
+  },
+  {
+    "id": "ar_011",
+    "sentence": "She wants to become ___ engineer when she grows up.",
+    "correct": "an",
+    "distractors": ["a", "the", "—"],
+    "explanation": "Артикль \"an\" используется перед словами, начинающимися на гласный звук: \"an engineer\"."
+  },
+  {
+    "id": "ar_012",
+    "sentence": "We need to buy ___ new furniture for the living room.",
+    "correct": "—",
+    "distractors": ["a", "an", "the"],
+    "explanation": "Неисчисляемое существительное \"furniture\" не используется с неопределённым артиклем \"a/an\"."
+  },
+  {
+    "id": "ar_013",
+    "sentence": "I saw ___ interesting movie last night on TV.",
+    "correct": "an",
+    "distractors": ["a", "the", "—"],
+    "explanation": "Артикль \"an\" используется перед словами, начинающимися на гласный звук: \"an interesting\"."
+  },
+  {
+    "id": "ar_014",
+    "sentence": "___ book you lent me was really boring.",
+    "correct": "The",
+    "distractors": ["A", "An", "—"],
+    "explanation": "Артикль \"the\" используется перед конкретными, известными собеседнику предметами: \"the book you lent me\"."
+  },
+  {
+    "id": "ar_015",
+    "sentence": "She doesn't drink ___ coffee in the morning.",
+    "correct": "—",
+    "distractors": ["a", "an", "the"],
+    "explanation": "Неисчисляемое существительное \"coffee\" в общем значении не требует артикля."
+  },
+  {
+    "id": "ar_016",
+    "sentence": "There is ___ airport near our house.",
+    "correct": "an",
+    "distractors": ["a", "the", "—"],
+    "explanation": "Артикль \"an\" используется перед словами, начинающимися на гласный звук: \"an airport\"."
+  },
+  {
+    "id": "ar_017",
+    "sentence": "We took ___ taxi to the train station.",
+    "correct": "a",
+    "distractors": ["an", "the", "—"],
+    "explanation": "Артикль \"a\" используется при первом упоминании неопределённого предмета на согласный звук: \"a taxi\"."
+  },
+  {
+    "id": "ar_018",
+    "sentence": "___ homework is due tomorrow morning.",
+    "correct": "—",
+    "distractors": ["A", "An", "The"],
+    "explanation": "Неисчисляемое существительное \"homework\" в общем значении не требует определённого артикля \"the\"."
+  },
+  {
+    "id": "ar_019",
+    "sentence": "I live in ___ small village near the mountains.",
+    "correct": "a",
+    "distractors": ["an", "the", "—"],
+    "explanation": "Артикль \"a\" используется при первом упоминании неопределённого места: \"a small village\"."
+  },
+  {
+    "id": "ar_020",
+    "sentence": "She plays ___ piano every evening after work.",
+    "correct": "the",
+    "distractors": ["a", "an", "—"],
+    "explanation": "Артикль \"the\" используется с названиями музыкальных инструментов: \"play the piano\"."
+  }
+]

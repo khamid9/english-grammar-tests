@@ -1,0 +1,142 @@
+[
+  {
+    "id": "cs_001",
+    "sentence": "If it ___ (rain) tomorrow, we will have the picnic indoors.",
+    "correct": "rains",
+    "distractors": ["will rain", "rained", "would rain"],
+    "explanation": "First Conditional: if + Present Simple, will + V1. Используется для реальных ситуаций в будущем, которые вполне вероятны."
+  },
+  {
+    "id": "cs_002",
+    "sentence": "If I ___ (have) more money, I would buy a bigger apartment.",
+    "correct": "had",
+    "distractors": ["have", "would have", "had had"],
+    "explanation": "Second Conditional: if + Past Simple, would + V1. Используется для гипотетических или нереальных ситуаций в настоящем."
+  },
+  {
+    "id": "cs_003",
+    "sentence": "If she ___ (study) harder, she would have passed the exam.",
+    "correct": "had studied",
+    "distractors": ["studied", "would study", "studies"],
+    "explanation": "Third Conditional: if + Past Perfect, would have + V3. Используется для нереальных ситуаций в прошлом — сожаления о том, что не произошло."
+  },
+  {
+    "id": "cs_004",
+    "sentence": "If you heat water to 100°C, it ___ (boil).",
+    "correct": "boils",
+    "distractors": ["will boil", "boiled", "would boil"],
+    "explanation": "Zero Conditional: if + Present Simple, Present Simple. Используется для научных фактов и общих истин."
+  },
+  {
+    "id": "cs_005",
+    "sentence": "If I were you, I ___ (accept) the job offer.",
+    "correct": "would accept",
+    "distractors": ["will accept", "accepted", "accept"],
+    "explanation": "Second Conditional с конструкцией if I were you используется для советов — если бы я был на твоём месте, я бы принял предложение."
+  },
+  {
+    "id": "cs_006",
+    "sentence": "If they ___ (leave) earlier, they wouldn't have missed the train.",
+    "correct": "had left",
+    "distractors": ["left", "would leave", "leave"],
+    "explanation": "Third Conditional: if + Past Perfect, would have + V3. Описывает нереальное прошлое — если бы они уехали раньше, они бы не опоздали на поезд."
+  },
+  {
+    "id": "cs_007",
+    "sentence": "If I see her, I ___ (tell) her you called.",
+    "correct": "will tell",
+    "distractors": ["would tell", "told", "would have told"],
+    "explanation": "First Conditional: if + Present Simple, will + V1. Реальная ситуация в будущем — если я её увижу, я передам привет."
+  },
+  {
+    "id": "cs_008",
+    "sentence": "If I ___ (be) taller, I would play basketball.",
+    "correct": "were",
+    "distractors": ["am", "was", "had been"],
+    "explanation": "Second Conditional: if + Past Simple (were для всех лиц), would + V1. Нереальная гипотетическая ситуация в настоящем."
+  },
+  {
+    "id": "cs_009",
+    "sentence": "If we ___ (not miss) the bus, we would have arrived on time.",
+    "correct": "hadn't missed",
+    "distractors": ["didn't miss", "wouldn't miss", "don't miss"],
+    "explanation": "Third Conditional: if + Past Perfect, would have + V3. Нереальная ситуация в прошлом — если бы мы не опоздали на автобус, мы бы пришли вовремя."
+  },
+  {
+    "id": "cs_010",
+    "sentence": "If you press this button, the machine ___ (start).",
+    "correct": "starts",
+    "distractors": ["will start", "started", "would start"],
+    "explanation": "Zero Conditional: if + Present Simple, Present Simple. Описывает автоматическую реакцию — нажал кнопку = машина включается."
+  },
+  {
+    "id": "cs_011",
+    "sentence": "If I had known about the meeting, I ___ (come) to the office.",
+    "correct": "would have come",
+    "distractors": ["would come", "came", "come"],
+    "explanation": "Third Conditional: if + Past Perfect, would have + V3. Сожаление о прошлом — если бы я знал о встрече, я бы пришёл в офис."
+  },
+  {
+    "id": "cs_012",
+    "sentence": "If he ___ (not eat) so much, he wouldn't feel sick now.",
+    "correct": "hadn't eaten",
+    "distractors": ["didn't eat", "wouldn't eat", "doesn't eat"],
+    "explanation": "Mixed Conditional: if + Past Perfect, would + V1. Сочетает прошлое условие с настоящим результатом — если бы он не столько ел, он бы сейчас не чувствовал себя плохо."
+  },
+  {
+    "id": "cs_013",
+    "sentence": "If I ___ (win) the lottery, I would travel around the world.",
+    "correct": "won",
+    "distractors": ["would win", "win", "had won"],
+    "explanation": "Second Conditional: if + Past Simple, would + V1. Гипотетическая нереальная ситуация — если бы я выиграл в лотерею, я бы путешествовал по миру."
+  },
+  {
+    "id": "cs_014",
+    "sentence": "If you mix blue and yellow, you ___ (get) green.",
+    "correct": "get",
+    "distractors": ["will get", "got", "would get"],
+    "explanation": "Zero Conditional: if + Present Simple, Present Simple. Научный факт — смешивание синего и жёлтого всегда даёт зелёный."
+  },
+  {
+    "id": "cs_015",
+    "sentence": "If they ___ (invite) us, we would have gone to the party.",
+    "correct": "had invited",
+    "distractors": ["invited", "would invite", "invite"],
+    "explanation": "Third Conditional: if + Past Perfect, would have + V3. Нереальная ситуация в прошлом — если бы они нас пригласили, мы бы пошли на вечеринку."
+  },
+  {
+    "id": "cs_016",
+    "sentence": "If I have time this weekend, I ___ (visit) my parents.",
+    "correct": "will visit",
+    "distractors": ["would visit", "visited", "would have visited"],
+    "explanation": "First Conditional: if + Present Simple, will + V1. Реальная возможность в будущем — если будет время, я навещу родителей."
+  },
+  {
+    "id": "cs_017",
+    "sentence": "If she ___ (know) his number, she would call him.",
+    "correct": "knew",
+    "distractors": ["knows", "would know", "had known"],
+    "explanation": "Second Conditional: if + Past Simple, would + V1. Нереальная ситуация в настоящем — если бы она знала его номер, она бы позвонила."
+  },
+  {
+    "id": "cs_018",
+    "sentence": "If we ___ (not hurry), we will be late for the movie.",
+    "correct": "don't hurry",
+    "distractors": ["won't hurry", "didn't hurry", "wouldn't hurry"],
+    "explanation": "First Conditional: if + Present Simple, will + V1. Реальная ситуация в будущем — если мы не поторопимся, мы опоздаем на фильм."
+  },
+  {
+    "id": "cs_019",
+    "sentence": "If I ___ (see) the accident, I would have called the police.",
+    "correct": "had seen",
+    "distractors": ["saw", "would see", "see"],
+    "explanation": "Third Conditional: if + Past Perfect, would have + V3. Сожаление о прошлом — если бы я видел аварию, я бы вызвал полицию."
+  },
+  {
+    "id": "cs_020",
+    "sentence": "If he ___ (exercise) more, he would feel healthier.",
+    "correct": "exercised",
+    "distractors": ["exercises", "would exercise", "had exercised"],
+    "explanation": "Second Conditional: if + Past Simple, would + V1. Гипотетическая ситуация в настоящем — если бы он больше занимался спортом, он чувствовал бы себя здоровее."
+  }
+]

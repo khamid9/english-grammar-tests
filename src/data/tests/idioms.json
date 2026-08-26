@@ -1,0 +1,702 @@
+[
+  {
+    "id": "id_001",
+    "sentence": "Don't worry about the test — it will be a piece of ___.",
+    "correct": "cake",
+    "distractors": ["bread", "work", "music"],
+    "explanation": "A piece of cake — устойчивая идиома, означающая «очень лёгкое дело». Варианты bread, work, music не образуют расхождения с этим выражением."
+  },
+  {
+    "id": "id_002",
+    "sentence": "She felt ___, knowing that her birthday party was a huge success.",
+    "correct": "on cloud nine",
+    "distractors": ["on cloud seven", "under the rain", "over the moon"],
+    "explanation": "On cloud nine — идиома, означающая «на седьмом небе от счастья». Only cloud nine используется в этом выражении, а over the moon — другая идиома со схожим значением, но не подходит по структуре."
+  },
+  {
+    "id": "id_003",
+    "sentence": "He's been feeling a bit ___ since he caught the cold last week.",
+    "correct": "under the weather",
+    "distractors": ["under the table", "over the weather", "below the sky"],
+    "explanation": "Under the weather — идиома, означающая «чувствовать себя плохо, быть приболевшим». Under the table означает «тайно», а over the weather и below the sky не являются устойчивыми выражениями."
+  },
+  {
+    "id": "id_004",
+    "sentence": "When I heard the surprise news, my heart was ___ with joy.",
+    "correct": "in my mouth",
+    "distractors": ["in my hand", "at my feet", "on my sleeve"],
+    "explanation": "My heart was in my mouth — идиома, означающая «быть в сильном волнении, тревоге». В контексте радости используется именно это выражение для описания сильного волнения. Остальные варианты не образуют устойчивых сочетаний с heart was."
+  },
+  {
+    "id": "id_005",
+    "sentence": "Keep your ___ up — things will get better soon.",
+    "correct": "chin",
+    "distractors": ["head", "nose", "eye"],
+    "explanation": "Keep your chin up — устойчивая идиома, означающая «не унывать, держаться». Подбородок (chin) символизирует уверенность; head, nose и eye не используются в этой фразе."
+  },
+  {
+    "id": "id_006",
+    "sentence": "I was ___ about the exam result all night long.",
+    "correct": "on edge",
+    "distractors": ["on seat", "on line", "on time"],
+    "explanation": "On edge — идиома, означающая «на пределе нервов, в напряжённом состоянии». На edge описывает беспокойство; on seat, on line, on time — не выражают тревогу."
+  },
+  {
+    "id": "id_007",
+    "sentence": "She's been ___ lately — I think she's worried about something.",
+    "correct": "down in the dumps",
+    "distractors": ["down in the house", "down at the shop", "down by the river"],
+    "explanation": "Down in the dumps — идиома, означающая «подавленный, расстроенный». Это устойчивое выражение; down in the house, down at the shop и down by the river не являются идиомами."
+  },
+  {
+    "id": "id_008",
+    "sentence": "He was shaking like a ___ after the scary movie.",
+    "correct": "leaf",
+    "distractors": ["tree", "stone", "feather"],
+    "explanation": "Shake like a leaf — устойчивая идиома, означающая «дрожать как осиновый лист, сильно трястись». Leaf символизирует лёгкость и хрупкость; tree, stone и feather не используются в этом сравнении."
+  },
+  {
+    "id": "id_009",
+    "sentence": "The good news made her feel ___ a million dollars.",
+    "correct": "like",
+    "distractors": ["about", "from", "with"],
+    "explanation": "Feel like a million dollars — идиома, означающая «прекрасно себя чувствовать». Предлог like подчёркивает сравнение; about, from и with не подходят для этого выражения."
+  },
+  {
+    "id": "id_010",
+    "sentence": "I was so nervous that my stomach was doing ___ at the interview.",
+    "correct": "somersaults",
+    "distractors": ["push-ups", "sit-ups", "jumping jacks"],
+    "explanation": "Do somersaults — идиома, описывающая сильное волнение и « крутящееся » чувство в животе. Somersaults (кувытки) передают ощущение переворачивания; push-ups, sit-ups и jumping jacks — это упражнения, не подходящие по смыслу."
+  },
+  {
+    "id": "id_011",
+    "sentence": "When she heard the sad story, her heart went ___ to the children.",
+    "correct": "out",
+    "distractors": ["in", "up", "down"],
+    "explanation": "Go out to someone — устойчивая идиома, означающая « испытывать сострадание к кому-то ». Предлог out подчёркивает направление чувства; in, up и down не образуют эту фразу."
+  },
+  {
+    "id": "id_012",
+    "sentence": "He couldn't sleep because he was ___ about his presentation tomorrow.",
+    "correct": "butterflies",
+    "distractors": ["ants", "bees", "moths"],
+    "explanation": "Have butterflies (in one's stomach) — идиома, означающая «испытывать волнение». Butterflies символизируют лёгкое « порхание » в животе; ants, bees и moths не используются в этом выражении."
+  },
+  {
+    "id": "id_013",
+    "sentence": "After failing the test, she felt ___ the weather for a few days.",
+    "correct": "under",
+    "distractors": ["above", "over", "through"],
+    "explanation": "Under the weather — идиома, означающая «чувствовать себя плохо». Предлог under является единственным правильным вариантом; above, over и through не подходят для этого выражения."
+  },
+  {
+    "id": "id_014",
+    "sentence": "I'm so excited about the trip that I can't contain my ___.",
+    "correct": "enthusiasm",
+    "distractors": ["anger", "sadness", "frustration"],
+    "explanation": "Contain one's enthusiasm — описывает сдерживание восторга. Enthusiasm соответствует контексту радости; anger, sadness и frustration — негативные эмоции, не подходящие по смыслу."
+  },
+  {
+    "id": "id_015",
+    "sentence": "He lost his temper and started seeing ___ when arguing with his brother.",
+    "correct": "red",
+    "distractors": ["blue", "green", "black"],
+    "explanation": "See red — идиома, означающая «прийти в ярость, очень разозлиться». Красный цвет символизирует гнев; blue, green и black не используются в этом выражении."
+  },
+  {
+    "id": "id_016",
+    "sentence": "She was walking on ___ after getting the promotion at work.",
+    "correct": "air",
+    "distractors": ["ground", "grass", "dust"],
+    "explanation": "Walk on air — идиома, означающая «находиться в приподнятом настроении». Air передаёт ощущение лёгкости; ground, grass и dust не являются частью этого выражения."
+  },
+  {
+    "id": "id_017",
+    "sentence": "Don't be ___ — I'm only joking with you!",
+    "correct": "upset",
+    "distractors": ["happy", "excited", "proud"],
+    "explanation": "Don't be upset — просьба не расстраиваться. Upset означает расстройство; happy, excited и proud — положительные эмоции, не подходящие по смыслу к контексту шутки."
+  },
+  {
+    "id": "id_018",
+    "sentence": "I need to start ___ the books tonight if I want to pass the final exam.",
+    "correct": "hitting",
+    "distractors": ["throwing", "dropping", "carrying"],
+    "explanation": "Hit the books — идиома, означающая «приступить к занятиям, начать учиться». Hit используется как символ усердной работы; throwing, dropping и carrying не образуют эту фразу."
+  },
+  {
+    "id": "id_019",
+    "sentence": "It's getting late — let's ___ it a day and finish tomorrow.",
+    "correct": "call",
+    "distractors": ["make", "take", "bring"],
+    "explanation": "Call it a day — устойчивая идиома, означающая «закончить работу на сегодня». Call является唯一正确的 словом; make, take и bring не подходят для этого выражения."
+  },
+  {
+    "id": "id_020",
+    "sentence": "She's been ___ the midnight oil to finish the project before the deadline.",
+    "correct": "burning",
+    "distractors": ["eating", "drinking", "washing"],
+    "explanation": "Burn the midnight oil — идиома, означающая «ночевать за работой, работать допоздна». Burning подчёркивает использование света; eating, drinking и washing не связаны с этим выражением."
+  },
+  {
+    "id": "id_021",
+    "sentence": "The manager wants to ___ the meeting until next Monday.",
+    "correct": "push back",
+    "distractors": ["push up", "push down", "push through"],
+    "explanation": "Push back — фразовый глагол, означающий «отложить на более поздний срок». Push up означает «поднять», push down — «придавить», push through — «протолкнуть через препятствия»."
+  },
+  {
+    "id": "id_022",
+    "sentence": "He finally ___ and got the job he always wanted.",
+    "correct": "made it",
+    "distractors": ["lost it", "broke it", "left it"],
+    "explanation": "Make it — идиома, означающая «добиться успеха, справиться». Lost it означает «потерять контроль», broke it — «сломать», left it — «оставить», что не соответствует успеху."
+  },
+  {
+    "id": "id_023",
+    "sentence": "We need to ___ new ideas for the marketing campaign.",
+    "correct": "brainstorm",
+    "distractors": ["daydream", "nightmare", "sleepwalk"],
+    "explanation": "Brainstorm — идиома, означающая «проводить мозговой штурм, генерировать идеи». Daydream, nightmare и sleepwalk описывают состояния сна, а не активное обсуждение идей."
+  },
+  {
+    "id": "id_024",
+    "sentence": "She decided to ___ the bullet and ask her boss for a raise.",
+    "correct": "bite",
+    "distractors": ["hit", "catch", "throw"],
+    "explanation": "Bite the bullet — идиома, означающая «решиться на неприятное дело». Bite передаёт идею мужественного принятия; hit, catch и throw не используются в этом выражении."
+  },
+  {
+    "id": "id_025",
+    "sentence": "The team worked hard and went the ___ mile to win the contract.",
+    "correct": "extra",
+    "distractors": ["extra", "long", "full"],
+    "explanation": "Go the extra mile — устойчивая идиома, означающая «приложить дополнительные усилия». Extra подчёркивает выход за рамки обычного; long и full не являются частью этого выражения."
+  },
+  {
+    "id": "id_026",
+    "sentence": "He likes to ___ his own drum and work independently.",
+    "correct": "march to the beat of",
+    "distractors": ["dance to the sound of", "sing to the tune of", "walk in the steps of"],
+    "explanation": "March to the beat of one's own drum — идиома, означающая «поступать по-своему, идти своим путём». Dance, sing и walk — возможные глаголы, но только march to the beat of является устойчивым выражением."
+  },
+  {
+    "id": "id_027",
+    "sentence": "After the merger, we need to get everyone on the ___ page.",
+    "correct": "same",
+    "distractors": ["new", "right", "last"],
+    "explanation": "Get on the same page — идиома, означающая «прийти к общему пониманию». Same подчёркивает согласованность; new, right и last не образуют это устойчивое выражение."
+  },
+  {
+    "id": "id_028",
+    "sentence": "If you want to succeed, you need to think outside the ___.",
+    "correct": "box",
+    "distractors": ["line", "circle", "door"],
+    "explanation": "Think outside the box — устойчивая идиома, означающая «мыслить нестандартно». Box символизирует ограничения; line, circle и door не используются в этом выражении."
+  },
+  {
+    "id": "id_029",
+    "sentence": "The project is really ___ my hands — there's too much to do.",
+    "correct": "over",
+    "distractors": ["under", "through", "across"],
+    "explanation": "Over my hands — часть идиомы «связан по рукам, перегружен работой». Предлог over указывает на превышение контроля; under, through и across не подходят по смыслу."
+  },
+  {
+    "id": "id_030",
+    "sentence": "She works very hard and never ___ the opportunity to learn new skills.",
+    "correct": "misses",
+    "distractors": ["catches", "holds", "takes"],
+    "explanation": "Never miss the opportunity — устойчивая фраза, означающая «всегда использовать возможности». Misses подчёркивает, что она не упускает шанс; catches, holds и takes не являются частью этого выражения."
+  },
+  {
+    "id": "id_031",
+    "sentence": "Our boss always ___ around the bush when giving feedback.",
+    "correct": "beats",
+    "distractors": ["jumps", "runs", "walks"],
+    "explanation": "Beat around the bush — устойчивая идиома, означающая «обходить стороной, говорить не по делу». Beats является唯一正确的 глаголом; jumps, runs и walks не используются в этом выражении."
+  },
+  {
+    "id": "id_032",
+    "sentence": "The deadline was ___, so we had to work overtime to finish.",
+    "correct": "looming",
+    "distractors": ["fading", "disappearing", "flying"],
+    "explanation": "Looming deadline — описание приближающегося крайнего срока, создающего давление. Looming означает «нависающий, приближающийся»; fading и disappearing означают исчезновение, а flying — быстрое движение."
+  },
+  {
+    "id": "id_033",
+    "sentence": "He's been ___ two jobs to save enough money for a car.",
+    "correct": "juggling",
+    "distractors": ["dropping", "tossing", "throwing"],
+    "explanation": "Juggle two jobs — идиома, означающая «успевать совмещать две работы». Juggling символизирует умение балансировать между задачами; dropping, tossing и throwing не подходят по смыслу."
+  },
+  {
+    "id": "id_034",
+    "sentence": "You can't ___ with the company's time — it's not allowed.",
+    "correct": "mess around",
+    "distractors": ["look around", "turn around", "hang around"],
+    "explanation": "Mess around — фразовый глагол, означающий «баловаться, тратить время впустую». Look around означает «осматриваться», turn around — «развернуться», hang around — «пἩсать», что не подходит по контексту."
+  },
+  {
+    "id": "id_035",
+    "sentence": "I'll see you in ___ — I'm in a hurry right now.",
+    "correct": "two shakes of a lamb's tail",
+    "distractors": ["two minutes of a lamb's leg", "two ticks of a clock's hand", "two seconds of a bird's wing"],
+    "explanation": "In two shakes of a lamb's tail — устойчивая идиома, означающая «очень быстро, в ближайшее время». Это единственное расхождение выражение; остальные варианты не являются идиомами."
+  },
+  {
+    "id": "id_036",
+    "sentence": "We only see our grandparents ___ a blue moon because they live far away.",
+    "correct": "once in",
+    "distractors": ["twice in", "three times in", "many times in"],
+    "explanation": "Once in a blue moon — устойчивая идиома, означающая «крайне редко». Only подчёркивает редкость; twice, three times и many times противоречат контексту."
+  },
+  {
+    "id": "id_037",
+    "sentence": "___, I'll tell you the whole story — it's very long.",
+    "correct": "Long story short",
+    "distractors": ["Short story long", "Brief story wide", "Quick tale narrow"],
+    "explanation": "Long story short — устойчивая вводная фраза, означающая «короче говоря, если кратко». Short story long и другие варианты — это искажения, которые не являются настоящими идиомами."
+  },
+  {
+    "id": "id_038",
+    "sentence": "She arrived at the meeting ___ the skin of her teeth — just barely on time.",
+    "correct": "by",
+    "distractors": ["through", "with", "on"],
+    "explanation": "By the skin of one's teeth — устойчивая идиома, означающая «еле-еле, чудом». Предлог by является唯一正确的 вариантом; through, with и on не образуют это выражение."
+  },
+  {
+    "id": "id_039",
+    "sentence": "You should have studied earlier — it's too late now, but ___ than never.",
+    "correct": "better late",
+    "distractors": ["earlier late", "later early", "sooner late"],
+    "explanation": "Better late than never — устойчивая поговорка, означающая «лучше поздно, чем никогда». Earlier late, later early и sooner late — не являются реальными выражениями."
+  },
+  {
+    "id": "id_040",
+    "sentence": "We're really ___ the clock — the presentation starts in ten minutes!",
+    "correct": "racing against",
+    "distractors": ["racing with", "racing through", "racing for"],
+    "explanation": "Race against the clock — идиома, означающая «быстро работать в условиях нехватки времени». Against подчёркивает соревнование со временем; with, through и for не подходят по смыслу."
+  },
+  {
+    "id": "id_041",
+    "sentence": "The days seem to ___ when you're having fun at the beach.",
+    "correct": "fly by",
+    "distractors": ["walk by", "crawl by", "slide by"],
+    "explanation": "Time flies — устойчивая идиома, означающая «время летит, быстро проходит». Fly по образу передаёт быстроту; walk, crawl и slide означают медленное движение, противоречащее контексту."
+  },
+  {
+    "id": "id_042",
+    "sentence": "He always shows up at the ___ moment — what a coincidence!",
+    "correct": "last",
+    "distractors": ["first", "right", "perfect"],
+    "explanation": "At the last moment — устойчивая идиома, означающая «в последний момент». First, right и perfect не являются частью этого выражения."
+  },
+  {
+    "id": "id_043",
+    "sentence": "Don't worry, the meeting is only scheduled to last a ___.",
+    "correct": "jiffy",
+    "distractors": ["century", "forever", "lifetime"],
+    "explanation": "In a jiffy — идиома, означающая «очень быстро, мгновенно». Century, forever и lifetime означают долгое время, что противоречит контексту короткой встречи."
+  },
+  {
+    "id": "id_044",
+    "sentence": "If we don't leave now, we'll ___ out of time to catch the train.",
+    "correct": "run",
+    "distractors": ["walk", "fall", "jump"],
+    "explanation": "Run out of time — устойчивая идиома, означающая «остаться без времени, не успеть». Run подчёркивает быстроту исчерпания; walk, fall и jump не подходят для этого выражения."
+  },
+  {
+    "id": "id_045",
+    "sentence": "She spent the whole afternoon waiting for his ___ call.",
+    "correct": "callback",
+    "distractors": ["timeout", "playback", "payback"],
+    "explanation": "Callback — означает «обратный звонок». Timeout — тайм-аут, playback — воспроизведение, payback — возмездие; только callback подходит по контексту ожидания звонка."
+  },
+  {
+    "id": "id_046",
+    "sentence": "We've been discussing this for hours — can we ___ to a decision?",
+    "correct": "get down to brass tacks",
+    "distractors": ["get up to silver handles", "get back to gold hooks", "get over to copper nails"],
+    "explanation": "Get down to brass tacks — устойчивая идиома, означающая «перейти к делу, к сути». Silver handles, gold hooks и copper nails — выдуманные выражения, не являющиеся настоящими идиомами."
+  },
+  {
+    "id": "id_047",
+    "sentence": "He likes to save time, so he always tries to ___ two birds with one stone.",
+    "correct": "kill",
+    "distractors": ["catch", "feed", "find"],
+    "explanation": "Kill two birds with one stone — устойчивая идиома, означающая «достичь двух целей одним действием». Kill является唯一正确的 глаголом; catch, feed и find не образуют это выражение."
+  },
+  {
+    "id": "id_048",
+    "sentence": "I've been putting this off for ages — I need to ___ it.",
+    "correct": "get around to",
+    "distractors": ["get away from", "get back to", "get on with"],
+    "explanation": "Get around to — фразовый глагол, означающий «наконец-то заняться чем-то, до чего долго не доходили руки». Putting off подчёркивает откладывание; get away from — «уклоняться», get back to — «вернуться», get on with — «продолжать»."
+  },
+  {
+    "id": "id_049",
+    "sentence": "It was a good idea at ___, but it didn't work out in the end.",
+    "correct": "the time",
+    "distractors": ["the moment", "the minute", "the second"],
+    "explanation": "At the time — устойчивая фраза, означающая «в тот момент, тогда». The time является唯一正确的 вариантом; the moment, the minute и the second не образуют это выражение."
+  },
+  {
+    "id": "id_050",
+    "sentence": "We're working on a tight ___ — the event is next week.",
+    "correct": "deadline",
+    "distractors": ["birthday", "holiday", "sideline"],
+    "explanation": "Tight deadline — описание сжатого графика. Deadline означает «крайний срок»; birthday, holiday и sideline не подходят по контексту."
+  },
+  {
+    "id": "id_051",
+    "sentence": "He's always rushing — he never seems to have a ___ to breathe.",
+    "correct": "moment",
+    "distractors": ["minute", "second", "chance"],
+    "explanation": "Not have a moment to breathe — устойчивая фраза, означающая «не иметь времени на передышку». Moment является唯一正确的 вариантом; minute и second — единицы времени, но не подходят в этом выражении, chance — «шанс», что не соответствует контексту."
+  },
+  {
+    "id": "id_052",
+    "sentence": "That designer bag cost me an ___ and a ___.",
+    "correct": "arm and a leg",
+    "distractors": ["head and a toe", "nose and an ear", "hand and a foot"],
+    "explanation": "Cost an arm and a leg — устойчивая идиома, означающая «стоить очень дорого». Arm and a leg является唯一正确的 вариантом; head and a toe, nose and an ear и hand and a foot — не являются настоящими идиомами."
+  },
+  {
+    "id": "id_053",
+    "sentence": "These handmade crafts are a ___ a dozen at the local market.",
+    "correct": "dime",
+    "distractors": ["dollar", "penny", "quarter"],
+    "explanation": "A dime a dozen — устойчивая идиома, означающая «очень дешёвый, распространённый». Dime является唯一正确的 словом; dollar, penny и quarter не образуют это выражение."
+  },
+  {
+    "id": "id_054",
+    "sentence": "She doesn't like to ___ her money on things she doesn't need.",
+    "correct": "throw away",
+    "distractors": ["throw up", "throw in", "throw out"],
+    "explanation": "Throw away money — идиома, означающая «бессмысленно тратить деньги». Throw up — «выбрасывать вверх», throw in — «добавлять», throw out — «выбрасывать наружу»; только throw away подходит по смыслу."
+  },
+  {
+    "id": "id_055",
+    "sentence": "He's quite ___ with money — he never wastes a penny.",
+    "correct": "tight",
+    "distractors": ["loose", "open", "free"],
+    "explanation": "Tight with money — описание скупого человека. Tight означает «скупой, жадный»; loose, open и free означают «открытый, свободный», что противоречит контексту."
+  },
+  {
+    "id": "id_056",
+    "sentence": "I'm trying to ___ every penny I earn so I can travel next year.",
+    "correct": "save",
+    "distractors": ["spend", "waste", "lend"],
+    "explanation": "Save every penny — описание бережливости. Save означает «копить»; spend — «тратить», waste — «тратить впустую», lend — «одалживать», что не соответствует контексту."
+  },
+  {
+    "id": "id_057",
+    "sentence": "That antique vase is worth a ___ of money — it's very valuable.",
+    "correct": "fortune",
+    "distractors": ["pennies", "coins", "bills"],
+    "explanation": "Worth a fortune — устойчивая идиома, означающая «стоить целое состояние». Fortune символизирует большую сумму; pennies, coins и bills — мелкие деньги, не подходящие по контексту ценности."
+  },
+  {
+    "id": "id_058",
+    "sentence": "The company is not doing well — it's really ___ at the seams.",
+    "correct": "bursting",
+    "distractors": ["hiding", "bending", "sleeping"],
+    "explanation": "Bursting at the seams — идиома, означающая «быть на грани разрушения, перегруж». Bursting подчёркивает крайнее напряжение; hiding, bending и sleeping не подходят по смыслу."
+  },
+  {
+    "id": "id_059",
+    "sentence": "He works hard, but he's not exactly making a ___ income.",
+    "correct": "decent",
+    "distractors": ["huge", "massive", "terrible"],
+    "explanation": "A decent income — означает «приличный доход». Decent подчёркивает адекватность; huge и massive означают «огромный», что противоречит «не exactly», а terrible — «ужасный»."
+  },
+  {
+    "id": "id_060",
+    "sentence": "She always pays her bills ___ the dot — never late.",
+    "correct": "on",
+    "distractors": ["in", "at", "by"],
+    "explanation": "On the dot — устойчивая идиома, означающая «точно в срок, аккуратно». Предлог on является唯一正确的 вариантом; in, at и by не образуют это выражение."
+  },
+  {
+    "id": "id_061",
+    "sentence": "The repairs on the car really took a ___ out of my savings.",
+    "correct": "bite",
+    "distractors": ["chunk", "piece", "slice"],
+    "explanation": "Take a bite out of — устойчивая идиома, означающая «серьёзно уменьшить сумму». Bite символизирует откусывание части; chunk, piece и slice не являются частью этого выражения."
+  },
+  {
+    "id": "id_062",
+    "sentence": "That restaurant is ___ — the food is good but the prices are very reasonable.",
+    "correct": "a steal",
+    "distractors": ["a robbery", "a cheat", "a trick"],
+    "explanation": "A steal — идиома, означающая «очень выгодная покупка, копеечная цена». A robbery — «ограбление», a cheat — «обман», a trick — «трюк»; только a steal описывает выгодную сделку."
+  },
+  {
+    "id": "id_063",
+    "sentence": "I wouldn't invest in that company — their products aren't worth a ___ .",
+    "correct": "bean",
+    "distractors": ["dollar", "penny", "cent"],
+    "explanation": "Not worth a bean — устойчивая идиома, означающая «не стоить ничего, быть бесполезным». Bean является唯一正确的 словом; dollar, penny и cent — денежные единицы, не подходящие в этом выражении."
+  },
+  {
+    "id": "id_064",
+    "sentence": "We need to ___ down on expenses this month.",
+    "correct": "cut",
+    "distractors": ["put", "take", "give"],
+    "explanation": "Cut down on — фразовый глагол, означающий «сократить, уменьшить». Put, take и give не образуют это устойчивое выражение с down on."
+  },
+  {
+    "id": "id_065",
+    "sentence": "She's always ___ in money — she never seems to have enough.",
+    "correct": "strapped",
+    "distractors": ["wrapped", "tied", "packed"],
+    "explanation": "Strapped for money — идиома, означающая «быть без денег, испытывать финансовые трудности». Strapped символизирует стеснённость; wrapped, tied и packed не подходят по смыслу."
+  },
+  {
+    "id": "id_066",
+    "sentence": "The concert tickets were quite expensive, but they were worth every ___.",
+    "correct": "penny",
+    "distractors": ["dollar", "cent", "coin"],
+    "explanation": "Worth every penny — устойчивая идиома, означающая «каждая копейка стоит того». Penny является唯一正确的 вариантом; dollar, cent и coin не образуют это выражение."
+  },
+  {
+    "id": "id_067",
+    "sentence": "He saved enough money to buy a new car ___ the scratch.",
+    "correct": "without",
+    "distractors": ["with", "for", "under"],
+    "explanation": "Without a scratch — описание покупки без каких-либо повреждений. Without подчёркивает отсутствие царапин; with, for и under не подходят по смыслу."
+  },
+  {
+    "id": "id_068",
+    "sentence": "The new software development ___ the company a lot of money to create.",
+    "correct": "cost",
+    "distractors": ["earned", "made", "saved"],
+    "explanation": "Cost money — описывает сумму, затраченную на создание. Cost означает «стоить»; earned, made и saved означают «заработать» или «сэкономить», что противоречит контексту."
+  },
+  {
+    "id": "id_069",
+    "sentence": "Let's go out for coffee sometime — we need to ___ the ice after all these years.",
+    "correct": "break",
+    "distractors": ["make", "melt", "warm"],
+    "explanation": "Break the ice — устойчивая идиома, означающая «разрядить обстановку, наладить общение». Break является唯一正确的 глаголом; make, melt и warm не образуют это выражение."
+  },
+  {
+    "id": "id_070",
+    "sentence": "Don't ___ my leg — I know you're not telling the truth!",
+    "correct": "pull",
+    "distractors": ["push", "kick", "hit"],
+    "explanation": "Pull my leg — устойчивая идиома, означающая «шутить, дурачить». Pull является唯一正确的 глаголом; push, kick и hit не образуют это выражение."
+  },
+  {
+    "id": "id_071",
+    "sentence": "The secret ___ the bag and now everyone knows about the surprise party.",
+    "correct": "let the cat out of",
+    "distractors": ["let the dog out of", "let the bird out of", "let the fish out of"],
+    "explanation": "Let the cat out of the bag — устойчивая идиома, означающая «выдать секрет». Cat является唯一正确的 животным; dog, bird и fish не используются в этом выражении."
+  },
+  {
+    "id": "id_072",
+    "sentence": "She spilt the ___ about the wedding — I didn't know they were engaged!",
+    "correct": "beans",
+    "distractors": ["peas", "rice", "nuts"],
+    "explanation": "Spill the beans — устойчивая идиома, означающая «выдать секрет». Beans является唯一正确的 вариантом; peas, rice и nuts не образуют это выражение."
+  },
+  {
+    "id": "id_073",
+    "sentence": "___ speak louder than words — show me what you can do, not just what you say.",
+    "correct": "Actions",
+    "distractors": ["Words", "Thoughts", "Promises"],
+    "explanation": "Actions speak louder than words — устойчивая поговорка, означающая «поступки говорят громче слов». Actions является唯一正确的 вариантом; words, thoughts и promises противоречат смыслу поговорки."
+  },
+  {
+    "id": "id_074",
+    "sentence": "I need a ___ for your thoughts — what are you thinking about?",
+    "correct": "penny",
+    "distractors": ["dollar", "pound", "nickel"],
+    "explanation": "A penny for your thoughts — устойчивая идиома, означающая «поделись своими мыслями». Penny является唯一正确的 вариантом; dollar, pound и nickel не образуют это выражение."
+  },
+  {
+    "id": "id_075",
+    "sentence": "She wore her heart on her ___ — you could always tell how she felt.",
+    "correct": "sleeve",
+    "distractors": ["pocket", "wrist", "neck"],
+    "explanation": "Wear one's heart on one's sleeve — устойчивая идиома, означающая «не скрывать своих чувств». Sleeve является唯一正确的 вариантом; pocket, wrist и neck не образуют это выражение."
+  },
+  {
+    "id": "id_076",
+    "sentence": "He's my best friend — we've been through ___ and thin together.",
+    "correct": "thick",
+    "distractors": ["thin", "hard", "rough"],
+    "explanation": "Through thick and thin — устойчивая идиома, означающая «в горе и в радости, через все трудности». Thick является唯一正确的 вариантом; thin, hard и rough не образуют это выражение."
+  },
+  {
+    "id": "id_077",
+    "sentence": "They've known each other for years — they're like two ___ in a pod.",
+    "correct": "peas",
+    "distractors": ["beans", "nuts", "chips"],
+    "explanation": "Like two peas in a pod — устойчивая идиома, означающая «очень похожи друг на друга». Peas является唯一正确的 вариантом; beans, nuts и chips не образуют это выражение."
+  },
+  {
+    "id": "id_078",
+    "sentence": "The argument really ___ a wedge between the two friends.",
+    "correct": "drove",
+    "distractors": ["pushed", "pulled", "threw"],
+    "explanation": "Drive a wedge between — устойчивая идиома, означающая «посеять раздор». Drive является唯一正确的 глаголом; pushed, pulled и thrown не образуют это выражение."
+  },
+  {
+    "id": "id_079",
+    "sentence": "It takes two to ___ — both of you need to work on this relationship.",
+    "correct": "tango",
+    "distractors": ["dance", "fight", "sing"],
+    "explanation": "It takes two to tango — устойчивая поговорка, означающая «для конфликта нужны двое». Tango является唯一正确的 вариантом; dance, fight и sing не образуют это выражение."
+  },
+  {
+    "id": "id_080",
+    "sentence": "He always ___ the facts when telling stories to make them more interesting.",
+    "correct": "stretches",
+    "distractors": ["shrinks", "breaks", "folds"],
+    "explanation": "Stretch the facts — идиома, означающая «приукрашивать, преувеличивать». Stretches символизирует растягивание правды; shrinks — «сужать», breaks — «ломать», folds — «складывать» не подходят."
+  },
+  {
+    "id": "id_081",
+    "sentence": "She's not very ___ — I don't think we'll become close friends.",
+    "correct": "warm",
+    "distractors": ["cold", "cool", "hot"],
+    "explanation": "Not very warm — описание человека, который не приветлив. Warm означает «тёплый, дружелюбный»; cold, cool и hot — противоположные или нейтральные значения, не подходящие по контексту."
+  },
+  {
+    "id": "id_082",
+    "sentence": "He tried to ___ everyone's shoes to make them happy.",
+    "correct": "fill",
+    "distractors": ["wear", "wash", "kick"],
+    "explanation": "Fill someone's shoes — идиома, означающая «быть достойным чьего-то места, соответствовать ожиданиям». Fill символизирует заполнение ожиданий; wear, wash и kick не подходят по смыслу."
+  },
+  {
+    "id": "id_083",
+    "sentence": "The new student really ___ the ice by telling a funny joke on the first day.",
+    "correct": "broke",
+    "distractors": ["made", "melted", "warmed"],
+    "explanation": "Break the ice — устойчивая идиома, означающая «разрядить обстановку, начать общение». Break является唯一正确的 глаголом; made, melted и warm не образуют это выражение."
+  },
+  {
+    "id": "id_084",
+    "sentence": "She's very ___ — she can talk to anyone and make friends easily.",
+    "correct": "outgoing",
+    "distractors": ["shy", "quiet", "reserved"],
+    "explanation": "Outgoing — описание общительного человека. Shy, quiet и reserved означают «застенчивый, тихий, сдержанный», что противоречит контексту."
+  },
+  {
+    "id": "id_085",
+    "sentence": "We need to ___ every stone unturned to find the missing document.",
+    "correct": "leave no",
+    "distractors": ["turn no", "lift no", "drop no"],
+    "explanation": "Leave no stone unturned — устойчивая идиома, означающая «перепробовать все возможные варианты». Leave no является唯一正确的 вариантом; turn no, lift no и drop no не образуют это выражение."
+  },
+  {
+    "id": "id_086",
+    "sentence": "The situation is getting out of ___ — we need to take control now.",
+    "correct": "hand",
+    "distractors": ["mind", "sight", "reach"],
+    "explanation": "Out of hand — устойчивая идиома, означающая «выйти из-под контроля». Hand символизирует контроль; mind, sight и reach не образуют это выражение."
+  },
+  {
+    "id": "id_087",
+    "sentence": "You've been going around in ___ — we need a clear plan to move forward.",
+    "correct": "circles",
+    "distractors": ["lines", "squares", "triangles"],
+    "explanation": "Go around in circles — устойчивая идиома, означающая «бесцельно двигаться, не продвигаясь вперёд». Circles символизируют замкнутость; lines, squares и triangles не используются в этом выражении."
+  },
+  {
+    "id": "id_088",
+    "sentence": "Don't ___ the problem — just tell me what happened directly.",
+    "correct": "beat around",
+    "distractors": ["walk around", "run around", "jump around"],
+    "explanation": "Beat around the bush — устойчивая идиома, означающая «обходить стороной, говорить не по делу». Beat around является唯一正确的 вариантом; walk, run и jump around не образуют это выражение."
+  },
+  {
+    "id": "id_089",
+    "sentence": "The situation is a real ___ in disguise — it turned out to be a great opportunity.",
+    "correct": "blessing",
+    "distractors": ["curse", "punishment", "problem"],
+    "explanation": "A blessing in disguise — устойчивая идиома, означающая «зло, ставшее добром, скрытое благо». Blessing символизирует благо; curse, punishment и problem — негативные значения, не подходящие по контексту."
+  },
+  {
+    "id": "id_090",
+    "sentence": "We're really ___ against the wall — we need to find a solution quickly.",
+    "correct": "up against",
+    "distractors": ["behind against", "next to against", "far from against"],
+    "explanation": "Up against the wall — идиома, означающая «быть в отчаянном положении, в тупике». Up against является唯一正确的 вариантом; behind, next to и far from не образуют это выражение."
+  },
+  {
+    "id": "id_091",
+    "sentence": "The last straw was when he ___ up with the lies — she finally ended the friendship.",
+    "correct": "put",
+    "distractors": ["gave", "took", "threw"],
+    "explanation": "Put up with — фразовый глагол, означающий «терпеть, выносить». Put является唯一正确的 глаголом; gave, took и threw не образуют это выражение."
+  },
+  {
+    "id": "id_092",
+    "sentence": "If you keep procrastinating, you'll ___ the boat and miss the deadline.",
+    "correct": "miss",
+    "distractors": ["catch", "hit", "take"],
+    "explanation": "Miss the boat — устойчивая идиома, означающая «упустить возможность». Miss является唯一正确的 глаголом; catch, hit и take не образуют это выражение."
+  },
+  {
+    "id": "id_093",
+    "sentence": "We're all in the same ___ — we need to work together to solve this problem.",
+    "correct": "boat",
+    "distractors": ["car", "bus", "train"],
+    "explanation": "In the same boat — устойчивая идиома, означающая «быть в одинаковом затруднительном положении». Boat является唯一正确的 вариантом; car, bus и train не образуют это выражение."
+  },
+  {
+    "id": "id_094",
+    "sentence": "The project has really ___ my hands — there's so much work to do.",
+    "correct": "over",
+    "distractors": ["under", "through", "with"],
+    "explanation": "Over my hands — часть идиомы «связан по рукам, перегружен работой». Предлог over указывает на перегрузку; under, through и across не подходят по смыслу."
+  },
+  {
+    "id": "id_095",
+    "sentence": "He had to ___ the bullet and tell her the truth about what happened.",
+    "correct": "bite",
+    "distractors": ["hit", "catch", "hold"],
+    "explanation": "Bite the bullet — идиома, означающая «решиться на неприятное дело». Bite является唯一正确的 глаголом; hit, catch и hold не образуют это выражение."
+  },
+  {
+    "id": "id_096",
+    "sentence": "The team has a lot on their ___ right now with the new project.",
+    "correct": "plate",
+    "distractors": ["table", "desk", "floor"],
+    "explanation": "Have a lot on one's plate — идиома, означающая «быть перегруженным делами». Plate символизирует задачи; table, desk и floor не образуют это выражение."
+  },
+  {
+    "id": "id_097",
+    "sentence": "We need to ___ our heads together and come up with a better solution.",
+    "correct": "put",
+    "distractors": ["take", "bring", "carry"],
+    "explanation": "Put our heads together — устойчивая идиома, означающая «совместно обсудить, подумать». Put является唯一正确的 глаголом; take, bring и carry не образуют это выражение."
+  },
+  {
+    "id": "id_098",
+    "sentence": "The project is in hot ___ — we're behind schedule and over budget.",
+    "correct": "water",
+    "distractors": ["soup", "oil", "coffee"],
+    "explanation": "In hot water — устойчивая идиома, означающая «быть в неприятностях, в беде». Water является唯一正确的 вариантом; soup, oil и coffee не образуют это выражение."
+  },
+  {
+    "id": "id_099",
+    "sentence": "I can't put my ___ on it, but something feels wrong about this deal.",
+    "correct": "finger",
+    "distractors": ["toe", "hand", "nose"],
+    "explanation": "Can't put my finger on it — устойчивая идиома, означающая «не могу точно объяснить, но чувствую». Finger является唯一正确的 вариантом; toe, hand и nose не образуют это выражение."
+  },
+  {
+    "id": "id_100",
+    "sentence": "The problem is that we're only scratching the ___ of what needs to be done.",
+    "correct": "surface",
+    "distractors": ["bottom", "depths", "foundation"],
+    "explanation": "Scratch the surface — устойчивая идиома, означающая «только поверхностно коснуться проблемы». Surface символизирует поверхность; bottom, depths и foundation противоречат контексту неполного охвата."
+  }
+]

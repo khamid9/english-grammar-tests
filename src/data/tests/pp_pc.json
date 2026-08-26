@@ -1,0 +1,142 @@
+[
+  {
+    "id": "pp_pc_001",
+    "sentence": "She ___ (work) here since 2015.",
+    "correct": "has been working",
+    "distractors": ["has worked", "is working", "worked"],
+    "explanation": "Present Perfect Continuous (has been working) используется для действия, которое началось в прошлом (since 2015) и продолжается до сих пор. Акцент на длительности процесса, а не на результате."
+  },
+  {
+    "id": "pp_pc_002",
+    "sentence": "I ___ (read) three books this month.",
+    "correct": "have read",
+    "distractors": ["have been reading", "am reading", "read"],
+    "explanation": "Present Perfect (have read) используется, когда важен результат — три прочитанные книги. Present Perfect Continuous (have been reading) был бы верен, если бы акцент был на процессе чтения без указания количества."
+  },
+  {
+    "id": "pp_pc_003",
+    "sentence": "They ___ (live) in London for ten years.",
+    "correct": "have lived",
+    "distractors": ["have been living", "are living", "lived"],
+    "explanation": "Present Perfect (have lived) используется для длительного состояния — факт проживания важнее процесса. Present Perfect Continuous (have been living) тоже возможен, но здесь акцент на результате, а не на длительности."
+  },
+  {
+    "id": "pp_pc_004",
+    "sentence": "He ___ (study) English since last September.",
+    "correct": "has been studying",
+    "distractors": ["has studied", "is studying", "studied"],
+    "explanation": "Present Perfect Continuous (has been studying) подчёркивает длительность процесса обучения, который начался в прошлом (since last September) и продолжается. Present Perfect (has studied) был бы верен для результата, но не для процесса."
+  },
+  {
+    "id": "pp_pc_005",
+    "sentence": "We ___ (not / see) that movie yet.",
+    "correct": "haven't seen",
+    "distractors": ["haven't been seeing", "don't see", "didn't see"],
+    "explanation": "Present Perfect (haven't seen) используется с «yet» для выражения действия, которое ожидается к настоящему моменту. Past Simple (didn't see) был бы верен без «yet», но с «yet» нужен Present Perfect."
+  },
+  {
+    "id": "pp_pc_006",
+    "sentence": "It ___ (rain) all morning.",
+    "correct": "has been raining",
+    "distractors": ["has rained", "is raining", "rained"],
+    "explanation": "Present Perfect Continuous (has been raining) подчёркивает длительность дождя, который持续了 всё утро и, вероятно, ещё идёт. Present Perfect (has rained) был бы верен для результата, но не для процесса."
+  },
+  {
+    "id": "pp_pc_007",
+    "sentence": "My sister ___ (finish) her homework already.",
+    "correct": "has finished",
+    "distractors": ["has been finishing", "is finishing", "finished"],
+    "explanation": "Present Perfect (has finished) используется с «already» для выражения завершённого действия. «Finish» — глагол результата, поэтому Present Perfect Continuous (has been finishing) не используется."
+  },
+  {
+    "id": "pp_pc_008",
+    "sentence": "You ___ (look) tired. ___ you ___ (work) late?",
+    "correct": "look / Have / been working",
+    "distractors": ["are looking / Have / worked", "look / Did / work", "look / Have / worked"],
+    "explanation": "«Look» — глагол состояния, используется в Present Simple (look). Present Perfect Continuous (Have been working) используется для действия, которое только что закончилось и его результат виден (усталость)."
+  },
+  {
+    "id": "pp_pc_009",
+    "sentence": "The children ___ (play) in the garden since noon.",
+    "correct": "have been playing",
+    "distractors": ["have played", "are playing", "played"],
+    "explanation": "Present Perfect Continuous (have been playing) подчёркивает длительность процесса, который начался в прошлом (since noon) и продолжается. Present Perfect (have played) был бы верен для результата, но не для процесса."
+  },
+  {
+    "id": "pp_pc_010",
+    "sentence": "I ___ (never / be) to Paris.",
+    "correct": "have never been",
+    "distractors": ["have never been being", "am never", "was never"],
+    "explanation": "Present Perfect (have never been) используется для выражения жизненного опыта. «Be» — глагол состояния, поэтому Present Perfect Continuous (have never been being) не используется."
+  },
+  {
+    "id": "pp_pc_011",
+    "sentence": "He ___ (write) five emails today.",
+    "correct": "has written",
+    "distractors": ["has been writing", "is writing", "wrote"],
+    "explanation": "Present Perfect (has written) используется, когда важен результат — пять написанных писем. Present Perfect Continuous (has been writing) был бы верен для процесса без указания количества."
+  },
+  {
+    "id": "pp_pc_012",
+    "sentence": "We ___ (know) each other since childhood.",
+    "correct": "have known",
+    "distractors": ["have been knowing", "know", "knew"],
+    "explanation": "«Know» — глагол состояния, не используется в Continuous. Present Perfect (have known) используется для состояния, продолжающегося с прошлого (since childhood)."
+  },
+  {
+    "id": "pp_pc_013",
+    "sentence": "The car ___ (break) down three times this week.",
+    "correct": "has broken",
+    "distractors": ["has been breaking", "is breaking", "broke"],
+    "explanation": "Present Perfect (has broken) используется для подсчёта событий за период (this week). Важен результат — три поломки, а не процесс. «Break down» — краткое действие, неContinuous."
+  },
+  {
+    "id": "pp_pc_014",
+    "sentence": "She ___ (cook) dinner for two hours.",
+    "correct": "has been cooking",
+    "distractors": ["has cooked", "is cooking", "cooked"],
+    "explanation": "Present Perfect Continuous (has been cooking) подчёркивает длительность процесса готовки, который持续了 два часа и, вероятно, ещё не закончился. Present Perfect (has cooked) был бы верен для результата."
+  },
+  {
+    "id": "pp_pc_015",
+    "sentence": "I ___ (buy) a new phone last Friday.",
+    "correct": "bought",
+    "distractors": ["have bought", "have been buying", "was buying"],
+    "explanation": "Past Simple (bought) используется для завершённого действия в определённый момент в прошлом (last Friday). Present Perfect (have bought) не используется с конкретным временем в прошлом."
+  },
+  {
+    "id": "pp_pc_016",
+    "sentence": "They ___ (travel) to five countries so far.",
+    "correct": "have travelled",
+    "distractors": ["have been travelling", "are travelling", "travelled"],
+    "explanation": "Present Perfect (have travelled) используется с «so far» для выражения результата — пять посещённых стран. Present Perfect Continuous (have been travelling) был бы верен для процесса без указания количества."
+  },
+  {
+    "id": "pp_pc_017",
+    "sentence": "My father ___ (teach) at this school for 20 years.",
+    "correct": "has taught",
+    "distractors": ["has been teaching", "teaches", "taught"],
+    "explanation": "Present Perfect (has taught) используется для длительного состояния — факт 20 лет преподавания важнее процесса. Present Perfect Continuous (has been teaching) тоже возможен, но здесь акцент на результате."
+  },
+  {
+    "id": "pp_pc_018",
+    "sentence": "The dog ___ (sleep) on the sofa all afternoon.",
+    "correct": "has been sleeping",
+    "distractors": ["has slept", "is sleeping", "slept"],
+    "explanation": "Present Perfect Continuous (has been sleeping) подчёркивает длительность сна, который持续了 весь afternoon и, вероятно, ещё продолжается. Present Perfect (has slept) был бы верен для результата."
+  },
+  {
+    "id": "pp_pc_019",
+    "sentence": "___ you ___ (finish) the report yet?",
+    "correct": "Have / finished",
+    "distractors": ["Have / been finishing", "Did / finish", "Are / finishing"],
+    "explanation": "Present Perfect (Have finished) используется с «yet» для вопроса о завершении действия к настоящему моменту. «Finish» — глагол результата, поэтому Continuous не используется."
+  },
+  {
+    "id": "pp_pc_020",
+    "sentence": "I ___ (not / eat) anything since yesterday morning.",
+    "correct": "haven't eaten",
+    "distractors": ["haven't been eating", "don't eat", "didn't eat"],
+    "explanation": "Present Perfect (haven't eaten) используется для отрицания действия вплоть до настоящего момента (since yesterday morning). Past Simple (didn't eat) был бы верен для конкретного времени в прошлом, но не для связи с настоящим."
+  }
+]

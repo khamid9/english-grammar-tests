@@ -1,0 +1,702 @@
+[
+  {
+    "id": "pa_001",
+    "sentence": "The letter ___ (send) every Monday.",
+    "correct": "is sent",
+    "distractors": ["is sending", "sends", "sent"],
+    "explanation": "Present Simple Passive: is/are + V3. Действие повторяется (every Monday), подлежащее (the letter) является объектом действия, а не его выполняет."
+  },
+  {
+    "id": "pa_002",
+    "sentence": "English ___ (speak) in many countries.",
+    "correct": "is spoken",
+    "distractors": ["is speaking", "speaks", "spoken"],
+    "explanation": "Present Simple Passive: is/are + V3. English не может само выполнять действие, язык — это объект, который говорят люди."
+  },
+  {
+    "id": "pa_003",
+    "sentence": "The shop ___ (close) at nine o'clock.",
+    "correct": "closes",
+    "distractors": ["is closed", "is closing", "closed"],
+    "explanation": "Present Simple Active. Это означает расписание магазина: он закрывается сам по расписанию, подлежащее (the shop) — активный участник."
+  },
+  {
+    "id": "pa_004",
+    "sentence": "Milk ___ (keep) in the fridge.",
+    "correct": "is kept",
+    "distractors": ["keeps", "is keeping", "kept"],
+    "explanation": "Present Simple Passive: is/are + V3. Молоко не хранит само себя — его хранят люди, поэтому нужен пассивный залог."
+  },
+  {
+    "id": "pa_005",
+    "sentence": "These books ___ (belong) to the library.",
+    "correct": "belong",
+    "distractors": ["are belonged", "are belonging", "belonged"],
+    "explanation": "Глагол belong не имеет пассивной формы, это непереходный глагол. Нельзя сказать \"are belonged\" — он используется только в активном залоге."
+  },
+  {
+    "id": "pa_006",
+    "sentence": "The homework ___ (finish) before dinner.",
+    "correct": "is finished",
+    "distractors": ["finishes", "is finishing", "finished"],
+    "explanation": "Present Simple Passive: is/are + V3. Домашнее задание не заканчивает само себя — его заканчивает ученик, подлежащее является объектом."
+  },
+  {
+    "id": "pa_007",
+    "sentence": "Coffee ___ (grow) in Brazil.",
+    "correct": "is grown",
+    "distractors": ["grows", "is growing", "grown"],
+    "explanation": "Present Simple Passive: is/are + V3. Кофе не выращивает сам себя — его выращивают фермеры, поэтому нужна пассивная конструкция."
+  },
+  {
+    "id": "pa_008",
+    "sentence": "The meetings ___ (hold) on Fridays.",
+    "correct": "are held",
+    "distractors": ["hold", "are holding", "held"],
+    "explanation": "Present Simple Passive: is/are + V3. Собрания не проводят сами себя — их проводят люди, подлежащее (meetings) — объект действия."
+  },
+  {
+    "id": "pa_009",
+    "sentence": "Pizza ___ (eat) all over the world.",
+    "correct": "is eaten",
+    "distractors": ["eats", "is eating", "eaten"],
+    "explanation": "Present Simple Passive: is/are + V3. Пиццу не едят она сама — её едят люди по всему миру, подлежащее является объектом."
+  },
+  {
+    "id": "pa_010",
+    "sentence": "The children ___ (take) to school by bus.",
+    "correct": "are taken",
+    "distractors": ["take", "are taking", "took"],
+    "explanation": "Present Simple Passive: is/are + V3. Дети не везут себя сами в школу — их везут автобусом, поэтому подлежащее является объектом действия."
+  },
+  {
+    "id": "pa_011",
+    "sentence": "Water ___ (need) for cooking.",
+    "correct": "is needed",
+    "distractors": ["needs", "is needing", "needed"],
+    "explanation": "Present Simple Passive: is/are + V3. Вода не нуждается сама в чём-либо — её используют для готовки, подлежащее является объектом."
+  },
+  {
+    "id": "pa_012",
+    "sentence": "The rules ___ (explain) on the first day.",
+    "correct": "are explained",
+    "distractors": ["explain", "are explaining", "explained"],
+    "explanation": "Present Simple Passive: is/are + V3. Правила не объясняют сами себя — их объясняет преподаватель, подлежащее является объектом."
+  },
+  {
+    "id": "pa_013",
+    "sentence": "Bread ___ (make) from flour.",
+    "correct": "is made",
+    "distractors": ["makes", "is making", "made"],
+    "explanation": "Present Simple Passive: is/are + V3. Хлеб не делает сам себя — его делают из муки, подлежащее является объектом действия."
+  },
+  {
+    "id": "pa_014",
+    "sentence": "The classes ___ (start) at eight.",
+    "correct": "start",
+    "distractors": ["are started", "are starting", "started"],
+    "explanation": "Present Simple Active. Это описание расписания: занятия начинаются сами по расписанию, подлежащее (classes) — активный участник."
+  },
+  {
+    "id": "pa_015",
+    "sentence": "The window ___ (break) last night.",
+    "correct": "was broken",
+    "distractors": ["broke", "was breaking", "has broken"],
+    "explanation": "Past Simple Passive: was/were + V3. Прошедшее время (last night), подлежащее (window) — объект действия, стекло разбили, а не оно само разбилось."
+  },
+  {
+    "id": "pa_016",
+    "sentence": "The meal ___ (prepare) by my mother.",
+    "correct": "was prepared",
+    "distractors": ["prepared", "was preparing", "has prepared"],
+    "explanation": "Past Simple Passive: was/were + V3. Указан активный агент (by my mother), подлежащее (meal) — объект действия."
+  },
+  {
+    "id": "pa_017",
+    "sentence": "The report ___ (write) yesterday.",
+    "correct": "was written",
+    "distractors": ["wrote", "was writing", "has written"],
+    "explanation": "Past Simple Passive: was/were + V3. Прошедшее время (yesterday), отчёт не писал сам себя — его написали, подлежащее является объектом."
+  },
+  {
+    "id": "pa_018",
+    "sentence": "The car ___ (park) in front of the house.",
+    "correct": "was parked",
+    "distractors": ["parked", "was parking", "has parked"],
+    "explanation": "Past Simple Passive: was/were + V3. Машина не припарковала сама себя — её припарковал водитель, подлежащее является объектом действия."
+  },
+  {
+    "id": "pa_019",
+    "sentence": "The TV ___ (watch) by the whole family.",
+    "correct": "was watched",
+    "distractors": ["watched", "was watching", "has watched"],
+    "explanation": "Past Simple Passive: was/were + V3. Телевизор не смотрит сам на себя — его смотрела вся семья, подлежащее является объектом."
+  },
+  {
+    "id": "pa_020",
+    "sentence": "The messages ___ (send) two hours ago.",
+    "correct": "were sent",
+    "distractors": ["sent", "were sending", "have sent"],
+    "explanation": "Past Simple Passive: was/were + V3. Множественное число (messages — were), прошедшее время (two hours ago), сообщения были отправлены, а не отправили сами."
+  },
+  {
+    "id": "pa_021",
+    "sentence": "The tree ___ (plant) in the garden.",
+    "correct": "was planted",
+    "distractors": ["planted", "was planting", "has planted"],
+    "explanation": "Past Simple Passive: was/were + V3. Дерево не посадило само себя — его посадили в саду, подлежащее является объектом действия."
+  },
+  {
+    "id": "pa_022",
+    "sentence": "The song ___ (sing) at the concert.",
+    "correct": "was sung",
+    "distractors": ["sang", "was singing", "has sung"],
+    "explanation": "Past Simple Passive: was/were + V3. Песня не поёт сама себя — её спели на концерте, подлежащее является объектом действия."
+  },
+  {
+    "id": "pa_023",
+    "sentence": "The question ___ (answer) correctly.",
+    "correct": "was answered",
+    "distractors": ["answered", "was answering", "has answered"],
+    "explanation": "Past Simple Passive: was/were + V3. Вопрос не ответил сам на себя — на него ответили правильно, подлежащее является объектом."
+  },
+  {
+    "id": "pa_024",
+    "sentence": "The cake ___ (eat) at the party.",
+    "correct": "was eaten",
+    "distractors": ["ate", "was eating", "has eaten"],
+    "explanation": "Past Simple Passive: was/were + V3. Торт не ел сам себя — его съели на вечеринке, подлежащее является объектом действия."
+  },
+  {
+    "id": "pa_025",
+    "sentence": "The shoes ___ (buy) on sale.",
+    "correct": "were bought",
+    "distractors": ["bought", "were buying", "have bought"],
+    "explanation": "Past Simple Passive: was/were + V3. Множественное число (shoes — were), обувь не купила сама себя — её купили на распродаже."
+  },
+  {
+    "id": "pa_026",
+    "sentence": "The door ___ (lock) before we left.",
+    "correct": "was locked",
+    "distractors": ["locked", "was locking", "has locked"],
+    "explanation": "Past Simple Passive: was/were + V3. Дверь не заперла сама себя — её заперли перед уходом, подлежащее является объектом действия."
+  },
+  {
+    "id": "pa_027",
+    "sentence": "The letter ___ (post) this morning.",
+    "correct": "was posted",
+    "distractors": ["posted", "was posting", "has posted"],
+    "explanation": "Past Simple Passive: was/were + V3. Письмо не отправило само себя — его отправили утром, подлежащее является объектом действия."
+  },
+  {
+    "id": "pa_028",
+    "sentence": "The flowers ___ (water) by the neighbour.",
+    "correct": "were watered",
+    "distractors": ["watered", "were watering", "have watered"],
+    "explanation": "Past Simple Passive: was/were + V3. Множественное число (flowers — were), цветы не полили сами себя — их полил сосед, указан активный агент (by the neighbour)."
+  },
+  {
+    "id": "pa_029",
+    "sentence": "The report ___ (send) tomorrow.",
+    "correct": "will be sent",
+    "distractors": ["will send", "will be sending", "sends"],
+    "explanation": "Future Simple Passive: will be + V3. Будущее время (tomorrow), отчёт не отправит сам себя — его отправят, подлежащее является объектом."
+  },
+  {
+    "id": "pa_030",
+    "sentence": "The meeting ___ (hold) next week.",
+    "correct": "will be held",
+    "distractors": ["will hold", "will be holding", "holds"],
+    "explanation": "Future Simple Passive: will be + V3. Будущее время (next week), собрание не проведёт само себя — его проведут люди."
+  },
+  {
+    "id": "pa_031",
+    "sentence": "The package ___ (deliver) on Friday.",
+    "correct": "will be delivered",
+    "distractors": ["will deliver", "will be delivering", "delivers"],
+    "explanation": "Future Simple Passive: will be + V3. Будущее время (on Friday), посылку не доставит сама себя — её доставят курьером."
+  },
+  {
+    "id": "pa_032",
+    "sentence": "The books ___ (return) to the library.",
+    "correct": "will be returned",
+    "distractors": ["will return", "will be returning", "returns"],
+    "explanation": "Future Simple Passive: will be + V3. Книги не вернут сами себя — их вернут в библиотеку, подлежащее является объектом действия."
+  },
+  {
+    "id": "pa_033",
+    "sentence": "The room ___ (clean) before the guests arrive.",
+    "correct": "will be cleaned",
+    "distractors": ["will clean", "will be cleaning", "cleans"],
+    "explanation": "Future Simple Passive: will be + V3. Комнату не уберёт сама себя — её уберут до прихода гостей, подлежащее является объектом."
+  },
+  {
+    "id": "pa_034",
+    "sentence": "The food ___ (serve) at seven o'clock.",
+    "correct": "will be served",
+    "distractors": ["will serve", "will be serving", "serves"],
+    "explanation": "Future Simple Passive: will be + V3. Еду не подаст сама себя — её подадут в семь часов, подлежащее является объектом действия."
+  },
+  {
+    "id": "pa_035",
+    "sentence": "The homework ___ (check) by the teacher.",
+    "correct": "will be checked",
+    "distractors": ["will check", "will be checking", "checks"],
+    "explanation": "Future Simple Passive: will be + V3. Домашнее задание не проверит само себя — его проверит учитель, указан активный агент (by the teacher)."
+  },
+  {
+    "id": "pa_036",
+    "sentence": "The results ___ (announce) next Monday.",
+    "correct": "will be announced",
+    "distractors": ["will announce", "will be announcing", "announces"],
+    "explanation": "Future Simple Passive: will be + V3. Будущее время (next Monday), результаты не объявят сами себя — их объявят в понедельник."
+  },
+  {
+    "id": "pa_037",
+    "sentence": "A new school ___ (build) next year.",
+    "correct": "will be built",
+    "distractors": ["will build", "will be building", "builds"],
+    "explanation": "Future Simple Passive: will be + V3. Будущее время (next year), школу не построит сама себя — её построят строители."
+  },
+  {
+    "id": "pa_038",
+    "sentence": "The tickets ___ (buy) online.",
+    "correct": "will be bought",
+    "distractors": ["will buy", "will be buying", "buys"],
+    "explanation": "Future Simple Passive: will be + V3. Билеты не купят сами себя — их купят онлайн, подлежащее является объектом действия."
+  },
+  {
+    "id": "pa_039",
+    "sentence": "The party ___ (organise) by Sarah.",
+    "correct": "will be organised",
+    "distractors": ["will organise", "will be organising", "organises"],
+    "explanation": "Future Simple Passive: will be + V3. Вечеринку не организует сама себя — её организует Sarah, указан активный агент."
+  },
+  {
+    "id": "pa_040",
+    "sentence": "The money ___ (pay) next week.",
+    "correct": "will be paid",
+    "distractors": ["will pay", "will be paying", "pays"],
+    "explanation": "Future Simple Passive: will be + V3. Деньги не заплатят сами себя — их заплатят на следующей неделе, подлежащее является объектом."
+  },
+  {
+    "id": "pa_041",
+    "sentence": "The house ___ (paint) right now.",
+    "correct": "is being painted",
+    "distractors": ["is painting", "is painted", "paints"],
+    "explanation": "Present Continuous Passive: is/are being + V3. Действие происходит прямо сейчас (right now), дом красят люди — подлежащее является объектом."
+  },
+  {
+    "id": "pa_042",
+    "sentence": "The dinner ___ (prepare) at the moment.",
+    "correct": "is being prepared",
+    "distractors": ["is preparing", "is prepared", "prepares"],
+    "explanation": "Present Continuous Passive: is/are being + V3. Действие происходит в данный момент (at the moment), ужин готовят люди — подлежащее является объектом."
+  },
+  {
+    "id": "pa_043",
+    "sentence": "The road ___ (repair) this week.",
+    "correct": "is being repaired",
+    "distractors": ["is repairing", "is repaired", "repairs"],
+    "explanation": "Present Continuous Passive: is/are being + V3. Дорогу ремонтируют на этой неделе, процесс ongoing, подлежащее является объектом действия."
+  },
+  {
+    "id": "pa_044",
+    "sentence": "The letters ___ (type) by the secretary.",
+    "correct": "are being typed",
+    "distractors": ["are typing", "are typed", "type"],
+    "explanation": "Present Continuous Passive: is/are being + V3. Множественное число (letters — are), письма печатает секретарь — подлежащее является объектом."
+  },
+  {
+    "id": "pa_045",
+    "sentence": "The floor ___ (wash) at the moment.",
+    "correct": "is being washed",
+    "distractors": ["is washing", "is washed", "washes"],
+    "explanation": "Present Continuous Passive: is/are being + V3. Пол моют прямо сейчас, процесс ongoing, подлежащее (floor) является объектом действия."
+  },
+  {
+    "id": "pa_046",
+    "sentence": "The car ___ (fix) in the garage now.",
+    "correct": "is being fixed",
+    "distractors": ["is fixing", "is fixed", "fixes"],
+    "explanation": "Present Continuous Passive: is/are being + V3. Машину чинят прямо сейчас (now), процесс ongoing, подлежащее является объектом."
+  },
+  {
+    "id": "pa_047",
+    "sentence": "The trees ___ (plant) in the park today.",
+    "correct": "are being planted",
+    "distractors": ["are planting", "are planted", "plant"],
+    "explanation": "Present Continuous Passive: is/are being + V3. Деревья сажают сегодня, процесс ongoing, подлежащее (trees) является объектом действия."
+  },
+  {
+    "id": "pa_048",
+    "sentence": "The patient ___ (examine) by the doctor.",
+    "correct": "is being examined",
+    "distractors": ["is examining", "is examined", "examines"],
+    "explanation": "Present Continuous Passive: is/are being + V3. Пациента осматривает врач, процесс ongoing, указан активный агент (by the doctor)."
+  },
+  {
+    "id": "pa_049",
+    "sentence": "The wall ___ (build) this month.",
+    "correct": "is being built",
+    "distractors": ["is building", "is built", "builds"],
+    "explanation": "Present Continuous Passive: is/are being + V3. Стену строят в этом месяце, процесс ongoing, подлежащее является объектом действия."
+  },
+  {
+    "id": "pa_050",
+    "sentence": "The music ___ (play) in the background.",
+    "correct": "is being played",
+    "distractors": ["is playing", "is played", "plays"],
+    "explanation": "Present Continuous Passive: is/are being + V3. Музыку играют на фоне, процесс ongoing, подлежащее (music) является объектом действия."
+  },
+  {
+    "id": "pa_051",
+    "sentence": "The books ___ (arrange) on the shelves.",
+    "correct": "are being arranged",
+    "distractors": ["are arranging", "are arranged", "arrange"],
+    "explanation": "Present Continuous Passive: is/are being + V3. Книги расставляют на полках, процесс ongoing, подлежащее является объектом действия."
+  },
+  {
+    "id": "pa_052",
+    "sentence": "The window ___ (clean) right now.",
+    "correct": "is being cleaned",
+    "distractors": ["is cleaning", "is cleaned", "cleans"],
+    "explanation": "Present Continuous Passive: is/are being + V3. Окно моют прямо сейчас, процесс ongoing, подлежащее является объектом действия."
+  },
+  {
+    "id": "pa_053",
+    "sentence": "The cake ___ (bake) when the phone rang.",
+    "correct": "was being baked",
+    "distractors": ["was baking", "was baked", "baked"],
+    "explanation": "Past Continuous Passive: was/were being + V3. Длительное действие в прошлом прервано другим действием (when the phone rang), торт пекли в этот момент."
+  },
+  {
+    "id": "pa_054",
+    "sentence": "The house ___ (paint) when it started to rain.",
+    "correct": "was being painted",
+    "distractors": ["was painting", "was painted", "painted"],
+    "explanation": "Past Continuous Passive: was/were being + V3. Длительное действие в прошлом (покраска дома) было прервано дождём, подлежащее является объектом."
+  },
+  {
+    "id": "pa_055",
+    "sentence": "The road ___ (repair) when we drove past.",
+    "correct": "was being repaired",
+    "distractors": ["was repairing", "was repaired", "repaired"],
+    "explanation": "Past Continuous Passive: was/were being + V3. Дорогу ремонтировали, когда мы проезжали мимо, длительное действие в прошлом, подлежащее является объектом."
+  },
+  {
+    "id": "pa_056",
+    "sentence": "The letter ___ (write) when the lights went out.",
+    "correct": "was being written",
+    "distractors": ["was writing", "was written", "wrote"],
+    "explanation": "Past Continuous Passive: was/were being + V3. Письмо писали, когда погас свет, длительное действие прервано, подлежащее является объектом."
+  },
+  {
+    "id": "pa_057",
+    "sentence": "The car ___ (wash) when the accident happened.",
+    "correct": "was being washed",
+    "distractors": ["was washing", "was washed", "washed"],
+    "explanation": "Past Continuous Passive: was/were being + V3. Машину мыли, когда произошла авария, длительное действие прервано, подлежащее является объектом."
+  },
+  {
+    "id": "pa_058",
+    "sentence": "The food ___ (serve) when the guests arrived.",
+    "correct": "was being served",
+    "distractors": ["was serving", "was served", "served"],
+    "explanation": "Past Continuous Passive: was/were being + V3. Еду подавали, когда гости пришли, длительное действие прервано, подлежащее является объектом."
+  },
+  {
+    "id": "pa_059",
+    "sentence": "The children ___ (take) to school when the bus broke down.",
+    "correct": "were being taken",
+    "distractors": ["were taking", "were taken", "took"],
+    "explanation": "Past Continuous Passive: was/were being + V3. Множественное число (children — were), детей везли в школу, когда автобус сломался."
+  },
+  {
+    "id": "pa_060",
+    "sentence": "The room ___ (clean) when I arrived.",
+    "correct": "was being cleaned",
+    "distractors": ["was cleaning", "was cleaned", "cleaned"],
+    "explanation": "Past Continuous Passive: was/were being + V3. Комнату убирали, когда я пришёл, длительное действие в прошлом, подлежащее является объектом."
+  },
+  {
+    "id": "pa_061",
+    "sentence": "The table ___ (set) when the doorbell rang.",
+    "correct": "was being set",
+    "distractors": ["was setting", "was set", "set"],
+    "explanation": "Past Continuous Passive: was/were being + V3. Сервировали стол, когда зазвонил дверной звонок, длительное действие прервано."
+  },
+  {
+    "id": "pa_062",
+    "sentence": "The flowers ___ (water) when it began to snow.",
+    "correct": "were being watered",
+    "distractors": ["were watering", "were watered", "watered"],
+    "explanation": "Past Continuous Passive: was/were being + V3. Множественное число (flowers — were), цветы поливали, когда начался снег, длительное действие прервано."
+  },
+  {
+    "id": "pa_063",
+    "sentence": "The email ___ (send) already.",
+    "correct": "has been sent",
+    "distractors": ["has sent", "has been sending", "sends"],
+    "explanation": "Present Perfect Passive: has/have been + V3. Указатель уже (already) — действие завершено, email отправили, подлежащее является объектом."
+  },
+  {
+    "id": "pa_064",
+    "sentence": "The work ___ (finish) at last.",
+    "correct": "has been finished",
+    "distractors": ["has finished", "has been finishing", "finishes"],
+    "explanation": "Present Perfect Passive: has/have been + V3. Работа завершена (at last), подлежащее (work) является объектом, а не выполняет действие."
+  },
+  {
+    "id": "pa_065",
+    "sentence": "The clothes ___ (wash) and dried.",
+    "correct": "have been washed",
+    "distractors": ["have washed", "have been washing", "wash"],
+    "explanation": "Present Perfect Passive: has/have been + V3. Множественное число (clothes — have), одежду постирали и высушели, подлежащее является объектом."
+  },
+  {
+    "id": "pa_066",
+    "sentence": "The problem ___ (solve) by the engineer.",
+    "correct": "has been solved",
+    "distractors": ["has solved", "has been solving", "solves"],
+    "explanation": "Present Perfect Passive: has/have been + V3. Проблему решил инженер (by the engineer), подлежащее (problem) является объектом."
+  },
+  {
+    "id": "pa_067",
+    "sentence": "The house ___ (buy) recently.",
+    "correct": "has been bought",
+    "distractors": ["has bought", "has been buying", "buys"],
+    "explanation": "Present Perfect Passive: has/have been + V3. Указатель recently — действие завершено в недавнем прошлом, дом купили, подлежащее является объектом."
+  },
+  {
+    "id": "pa_068",
+    "sentence": "The homework ___ (do) already.",
+    "correct": "has been done",
+    "distractors": ["has done", "has been doing", "does"],
+    "explanation": "Present Perfect Passive: has/have been + V3. Указатель already — домашнее задание сделали, подлежащее является объектом, а не выполняет действие."
+  },
+  {
+    "id": "pa_069",
+    "sentence": "The dinner ___ (cook) since noon.",
+    "correct": "has been cooked",
+    "distractors": ["has cooked", "has been cooking", "cooks"],
+    "explanation": "Present Perfect Passive: has/have been + V3. Указатель since noon — действие завершено, ужин приготовили, подлежащее является объектом."
+  },
+  {
+    "id": "pa_070",
+    "sentence": "The books ___ (return) to the shelf.",
+    "correct": "have been returned",
+    "distractors": ["have returned", "have been returning", "return"],
+    "explanation": "Present Perfect Passive: has/have been + V3. Множественное число (books — have), книги вернули на полку, подлежащее является объектом."
+  },
+  {
+    "id": "pa_071",
+    "sentence": "The car ___ (repair) this morning.",
+    "correct": "has been repaired",
+    "distractors": ["has repaired", "has been repairing", "repairs"],
+    "explanation": "Present Perfect Passive: has/have been + V3. Указатель this morning — действие завершено, машину починили, подлежащее является объектом."
+  },
+  {
+    "id": "pa_072",
+    "sentence": "The window ___ (break) and needs fixing.",
+    "correct": "has been broken",
+    "distractors": ["has broken", "has been breaking", "breaks"],
+    "explanation": "Present Perfect Passive: has/have been + V3. Окно разбили (и теперь его нужно чинить), подлежащее является объектом действия."
+  },
+  {
+    "id": "pa_073",
+    "sentence": "The messages ___ (read) by everyone.",
+    "correct": "have been read",
+    "distractors": ["have read", "have been reading", "read"],
+    "explanation": "Present Perfect Passive: has/have been + V3. Сообщения прочитали все (by everyone), подлежащее (messages) является объектом."
+  },
+  {
+    "id": "pa_074",
+    "sentence": "The cake ___ (eat) already.",
+    "correct": "has been eaten",
+    "distractors": ["has eaten", "has been eating", "eats"],
+    "explanation": "Present Perfect Passive: has/have been + V3. Указатель already — торт съели, подлежащее является объектом, а не выполняет действие."
+  },
+  {
+    "id": "pa_075",
+    "sentence": "The letter ___ (write) before I arrived.",
+    "correct": "had been written",
+    "distractors": ["was written", "has been written", "wrote"],
+    "explanation": "Past Perfect Passive: had been + V3. Действие завершилось до другого действия в прошлом (before I arrived), подлежащее является объектом."
+  },
+  {
+    "id": "pa_076",
+    "sentence": "The food ___ (serve) before we got there.",
+    "correct": "had been served",
+    "distractors": ["was served", "has been served", "served"],
+    "explanation": "Past Perfect Passive: had been + V3. Еду подали до того, как мы пришли (before we got there), подлежащее является объектом."
+  },
+  {
+    "id": "pa_077",
+    "sentence": "The house ___ (paint) before the party started.",
+    "correct": "had been painted",
+    "distractors": ["was painted", "has been painted", "painted"],
+    "explanation": "Past Perfect Passive: had been + V3. Дом покрасили до начала вечеринки (before the party started), подлежащее является объектом."
+  },
+  {
+    "id": "pa_078",
+    "sentence": "The homework ___ (finish) before the teacher came.",
+    "correct": "had been finished",
+    "distractors": ["was finished", "has been finished", "finished"],
+    "explanation": "Past Perfect Passive: had been + V3. Домашнее задание сделали до прихода учителя, подлежащее является объектом действия."
+  },
+  {
+    "id": "pa_079",
+    "sentence": "The car ___ (fix) before we needed it.",
+    "correct": "had been fixed",
+    "distractors": ["was fixed", "has been fixed", "fixed"],
+    "explanation": "Past Perfect Passive: had been + V3. Машину починили до того, как она нам понадобилась, подлежащее является объектом."
+  },
+  {
+    "id": "pa_080",
+    "sentence": "The shoes ___ (clean) before the wedding.",
+    "correct": "had been cleaned",
+    "distractors": ["were cleaned", "have been cleaned", "cleaned"],
+    "explanation": "Past Perfect Passive: had been + V3. Обувь почистили до свадьбы (before the wedding), подлежащее является объектом действия."
+  },
+  {
+    "id": "pa_081",
+    "sentence": "The report ___ (send) before the meeting began.",
+    "correct": "had been sent",
+    "distractors": ["was sent", "has been sent", "sent"],
+    "explanation": "Past Perfect Passive: had been + V3. Отчёт отправили до начала собрания, подлежащее является объектом действия."
+  },
+  {
+    "id": "pa_082",
+    "sentence": "The room ___ (tidy) before the guests arrived.",
+    "correct": "had been tidied",
+    "distractors": ["was tidied", "has been tidied", "tidied"],
+    "explanation": "Past Perfect Passive: had been + V3. Комнату прибрали до прихода гостей, подлежащее является объектом действия."
+  },
+  {
+    "id": "pa_083",
+    "sentence": "The work ___ (finish) by tomorrow.",
+    "correct": "must be finished",
+    "distractors": ["must finish", "must be finishing", "must has been finished"],
+    "explanation": "Must + be + V3 (пассив с модальным глаголом). Работа должна быть завершена к завтрашнему дню, подлежащее является объектом."
+  },
+  {
+    "id": "pa_084",
+    "sentence": "The rules ___ (follow) by all students.",
+    "correct": "must be followed",
+    "distractors": ["must follow", "must be following", "must has followed"],
+    "explanation": "Must + be + V3 (пассив с модальным глаголом). Правила должны соблюдаться всеми студентами, подлежащее является объектом."
+  },
+  {
+    "id": "pa_085",
+    "sentence": "The homework ___ (do) before class.",
+    "correct": "must be done",
+    "distractors": ["must do", "must be doing", "must has done"],
+    "explanation": "Must + be + V3 (пассив с модальным глаголом). Домашнее задание должно быть сделано до начала занятий, подлежащее является объектом."
+  },
+  {
+    "id": "pa_086",
+    "sentence": "The form ___ (fill) in black ink.",
+    "correct": "should be filled",
+    "distractors": ["should fill", "should be filling", "should has been filled"],
+    "explanation": "Should + be + V3 (пассив с модальным глаголом). Форму следует заполнять чёрными чернилами, подлежащее является объектом действия."
+  },
+  {
+    "id": "pa_087",
+    "sentence": "The plants ___ (water) every day.",
+    "correct": "need to be watered",
+    "distractors": ["need water", "need to water", "need be watered"],
+    "explanation": "Need + to be + V3 (пассив с глаголом need). Растения нуждаются в том, чтобы их поливали каждый день, подлежащее является объектом."
+  },
+  {
+    "id": "pa_088",
+    "sentence": "The room ___ (clean) regularly.",
+    "correct": "needs to be cleaned",
+    "distractors": ["needs cleaning", "needs to clean", "needs be cleaned"],
+    "explanation": "Needs + to be + V3 (пассив с глаголом need). Комнату нужно регулярно убирать, подлежащее является объектом действия."
+  },
+  {
+    "id": "pa_089",
+    "sentence": "The documents ___ (sign) by the manager.",
+    "correct": "can be signed",
+    "distractors": ["can sign", "can be signing", "can has been signed"],
+    "explanation": "Can + be + V3 (пассив с модальным глаголом). Документы могут быть подписаны менеджером, подлежащее является объектом."
+  },
+  {
+    "id": "pa_090",
+    "sentence": "The tickets ___ (buy) online.",
+    "correct": "can be bought",
+    "distractors": ["can buy", "can be buying", "can has bought"],
+    "explanation": "Can + be + V3 (пассив с модальным глаголом). Билеты можно купить онлайн, подлежащее является объектом действия."
+  },
+  {
+    "id": "pa_091",
+    "sentence": "The food ___ (eat) with a fork.",
+    "correct": "should be eaten",
+    "distractors": ["should eat", "should be eating", "should has eaten"],
+    "explanation": "Should + be + V3 (пассив с модальным глаголом). Еду следует есть вилкой, подлежащее является объектом действия."
+  },
+  {
+    "id": "pa_092",
+    "sentence": "The problem ___ (solve) by using this method.",
+    "correct": "can be solved",
+    "distractors": ["can solve", "can be solving", "can has solved"],
+    "explanation": "Can + be + V3 (пассив с модальным глаголом). Проблему можно решить, используя этот метод, подлежащее является объектом."
+  },
+  {
+    "id": "pa_093",
+    "sentence": "The letters ___ by the secretary every morning.",
+    "correct": "are typed",
+    "distractors": ["are typing", "type", "typed"],
+    "explanation": "Present Simple Passive: is/are + V3. Письма печатает секретарь каждое утро, подлежащее является объектом действия."
+  },
+  {
+    "id": "pa_094",
+    "sentence": "We ___ the old bridge next month.",
+    "correct": "will rebuild",
+    "distractors": ["will be rebuilt", "are rebuilt", "rebuilt"],
+    "explanation": "Future Simple Active: will + V1. Подлежащее (We) выполняет действие — мы перестроим мост, а не мост является объектом."
+  },
+  {
+    "id": "pa_095",
+    "sentence": "The students ___ the exam right now.",
+    "correct": "are taking",
+    "distractors": ["are taken", "is being taken", "take"],
+    "explanation": "Present Continuous Active. Студенты сдают экзамен прямо сейчас, подлежащее (students) — активный участник действия."
+  },
+  {
+    "id": "pa_096",
+    "sentence": "The museum ___ last year.",
+    "correct": "was opened",
+    "distractors": ["opened", "has been opened", "is opened"],
+    "explanation": "Past Simple Passive: was/were + V3. Прошедшее время (last year), музей открыли (а не он открылся сам), подлежащее является объектом."
+  },
+  {
+    "id": "pa_097",
+    "sentence": "She ___ the piano since she was five.",
+    "correct": "has played",
+    "distractors": ["has been played", "was played", "is played"],
+    "explanation": "Present Perfect Active: has/have + V3. Подлежащее (She) — активный участник: она играет на пианино, а не её играют."
+  },
+  {
+    "id": "pa_098",
+    "sentence": "The cake ___ by my sister at the moment.",
+    "correct": "is being made",
+    "distractors": ["is making", "makes", "is made"],
+    "explanation": "Present Continuous Passive: is/are being + V3. Торт готовит моя сестра прямо сейчас (at the moment), подлежащее является объектом."
+  },
+  {
+    "id": "pa_099",
+    "sentence": "They ___ the house when I called.",
+    "correct": "were painting",
+    "distractors": ["were painted", "are painted", "painted"],
+    "explanation": "Past Continuous Active. They (подлежащее) красили дом, когда я позвонил — подлежащее выполняет действие, это активный залог."
+  },
+  {
+    "id": "pa_100",
+    "sentence": "The homework ___ before the teacher arrived.",
+    "correct": "had been finished",
+    "distractors": ["finished", "has finished", "was finishing"],
+    "explanation": "Past Perfect Passive: had been + V3. Домашнее задание было сделано до прихода учителя (before the teacher arrived), подлежащее является объектом."
+  }
+]

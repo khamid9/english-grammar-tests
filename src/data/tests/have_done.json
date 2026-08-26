@@ -1,0 +1,142 @@
+[
+  {
+    "id": "hd_001",
+    "sentence": "I need to ___ my hair cut before the wedding next week.",
+    "correct": "have",
+    "distractors": ["has", "having", "had"],
+    "explanation": "Have + object + V3 (Past Participle) — конструкция, означающая, что действие выполнено кем-то другим за вас."
+  },
+  {
+    "id": "hd_002",
+    "sentence": "She had her car ___ at the local garage yesterday.",
+    "correct": "repaired",
+    "distractors": ["repairing", "repair", "repairs"],
+    "explanation": "После have/got + object используется третья форма глагола (V3) для выражения действия, сделанного другим человеком."
+  },
+  {
+    "id": "hd_003",
+    "sentence": "We are going to ___ the house painted this summer.",
+    "correct": "have",
+    "distractors": ["has", "having", "had"],
+    "explanation": "Конструкция have something done используется для описания ситуаций, когда кто-то выполняет действие за вас."
+  },
+  {
+    "id": "hd_004",
+    "sentence": "He got his laptop ___ because it was running very slowly.",
+    "correct": "fixed",
+    "distractors": ["fixing", "fix", "fixes"],
+    "explanation": "Get + object + V3 — аналогичная конструкция have something done, означающая, что действие выполнено кем-то другим."
+  },
+  {
+    "id": "hd_005",
+    "sentence": "They had the furniture ___ before the guests arrived.",
+    "correct": "delivered",
+    "distractors": ["delivering", "deliver", "delivers"],
+    "explanation": "После had + object стоит V3 (delivered) — действие выполнено кем-то другим."
+  },
+  {
+    "id": "hd_006",
+    "sentence": "I want to ___ my shoes repaired — the sole is coming off.",
+    "correct": "have",
+    "distractors": ["has", "having", "had"],
+    "explanation": "Want to have + object + V3 — хотите, чтобы кто-то выполнил действие за вас."
+  },
+  {
+    "id": "hd_007",
+    "sentence": "She had her phone ___ because the screen was cracked.",
+    "correct": "replaced",
+    "distractors": ["replacing", "replace", "replaces"],
+    "explanation": "Had + object + V3 (replaced) — действие было выполнено другим человеком."
+  },
+  {
+    "id": "hd_008",
+    "sentence": "We need to ___ the carpets cleaned before the party.",
+    "correct": "have",
+    "distractors": ["has", "having", "had"],
+    "explanation": "Need to have + object + V3 — необходимость, чтобы действие было выполнено кем-то другим."
+  },
+  {
+    "id": "hd_009",
+    "sentence": "He had the plumber ___ the leaking pipe in the kitchen.",
+    "correct": "fix",
+    "distractors": ["fixed", "fixing", "fixes"],
+    "explanation": "После had + object используется базовая форма глагола (V1), когда указывается исполнитель действия (the plumber)."
+  },
+  {
+    "id": "hd_010",
+    "sentence": "My mother is getting her curtains ___ next month.",
+    "correct": "washed",
+    "distractors": ["washing", "wash", "washes"],
+    "explanation": "Getting + object + V3 — процесс, при котором действие выполняется другим человеком."
+  },
+  {
+    "id": "hd_011",
+    "sentence": "I had the mechanic ___ the brakes on my car.",
+    "correct": "check",
+    "distractors": ["checked", "checking", "checks"],
+    "explanation": "Had + object + V1 (fix) с указанием исполнителя (the mechanic) — действие выполнено конкретным человеком."
+  },
+  {
+    "id": "hd_012",
+    "sentence": "She is having her portrait ___ by a famous artist.",
+    "correct": "painted",
+    "distractors": ["painting", "paint", "paints"],
+    "explanation": "Is having + object + V3 + by + исполнитель — страдательный залог конструкции have something done."
+  },
+  {
+    "id": "hd_013",
+    "sentence": "We had the garden ___ because we were too busy to do it ourselves.",
+    "correct": "tidied",
+    "distractors": ["tidying", "tidy", "tidies"],
+    "explanation": "Had + object + V3 (tidied) — действие было выполнено другим лицом по причине занятости."
+  },
+  {
+    "id": "hd_014",
+    "sentence": "He got his suit ___ for the job interview.",
+    "correct": "pressed",
+    "distractors": ["pressing", "press", "presses"],
+    "explanation": "Got + object + V3 (pressed) — действие выполнено кем-то другим для определённой цели."
+  },
+  {
+    "id": "hd_015",
+    "sentence": "I need to ___ my watch battery changed — it stopped working.",
+    "correct": "have",
+    "distractors": ["has", "having", "had"],
+    "explanation": "Need to have + object + V3 — необходимость в выполнении действия другим человеком."
+  },
+  {
+    "id": "hd_016",
+    "sentence": "They had the house ___ by a professional cleaning company.",
+    "correct": "cleaned",
+    "distractors": ["cleaning", "clean", "cleans"],
+    "explanation": "Had + object + V3 + by + исполнитель — действие выполнено профессиональной компанией."
+  },
+  {
+    "id": "hd_017",
+    "sentence": "She had her nails ___ at the beauty salon.",
+    "correct": "done",
+    "distractors": ["doing", "do", "does"],
+    "explanation": "Had + object + V3 (done) — стандартная конструкция для описания действия, выполненного за вас."
+  },
+  {
+    "id": "hd_018",
+    "sentence": "We got the roof ___ after the storm damaged it.",
+    "correct": "repaired",
+    "distractors": ["repairing", "repair", "repairs"],
+    "explanation": "Got + object + V3 (repaired) — действие было выполнено после определённого события."
+  },
+  {
+    "id": "hd_019",
+    "sentence": "He had the tyres ___ because they were completely worn out.",
+    "correct": "replaced",
+    "distractors": ["replacing", "replace", "replaces"],
+    "explanation": "Had + object + V3 (replaced) — действие выполнено из-за износа."
+  },
+  {
+    "id": "hd_020",
+    "sentence": "I am getting my teeth ___ at the dentist tomorrow morning.",
+    "correct": "checked",
+    "distractors": ["checking", "check", "checks"],
+    "explanation": "Am getting + object + V3 — действие будет выполнено другим человеком в будущем."
+  }
+]

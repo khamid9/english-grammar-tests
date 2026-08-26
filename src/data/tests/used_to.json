@@ -1,0 +1,142 @@
+[
+  {
+    "id": "ut_001",
+    "sentence": "I ___ walk to school every day when I was a child.",
+    "correct": "used to",
+    "distractors": ["use to", "used to walking", "am used to"],
+    "explanation": "Used to + V1 — привычка в прошлом, которой больше нет. Be used to + V-ing — быть привычным к чему-то."
+  },
+  {
+    "id": "ut_002",
+    "sentence": "She is ___ waking up early because of her new job.",
+    "correct": "used to",
+    "distractors": ["use to", "used to wake", "use waking"],
+    "explanation": "Used to + V1 — привычка в прошлом, которой больше нет. Be used to + V-ing — быть привычным к чему-то."
+  },
+  {
+    "id": "ut_003",
+    "sentence": "We ___ play football in the park every weekend.",
+    "correct": "used to",
+    "distractors": ["use to", "used to playing", "are used to"],
+    "explanation": "Used to + V1 — привычка в прошлом, которой больше нет. Be used to + V-ing — быть привычным к чему-то."
+  },
+  {
+    "id": "ut_004",
+    "sentence": "He is ___ living alone since he moved to the city.",
+    "correct": "used to",
+    "distractors": ["use to", "used to live", "use living"],
+    "explanation": "Used to + V1 — привычка в прошлом, которой больше нет. Be used to + V-ing — быть привычным к чему-то."
+  },
+  {
+    "id": "ut_005",
+    "sentence": "They ___ have a big house, but they sold it last year.",
+    "correct": "used to",
+    "distractors": ["use to", "used to having", "are used to"],
+    "explanation": "Used to + V1 — привычка в прошлом, которой больше нет. Be used to + V-ing — быть привычным к чему-то."
+  },
+  {
+    "id": "ut_006",
+    "sentence": "I am ___ commuting long distances — it doesn't bother me anymore.",
+    "correct": "used to",
+    "distractors": ["use to", "used to commute", "use commuting"],
+    "explanation": "Used to + V1 — привычка в прошлом, которой больше нет. Be used to + V-ing — быть привычным к чему-то."
+  },
+  {
+    "id": "ut_007",
+    "sentence": "My grandmother ___ grow vegetables in her garden.",
+    "correct": "used to",
+    "distractors": ["use to", "used to growing", "is used to"],
+    "explanation": "Used to + V1 — привычка в прошлом, которой больше нет. Be used to + V-ing — быть привычным к чему-то."
+  },
+  {
+    "id": "ut_008",
+    "sentence": "She is ___ working under pressure — she's been doing it for years.",
+    "correct": "used to",
+    "distractors": ["use to", "used to work", "use working"],
+    "explanation": "Used to + V1 — привычка в прошлом, которой больше нет. Be used to + V-ing — быть привычным к чему-то."
+  },
+  {
+    "id": "ut_009",
+    "sentence": "We ___ go camping every summer when we were kids.",
+    "correct": "used to",
+    "distractors": ["use to", "used to going", "are used to"],
+    "explanation": "Used to + V1 — привычка в прошлом, которой больше нет. Be used to + V-ing — быть привычным к чему-то."
+  },
+  {
+    "id": "ut_010",
+    "sentence": "He is ___ getting up at 5 a.m. for his morning run.",
+    "correct": "used to",
+    "distractors": ["use to", "used to get", "use getting"],
+    "explanation": "Used to + V1 — привычка в прошлом, которой больше нет. Be used to + V-ing — быть привычным к чему-то."
+  },
+  {
+    "id": "ut_011",
+    "sentence": "I ___ live in London, but I moved to Manchester two years ago.",
+    "correct": "used to",
+    "distractors": ["use to", "used to living", "am used to"],
+    "explanation": "Used to + V1 — привычка в прошлом, которой больше нет. Be used to + V-ing — быть привычным к чему-то."
+  },
+  {
+    "id": "ut_012",
+    "sentence": "You will get ___ driving on the left side of the road after a while.",
+    "correct": "used to",
+    "distractors": ["use to", "used to drive", "use driving"],
+    "explanation": "Used to + V1 — привычка в прошлом, которой больше нет. Be used to + V-ing — быть привычным к чему-то."
+  },
+  {
+    "id": "ut_013",
+    "sentence": "She ___ be very shy, but now she talks to everyone easily.",
+    "correct": "used to",
+    "distractors": ["use to", "used to being", "is used to"],
+    "explanation": "Used to + V1 — привычка в прошлом, которой больше нет. Be used to + V-ing — быть привычным к чему-то."
+  },
+  {
+    "id": "ut_014",
+    "sentence": "I am ___ sleeping with the window open, even in winter.",
+    "correct": "used to",
+    "distractors": ["use to", "used to sleep", "use sleeping"],
+    "explanation": "Used to + V1 — привычка в прошлом, которой больше нет. Be used to + V-ing — быть привычным к чему-то."
+  },
+  {
+    "id": "ut_015",
+    "sentence": "My father ___ smoke, but he gave it up five years ago.",
+    "correct": "used to",
+    "distractors": ["use to", "used to smoking", "is used to"],
+    "explanation": "Used to + V1 — привычка в прошлом, которой больше нет. Be used to + V-ing — быть привычным к чему-то."
+  },
+  {
+    "id": "ut_016",
+    "sentence": "We are ___ working from home now — the office is optional.",
+    "correct": "used to",
+    "distractors": ["use to", "used to work", "use working"],
+    "explanation": "Used to + V1 — привычка в прошлом, которой больше нет. Be used to + V-ing — быть привычным к чему-то."
+  },
+  {
+    "id": "ut_017",
+    "sentence": "He ___ take the bus to work, but now he rides his bike.",
+    "correct": "used to",
+    "distractors": ["use to", "used to taking", "is used to"],
+    "explanation": "Used to + V1 — привычка в прошлом, которой больше нет. Be used to + V-ing — быть привычным к чему-то."
+  },
+  {
+    "id": "ut_018",
+    "sentence": "I am ___ eating spicy food — I grew up in Mexico.",
+    "correct": "used to",
+    "distractors": ["use to", "used to eat", "use eating"],
+    "explanation": "Used to + V1 — привычка в прошлом, которой больше нет. Be used to + V-ing — быть привычным к чему-то."
+  },
+  {
+    "id": "ut_019",
+    "sentence": "They ___ live in a small flat, but now they have a big house.",
+    "correct": "used to",
+    "distractors": ["use to", "used to living", "are used to"],
+    "explanation": "Used to + V1 — привычка в прошлом, которой больше нет. Be used to + V-ing — быть привычным к чему-то."
+  },
+  {
+    "id": "ut_020",
+    "sentence": "She is ___ handling difficult customers at her new job.",
+    "correct": "used to",
+    "distractors": ["use to", "used to handle", "use handling"],
+    "explanation": "Used to + V1 — привычка в прошлом, которой больше нет. Be used to + V-ing — быть привычным к чему-то."
+  }
+]

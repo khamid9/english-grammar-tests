@@ -1,0 +1,142 @@
+[
+  {
+    "id": "vp_001",
+    "sentence": "Please look ___ the blackboard and pay attention.",
+    "correct": "at",
+    "distractors": ["for", "to", "on"],
+    "explanation": "Look AT — смотреть на что-то (направление взгляда). Look for — искать, look to — обращаться к."
+  },
+  {
+    "id": "vp_002",
+    "sentence": "I need to look ___ my keys before we leave the house.",
+    "correct": "for",
+    "distractors": ["at", "after", "into"],
+    "explanation": "Look FOR — искать что-то. Look after — ухаживать за, look into — исследовать."
+  },
+  {
+    "id": "vp_003",
+    "sentence": "Who will look ___ the baby while you're at work?",
+    "correct": "after",
+    "distractors": ["for", "at", "into"],
+    "explanation": "Look AFTER — ухаживать за кем-то, заботиться о ком-то."
+  },
+  {
+    "id": "vp_004",
+    "sentence": "Can you listen ___ this song? It's my favourite.",
+    "correct": "to",
+    "distractors": ["at", "for", "on"],
+    "explanation": "Listen TO — слушать что-то. Глагол listen всегда требует предлог to."
+  },
+  {
+    "id": "vp_005",
+    "sentence": "We are waiting ___ the bus in the rain.",
+    "correct": "for",
+    "distractors": ["at", "to", "on"],
+    "explanation": "Wait FOR — ждать кого-то/что-то. Wait for — единственная правильная конструкция."
+  },
+  {
+    "id": "vp_006",
+    "sentence": "Your success depends ___ how much effort you put in.",
+    "correct": "on",
+    "distractors": ["of", "in", "for"],
+    "explanation": "Depend ON — зависеть от чего-то. Глагол depend требует предлог on."
+  },
+  {
+    "id": "vp_007",
+    "sentence": "I believe ___ being honest with the people around you.",
+    "correct": "in",
+    "distractors": ["on", "at", "about"],
+    "explanation": "Believe IN — верить во что-то/кого-то. Believe in — убеждённость в ценности чего-то."
+  },
+  {
+    "id": "vp_008",
+    "sentence": "She doesn't care ___ what other people think.",
+    "correct": "about",
+    "distractors": ["of", "for", "on"],
+    "explanation": "Care ABOUT — заботиться о чём-то, интересоваться чем-то. Care for — заботиться о ком-то."
+  },
+  {
+    "id": "vp_009",
+    "sentence": "This book belongs ___ the school library.",
+    "correct": "to",
+    "distractors": ["with", "of", "for"],
+    "explanation": "Belong TO — принадлежать кому-то/чему-то. Глагол belong требует предлог to."
+  },
+  {
+    "id": "vp_010",
+    "sentence": "I completely agree ___ your plan for the weekend.",
+    "correct": "with",
+    "distractors": ["to", "on", "about"],
+    "explanation": "Agree WITH — соглашаться с кем-то/с мнением. Agree TO — соглашаться на предложение."
+  },
+  {
+    "id": "vp_011",
+    "sentence": "He wants to apply ___ a new job at the hospital.",
+    "correct": "for",
+    "distractors": ["to", "at", "on"],
+    "explanation": "Apply FOR — подавать заявку на что-то (должность, место). Apply to — применять к."
+  },
+  {
+    "id": "vp_012",
+    "sentence": "The customers complain ___ the slow internet connection.",
+    "correct": "about",
+    "distractors": ["of", "to", "on"],
+    "explanation": "Complain ABOUT — жаловаться на что-то. Complain TO — жаловаться кому-то."
+  },
+  {
+    "id": "vp_013",
+    "sentence": "I can't concentrate ___ my homework with all this noise.",
+    "correct": "on",
+    "distractors": ["at", "in", "to"],
+    "explanation": "Concentrate ON — сосредоточиться на чём-то. Глагол concentrate требует предлог on."
+  },
+  {
+    "id": "vp_014",
+    "sentence": "The team consists ___ ten players and two coaches.",
+    "correct": "of",
+    "distractors": ["in", "from", "about"],
+    "explanation": "Consist OF — состоять из чего-то. Глагол consist требует предлог of."
+  },
+  {
+    "id": "vp_015",
+    "sentence": "She often dreams ___ travelling around the world.",
+    "correct": "about",
+    "distractors": ["of", "on", "to"],
+    "explanation": "Dream ABOUT — мечтать о чём-то. Dream of тоже возможно, но about более распространено."
+  },
+  {
+    "id": "vp_016",
+    "sentence": "He insisted ___ paying for the dinner.",
+    "correct": "on",
+    "distractors": ["in", "at", "about"],
+    "explanation": "Insist ON — настаивать на чём-то. Insist on + V-ing или существительное."
+  },
+  {
+    "id": "vp_017",
+    "sentence": "Don't laugh ___ your classmates when they make mistakes.",
+    "correct": "at",
+    "distractors": ["about", "on", "to"],
+    "explanation": "Laugh AT — смеяться над кем-то. Laugh about — смеяться по поводу чего-то."
+  },
+  {
+    "id": "vp_018",
+    "sentence": "We're all looking forward ___ the summer holidays.",
+    "correct": "to",
+    "distractors": ["at", "for", "on"],
+    "explanation": "Look forward TO — с нетерпением ждать чего-то. To — предлог, после которого нужен V-ing или noun."
+  },
+  {
+    "id": "vp_019",
+    "sentence": "How much did you pay ___ the new smartphone?",
+    "correct": "for",
+    "distractors": ["to", "on", "about"],
+    "explanation": "Pay FOR — платить за что-то. Pay to — платить кому-то (лицу)."
+  },
+  {
+    "id": "vp_020",
+    "sentence": "You can rely ___ me to help you with the move.",
+    "correct": "on",
+    "distractors": ["in", "at", "to"],
+    "explanation": "Rely ON — полагаться на кого-то/что-то. Глагол rely требует предлог on."
+  }
+]

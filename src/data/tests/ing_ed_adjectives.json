@@ -1,0 +1,142 @@
+[
+  {
+    "id": "ie_001",
+    "sentence": "The movie was very ___. I almost fell asleep.",
+    "correct": "boring",
+    "distractors": ["bored", "bore", "boringly"],
+    "explanation": "Прилагательные на -ing описывают источник раздражения/интереса (boring = скучный), а на -ed — человека, который это чувствует (bored = скучающий)."
+  },
+  {
+    "id": "ie_002",
+    "sentence": "I was really ___ when I heard the good news.",
+    "correct": "excited",
+    "distractors": ["exciting", "excite", "excitement"],
+    "explanation": "Прилагательные на -ing описывают источник раздражения/интереса (boring = скучный), а на -ed — человека, который это чувствует (bored = скучающий)."
+  },
+  {
+    "id": "ie_003",
+    "sentence": "This book is very ___. I can't put it down.",
+    "correct": "interesting",
+    "distractors": ["interested", "interest", "interestingly"],
+    "explanation": "Прилагательные на -ing описывают источник раздражения/интереса (boring = скучный), а на -ed — человека, который это чувствует (bored = скучающий)."
+  },
+  {
+    "id": "ie_004",
+    "sentence": "She felt ___ by all the new rules at work.",
+    "correct": "confused",
+    "distractors": ["confusing", "confuse", "confusion"],
+    "explanation": "Прилагательные на -ing описывают источник раздражения/интереса (boring = скучный), а на -ed — человека, который это чувствует (bored = скучающий)."
+  },
+  {
+    "id": "ie_005",
+    "sentence": "The news was quite ___. I didn't expect it at all.",
+    "correct": "surprising",
+    "distractors": ["surprised", "surprise", "surprisingly"],
+    "explanation": "Прилагательные на -ing описывают источник раздражения/интереса (boring = скучный), а на -ed — человека, который это чувствует (bored = скучающий)."
+  },
+  {
+    "id": "ie_006",
+    "sentence": "After the long hike, we were all completely ___.",
+    "correct": "tired",
+    "distractors": ["tiring", "tire", "tiresome"],
+    "explanation": "Прилагательные на -ing описывают источник раздражения/интереса (boring = скучный), а на -ed — человека, который это чувствует (bored = скучающий)."
+  },
+  {
+    "id": "ie_007",
+    "sentence": "The result of the exam was very ___ for most students.",
+    "correct": "disappointing",
+    "distractors": ["disappointed", "disappoint", "disappointment"],
+    "explanation": "Прилагательные на -ing описывают источник раздражения/интереса (boring = скучный), а на -ed — человека, который это чувствует (bored = скучающий)."
+  },
+  {
+    "id": "ie_008",
+    "sentence": "I was ___ by how quickly she solved the puzzle.",
+    "correct": "amazed",
+    "distractors": ["amazing", "amaze", "amazement"],
+    "explanation": "Прилагательные на -ing описывают источник раздражения/интереса (boring = скучный), а на -ed — человека, который это чувствует (bored = скучающий)."
+  },
+  {
+    "id": "ie_009",
+    "sentence": "The traffic jam was extremely ___. We sat there for two hours.",
+    "correct": "frustrating",
+    "distractors": ["frustrated", "frustrate", "frustration"],
+    "explanation": "Прилагательные на -ing описывают источник раздражения/интереса (boring = скучный), а на -ed — человека, который это чувствует (bored = скучающий)."
+  },
+  {
+    "id": "ie_010",
+    "sentence": "She was very ___ with the quality of the new phone.",
+    "correct": "satisfied",
+    "distractors": ["satisfying", "satisfy", "satisfaction"],
+    "explanation": "Прилагательные на -ing описывают источник раздражения/интереса (boring = скучный), а на -ed — человека, который это чувствует (bored = скучающий)."
+  },
+  {
+    "id": "ie_011",
+    "sentence": "The neighbours' dog is really ___. It barks all night.",
+    "correct": "annoying",
+    "distractors": ["annoyed", "annoy", "annoyance"],
+    "explanation": "Прилагательные на -ing описывают источник раздражения/интереса (boring = скучный), а на -ed — человека, который это чувствует (bored = скучающий)."
+  },
+  {
+    "id": "ie_012",
+    "sentence": "He was ___ when he tripped in front of everyone.",
+    "correct": "embarrassed",
+    "distractors": ["embarrassing", "embarrass", "embarrassment"],
+    "explanation": "Прилагательные на -ing описывают источник раздражения/интереса (boring = скучный), а на -ed — человека, который это чувствует (bored = скучающий)."
+  },
+  {
+    "id": "ie_013",
+    "sentence": "The thunderstorm last night was really ___.",
+    "correct": "frightening",
+    "distractors": ["frightened", "frighten", "fright"],
+    "explanation": "Прилагательные на -ing описывают источник раздражения/интереса (boring = скучный), а на -ed — человека, который это чувствует (bored = скучающий)."
+  },
+  {
+    "id": "ie_014",
+    "sentence": "We had a very ___ weekend at the countryside.",
+    "correct": "relaxing",
+    "distractors": ["relaxed", "relax", "relaxation"],
+    "explanation": "Прилагательные на -ing описывают источник раздражения/интереса (boring = скучный), а на -ed — человека, который это чувствует (bored = скучающий)."
+  },
+  {
+    "id": "ie_015",
+    "sentence": "The children were ___ by the loud explosion.",
+    "correct": "frightened",
+    "distractors": ["frightening", "frighten", "fright"],
+    "explanation": "Прилагательные на -ing описывают источник раздражения/интереса (boring = скучный), а на -ed — человека, который это чувствует (bored = скучающий)."
+  },
+  {
+    "id": "ie_016",
+    "sentence": "The documentary about ocean life is really ___.",
+    "correct": "fascinating",
+    "distractors": ["fascinated", "fascinate", "fascination"],
+    "explanation": "Прилагательные на -ing описывают источник раздражения/интереса (boring = скучный), а на -ed — человека, который это чувствует (bored = скучающий)."
+  },
+  {
+    "id": "ie_017",
+    "sentence": "She felt ___ because she forgot her lines on stage.",
+    "correct": "embarrassed",
+    "distractors": ["embarrassing", "embarrass", "embarrassment"],
+    "explanation": "Прилагательные на -ing описывают источник раздражения/интереса (boring = скучный), а на -ed — человека, который это чувствует (bored = скучающий)."
+  },
+  {
+    "id": "ie_018",
+    "sentence": "The exam instructions were quite ___. Nobody understood them.",
+    "correct": "confusing",
+    "distractors": ["confused", "confuse", "confusion"],
+    "explanation": "Прилагательные на -ing описывают источник раздражения/интереса (boring = скучный), а на -ed — человека, который это чувствует (bored = скучающий)."
+  },
+  {
+    "id": "ie_019",
+    "sentence": "I was very ___ by the unexpected gift from my friend.",
+    "correct": "surprised",
+    "distractors": ["surprising", "surprise", "surprisingly"],
+    "explanation": "Прилагательные на -ing описывают источник раздражения/интереса (boring = скучный), а на -ed — человека, который это чувствует (bored = скучающий)."
+  },
+  {
+    "id": "ie_020",
+    "sentence": "Waiting in line for three hours was really ___.",
+    "correct": "frustrating",
+    "distractors": ["frustrated", "frustrate", "frustration"],
+    "explanation": "Прилагательные на -ing описывают источник раздражения/интереса (boring = скучный), а на -ed — человека, который это чувствует (bored = скучающий)."
+  }
+]

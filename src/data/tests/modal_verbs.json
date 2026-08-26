@@ -1,0 +1,142 @@
+[
+  {
+    "id": "mv_001",
+    "sentence": "___ you help me carry these boxes, please?",
+    "correct": "Could",
+    "distractors": ["Must", "Have to", "May"],
+    "explanation": "Could используется для вежливой просьбы — более мягкая и учтивая форма, чем can."
+  },
+  {
+    "id": "mv_002",
+    "sentence": "You ___ wear a helmet when you ride a bike — it's the law.",
+    "correct": "have to",
+    "distractors": ["can", "could", "would"],
+    "explanation": "Have to выражает обязанность, установленную извне (закон, правила). Must — аналогичное значение, но для внутренних побуждений."
+  },
+  {
+    "id": "mv_003",
+    "sentence": "She ___ speak three languages fluently.",
+    "correct": "can",
+    "distractors": ["must", "has to", "should"],
+    "explanation": "Can выражает способность — умение делать что-то (говорить на трёх языках)."
+  },
+  {
+    "id": "mv_004",
+    "sentence": "You ___ smoke in this building. It's not allowed.",
+    "correct": "can't",
+    "distractors": ["mustn't", "don't have to", "shouldn't"],
+    "explanation": "Can't выражает запрет, основанный на правилах или законах — курить в этом здании нельзя."
+  },
+  {
+    "id": "mv_005",
+    "sentence": "I ___ drive, but I prefer taking the bus.",
+    "correct": "can",
+    "distractors": ["must", "have to", "should"],
+    "explanation": "Can выражает наличие способности — я умею водить, но предпочитаю автобус."
+  },
+  {
+    "id": "mv_006",
+    "sentence": "You look tired. You ___ go to bed early tonight.",
+    "correct": "should",
+    "distractors": ["must", "can", "have to"],
+    "explanation": "Should используется для советов и рекомендаций — тебе стоит лечь пораньше."
+  },
+  {
+    "id": "mv_007",
+    "sentence": "___ I borrow your pen for a moment?",
+    "correct": "Can",
+    "distractors": ["Must", "Have to", "Should"],
+    "explanation": "Can используется для разговорных просьб — можно мне взять ручку? Это неформальная и распространённая форма."
+  },
+  {
+    "id": "mv_008",
+    "sentence": "When I was young, I ___ run very fast.",
+    "correct": "could",
+    "distractors": ["can", "must", "had to"],
+    "explanation": "Could — прошедшая форма от can, используется для описания способностей в прошлом."
+  },
+  {
+    "id": "mv_009",
+    "sentence": "You ___ finish this report by tomorrow morning.",
+    "correct": "must",
+    "distractors": ["can", "could", "might"],
+    "explanation": "Must выражает строгую необходимость или обязательство — ты должен закончить этот отчёт."
+  },
+  {
+    "id": "mv_010",
+    "sentence": "You ___ bring a gift to the party — it's optional.",
+    "correct": "don't have to",
+    "distractors": ["mustn't", "can't", "shouldn't"],
+    "explanation": "Don't have to означает отсутствие необходимости — можно не приносить подарок, это необязательно."
+  },
+  {
+    "id": "mv_011",
+    "sentence": "___ you play the piano when you were a child?",
+    "correct": "Could",
+    "distractors": ["Can", "Must", "Should"],
+    "explanation": "Could используется для вопросов о способностях в прошлом — ты умел играть на пианино в детстве?"
+  },
+  {
+    "id": "mv_012",
+    "sentence": "Students ___ hand in their assignments on time.",
+    "correct": "have to",
+    "distractors": ["can", "could", "would"],
+    "explanation": "Have to выражает обязанность, установленную правилами учебного заведения — студенты должны сдавать работу вовремя."
+  },
+  {
+    "id": "mv_013",
+    "sentence": "You ___ talk during the exam. It's forbidden.",
+    "correct": "mustn't",
+    "distractors": ["don't have to", "can't", "shouldn't"],
+    "explanation": "Mustn't выражает запрет — категорически нельзя разговаривать во время экзамена."
+  },
+  {
+    "id": "mv_014",
+    "sentence": "She ___ be at home because the lights are off.",
+    "correct": "can't",
+    "distractors": ["mustn't", "shouldn't", "doesn't have to"],
+    "explanation": "Can't используется для выводов и предположений — она не может быть дома, потому что свет выключен."
+  },
+  {
+    "id": "mv_015",
+    "sentence": "You ___ see a doctor if the headache doesn't go away.",
+    "correct": "should",
+    "distractors": ["can", "must", "have to"],
+    "explanation": "Should используется для рекомендаций — тебе стоит обратиться к врачу, если головная боль не проходит."
+  },
+  {
+    "id": "mv_016",
+    "sentence": "___ you open the window? It's very hot in here.",
+    "correct": "Could",
+    "distractors": ["Must", "Have to", "Shall"],
+    "explanation": "Could используется для вежливой просьбы — более учтивая форма, чем can или will."
+  },
+  {
+    "id": "mv_017",
+    "sentence": "I ___ work late tonight to finish the project.",
+    "correct": "have to",
+    "distractors": ["can", "could", "would"],
+    "explanation": "Have to выражает необходимость, обусловленную внешними обстоятельствами — мне нужно задержаться на работе из-за проекта."
+  },
+  {
+    "id": "mv_018",
+    "sentence": "You ___ drive on the left side of the road in the UK.",
+    "correct": "have to",
+    "distractors": ["can", "should", "would"],
+    "explanation": "Have to выражает обязанность, установленную законом — в Великобритании нужно ехать по левой стороне дороги."
+  },
+  {
+    "id": "mv_019",
+    "sentence": "He ___ lift heavy boxes when he worked at the warehouse.",
+    "correct": "could",
+    "distractors": ["can", "must", "has to"],
+    "explanation": "Could используется для описания способности в прошлом — он мог поднимать тяжёлые коробки на складе."
+  },
+  {
+    "id": "mv_020",
+    "sentence": "You ___ worry about the test — it's going to be easy.",
+    "correct": "don't have to",
+    "distractors": ["mustn't", "can't", "shouldn't"],
+    "explanation": "Don't have to означает отсутствие необходимости — тебе не нужно переживать из-за теста."
+  }
+]

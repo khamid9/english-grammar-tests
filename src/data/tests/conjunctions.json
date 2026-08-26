@@ -1,0 +1,142 @@
+[
+  {
+    "id": "cj_001",
+    "sentence": "___ it was raining, we decided to go for a walk.",
+    "correct": "Although",
+    "distractors": ["Despite", "In spite of", "Because of"],
+    "explanation": "Although + подлежащее + глагол (clause). Despite/In spite of + существительное/герундий, но не clause!"
+  },
+  {
+    "id": "cj_002",
+    "sentence": "She went to work ___ feeling unwell.",
+    "correct": "In spite of",
+    "distractors": ["Although", "Though", "Because"],
+    "explanation": "In spite of + герундий (V-ing), потому что предлог of требует существительное или герундий, а не clause."
+  },
+  {
+    "id": "cj_003",
+    "sentence": "___ the cold weather, the children played outside all afternoon.",
+    "correct": "Despite",
+    "distractors": ["Although", "Though", "Because of"],
+    "explanation": "Despite + существительное/герундий (но не clause!). Хотя Despite и In spite of синонимы,Despite используется чаще."
+  },
+  {
+    "id": "cj_004",
+    "sentence": "He passed the exam ___ he didn't study very much.",
+    "correct": "Although",
+    "distractors": ["Despite", "In spite of", "Because"],
+    "explanation": "Although + полный clause (подлежащее + глагол). Despite/In spite of требуют существительное или герундий."
+  },
+  {
+    "id": "cj_005",
+    "sentence": "___ the traffic jam, we arrived on time.",
+    "correct": "In spite of",
+    "distractors": ["Although", "Though", "Because of"],
+    "explanation": "In spite of + существительное (the traffic jam). Although/Though требуют после себя clause."
+  },
+  {
+    "id": "cj_006",
+    "sentence": "She smiled ___ she was nervous about the interview.",
+    "correct": "Though",
+    "distractors": ["Despite", "In spite of", "Because"],
+    "explanation": "Though + подлежащее + глагол (clause). Though — разговорный синоним although."
+  },
+  {
+    "id": "cj_007",
+    "sentence": "___ his age, Grandpa still goes jogging every morning.",
+    "correct": "Despite",
+    "distractors": ["Although", "Though", "Because of"],
+    "explanation": "Despite + существительное (his age). Despite/In spite of + noun; Although/Though + clause."
+  },
+  {
+    "id": "cj_008",
+    "sentence": "We enjoyed the movie ___ the long running time.",
+    "correct": "Despite",
+    "distractors": ["Although", "Though", "Because"],
+    "explanation": "Despite + существительное (the long running time). Although/Though + clause с подлежащим и глаголом."
+  },
+  {
+    "id": "cj_009",
+    "sentence": "___ she loves cooking, she rarely has time to prepare meals.",
+    "correct": "Although",
+    "distractors": ["Despite", "In spite of", "Because"],
+    "explanation": "Although + clause (she loves cooking). Despite/In spite of не могут вводить clause напрямую."
+  },
+  {
+    "id": "cj_010",
+    "sentence": "He bought the shoes ___ they were expensive.",
+    "correct": "Though",
+    "distractors": ["Despite", "In spite of", "Because of"],
+    "explanation": "Though + clause (they were expensive). Though и although — синонимы, though более неформальный."
+  },
+  {
+    "id": "cj_011",
+    "sentence": "___ the heavy snow, the school stayed open.",
+    "correct": "In spite of",
+    "distractors": ["Although", "Though", "Because"],
+    "explanation": "In spite of + существительное (the heavy snow). Хотя/Though требуют после себя полное предложение."
+  },
+  {
+    "id": "cj_012",
+    "sentence": "They had a great holiday ___ the bad weather.",
+    "correct": "Despite",
+    "distractors": ["Although", "Though", "Because of"],
+    "explanation": "Despite + существительное (the bad weather). Despite и In spite of используются с noun/gerund, не с clause."
+  },
+  {
+    "id": "cj_013",
+    "sentence": "___ the instructions, I still made a mistake.",
+    "correct": "Despite",
+    "distractors": ["Although", "Though", "Because"],
+    "explanation": "Despite + существительное (the instructions). Although/Though + подлежащее + глагол."
+  },
+  {
+    "id": "cj_014",
+    "sentence": "She didn't give up ___ all the difficulties.",
+    "correct": "In spite of",
+    "distractors": ["Although", "Though", "Because of"],
+    "explanation": "In spite of + существительное (all the difficulties). Although/Though требуют clause."
+  },
+  {
+    "id": "cj_015",
+    "sentence": "___ being the youngest, he is the tallest in the class.",
+    "correct": "Despite",
+    "distractors": ["Although", "Though", "Because"],
+    "explanation": "Despite + герундий (being the youngest). Despite/In spite of + V-ing — допустимая конструкция."
+  },
+  {
+    "id": "cj_016",
+    "sentence": "We walked to the station ___ the rain.",
+    "correct": "In spite of",
+    "distractors": ["Although", "Though", "Because of"],
+    "explanation": "In spite of + существительное (the rain). Although/Though + clause."
+  },
+  {
+    "id": "cj_017",
+    "sentence": "He kept laughing ___ the joke wasn't very funny.",
+    "correct": "Though",
+    "distractors": ["Despite", "In spite of", "Because"],
+    "explanation": "Though + clause (the joke wasn't very funny). Though и although вводят уступительные придаточные."
+  },
+  {
+    "id": "cj_018",
+    "sentence": "___ all her efforts, she didn't get the promotion.",
+    "correct": "Despite",
+    "distractors": ["Although", "Though", "Because of"],
+    "explanation": "Despite + существительное (all her efforts). Despite/In spite of синонимы, но despite короче и формальнее."
+  },
+  {
+    "id": "cj_019",
+    "sentence": "She went swimming ___ the warning about the strong currents.",
+    "correct": "Despite",
+    "distractors": ["Although", "Though", "Because"],
+    "explanation": "Despite + существительное (the warning). Although/Though + подлежащее + глагол."
+  },
+  {
+    "id": "cj_020",
+    "sentence": "___ being tired, he finished the project on schedule.",
+    "correct": "In spite of",
+    "distractors": ["Although", "Though", "Because"],
+    "explanation": "In spite of + герундий (being tired). Despite/In spite of принимают существительные и герундий, но не clauses."
+  }
+]
