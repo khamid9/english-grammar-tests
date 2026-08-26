@@ -1,0 +1,145 @@
+{
+  "title": "Present Perfect vs Past Perfect",
+  "questions": [
+    {
+      "id": "ppp_001",
+      "sentence": "I ___ (already/finish) my homework, so I can go out now.",
+      "correct": "have already finished",
+      "distractors": ["had already finished", "already finished", "am already finishing"],
+      "explanation": "Present Perfect используется, когда действие завершилось, но результат важен сейчас. Here the speaker can go out now because homework is done."
+    },
+    {
+      "id": "ppp_002",
+      "sentence": "By the time we arrived at the cinema, the film ___ (start).",
+      "correct": "had started",
+      "distractors": ["has started", "started", "was starting"],
+      "explanation": "Past Perfect показывает действие, которое произошло до другого действия в прошлом. The film started before they arrived."
+    },
+    {
+      "id": "ppp_003",
+      "sentence": "She ___ (never/be) to London, but she wants to visit it someday.",
+      "correct": "has never been",
+      "distractors": ["had never been", "never was", "is never being"],
+      "explanation": "Present Perfect используется с never для описания жизненного опыта до текущего момента. She still hasn't been to London."
+    },
+    {
+      "id": "ppp_004",
+      "sentence": "They ___ (already/eat) by the time I came to the restaurant.",
+      "correct": "had already eaten",
+      "distractors": ["have already eaten", "already ate", "are already eating"],
+      "explanation": "Past Perfect используется, когда одно действие произошло до конкретного момента в прошлом. I came — это прошлое, а еда — ещё раньше."
+    },
+    {
+      "id": "ppp_005",
+      "sentence": "We ___ (live) in this city since 2018.",
+      "correct": "have lived",
+      "distractors": ["had lived", "lived", "are living"],
+      "explanation": "Present Perfect используется с since/for для действий, начавшихся в прошлом и продолжающихся до сейчас. They still live in this city."
+    },
+    {
+      "id": "ppp_006",
+      "sentence": "He ___ (read) three books this month.",
+      "correct": "has read",
+      "distractors": ["had read", "read", "is reading"],
+      "explanation": "Present Perfect используется для действий в не закончившемся периоде времени (this month, today, this year)."
+    },
+    {
+      "id": "ppp_007",
+      "sentence": "Before she moved to Berlin, she ___ (never/learn) German.",
+      "correct": "had never learned",
+      "distractors": ["has never learned", "never learned", "was never learning"],
+      "explanation": "Past Perfect описывает отсутствие опыта до определённого момента в прошлом. She moved first, and before that she hadn't learned German."
+    },
+    {
+      "id": "ppp_008",
+      "sentence": "I ___ (just/finish) cleaning the house. It looks great now!",
+      "correct": "have just finished",
+      "distractors": ["had just finished", "just finished", "am just finishing"],
+      "explanation": "Present Perfect с just показывает действие, которое только что завершилось. Результат виден сейчас — house looks great."
+    },
+    {
+      "id": "ppp_009",
+      "sentence": "By the end of last year, the company ___ (sell) over a thousand products.",
+      "correct": "had sold",
+      "distractors": ["has sold", "sold", "was selling"],
+      "explanation": "Past Perfect используется с by the end of + прошлое время для обозначения результата к определённому моменту в прошлом."
+    },
+    {
+      "id": "ppp_010",
+      "sentence": "I ___ (know) her for over ten years. She is my best friend.",
+      "correct": "have known",
+      "distractors": ["had known", "knew", "am knowing"],
+      "explanation": "Present Perfect с for показывает длительность действия от прошлого до настоящего. They are still friends now."
+    },
+    {
+      "id": "ppp_011",
+      "sentence": "She ___ (finish) dinner before the guests arrived.",
+      "correct": "had finished",
+      "distractors": ["has finished", "finished", "was finishing"],
+      "explanation": "Past Perfect используется для последовательности: сначала она закончила ужин, потом пришли гости. Guests arrived — прошлое, а ужин — ещё раньше."
+    },
+    {
+      "id": "ppp_012",
+      "sentence": "He ___ (work) here since January. He really likes his job.",
+      "correct": "has worked",
+      "distractors": ["had worked", "worked", "is working"],
+      "explanation": "Present Perfect с since указывает на начало действия в прошлом, которое продолжается. He still works here."
+    },
+    {
+      "id": "ppp_013",
+      "sentence": "The train ___ (leave) by the time we got to the station.",
+      "correct": "had left",
+      "distractors": ["has left", "left", "was leaving"],
+      "explanation": "Past Perfect показывает, что поезд уехал до того, как они пришли на станцию. Два завершённых действия в прошлом, одно раньше другого."
+    },
+    {
+      "id": "ppp_014",
+      "sentence": "You ___ (eat) all the cake! There is nothing left.",
+      "correct": "have eaten",
+      "distractors": ["had eaten", "ate", "are eating"],
+      "explanation": "Present Perfect используется для действия с видимым результатом сейчас. The cake is gone — результат виден."
+    },
+    {
+      "id": "ppp_015",
+      "sentence": "We ___ (not/see) that movie yet. Let's watch it tonight!",
+      "correct": "haven't seen",
+      "distractors": ["hadn't seen", "didn't see", "aren't seeing"],
+      "explanation": "Present Perfect с yet используется для действий, которые ещё не произошли, но ожидаются. They plan to see it tonight."
+    },
+    {
+      "id": "ppp_016",
+      "sentence": "He ___ (break) his leg before the paramedics arrived at the scene.",
+      "correct": "had broken",
+      "distractors": ["has broken", "broke", "was breaking"],
+      "explanation": "Past Perfect описывает травму, которая произошла до приезда медиков. Сначала перелом, потом прибытие помощи."
+    },
+    {
+      "id": "ppp_017",
+      "sentence": "She ___ (visit) her grandmother twice this week.",
+      "correct": "has visited",
+      "distractors": ["had visited", "visited", "is visiting"],
+      "explanation": "Present Perfect используется в не закончившемся периоде (this week). Неделя ещё не кончилась, поэтому это Present Perfect."
+    },
+    {
+      "id": "ppp_018",
+      "sentence": "I ___ (just/finish) cleaning when the doorbell rang.",
+      "correct": "had just finished",
+      "distractors": ["have just finished", "just finished", "was just finishing"],
+      "explanation": "Past Perfect с just показывает действие, которое только что завершилось до другого прошлого события. Doorbell rang — прошлое, уборка — ещё раньше."
+    },
+    {
+      "id": "ppp_019",
+      "sentence": "They ___ (live) in London before they moved to Paris.",
+      "correct": "had lived",
+      "distractors": ["have lived", "lived", "were living"],
+      "explanation": "Past Perfect описывает проживание в Лондоне, которое было до переезда в Париж. Оба события уже завершились."
+    },
+    {
+      "id": "ppp_020",
+      "sentence": "He ___ (never/try) sushi, but he wants to order it tonight.",
+      "correct": "has never tried",
+      "distractors": ["had never tried", "never tried", "is never trying"],
+      "explanation": "Present Perfect с never описывает отсутствие жизненного опыта до настоящего момента. He still hasn't tried sushi."
+    }
+  ]
+}

@@ -1,0 +1,145 @@
+{
+  "title": "Present Simple vs Present Continuous",
+  "questions": [
+    {
+      "id": "psc_001",
+      "sentence": "She ___ (go) to school every day.",
+      "correct": "goes",
+      "distractors": ["is going", "going", "go"],
+      "explanation": "Present Simple используется для описания регулярных действий и привычек. Every day указывает на повторяющееся действие."
+    },
+    {
+      "id": "psc_002",
+      "sentence": "Look! The children ___ (play) in the garden right now.",
+      "correct": "are playing",
+      "distractors": ["play", "plays", "played"],
+      "explanation": "Present Continuous описывает действие, происходящее прямо сейчас. Look! привлекает внимание к текущему действию."
+    },
+    {
+      "id": "psc_003",
+      "sentence": "Water ___ (boil) at 100 degrees Celsius.",
+      "correct": "boils",
+      "distractors": ["is boiling", "boil", "boiled"],
+      "explanation": "Present Simple используется для научных фактов и общеизвестных истин. Кипение воды при 100°C — это постоянный закон природы."
+    },
+    {
+      "id": "psc_004",
+      "sentence": "I ___ (study) for my exam at the moment.",
+      "correct": "am studying",
+      "distractors": ["study", "studies", "studied"],
+      "explanation": "Present Continuous используется для действий, происходящих в данный момент. At the moment указывает на сейчас."
+    },
+    {
+      "id": "psc_005",
+      "sentence": "He ___ (play) football on Saturdays.",
+      "correct": "plays",
+      "distractors": ["is playing", "play", "playing"],
+      "explanation": "Present Simple используется для расписаний и привычек. On Saturdays — это регулярное действие."
+    },
+    {
+      "id": "psc_006",
+      "sentence": "They ___ (look) for a new apartment right now.",
+      "correct": "are looking",
+      "distractors": ["look", "looks", "looked"],
+      "explanation": "Present Continuous описывает временную ситуацию. Они ищут квартиру именно сейчас, это временное занятие."
+    },
+    {
+      "id": "psc_007",
+      "sentence": "The sun ___ (rise) in the east.",
+      "correct": "rises",
+      "distractors": ["is rising", "rise", "rose"],
+      "explanation": "Present Simple используется для общеизвестных фактов. Восход солнца на востоке — это неизменный факт."
+    },
+    {
+      "id": "psc_008",
+      "sentence": "Listen! Someone ___ (knock) at the door.",
+      "correct": "is knocking",
+      "distractors": ["knocks", "knock", "knocked"],
+      "explanation": "Present Continuous используется для действия, которое происходит прямо сейчас. Listen! — сигнал о текущем событии."
+    },
+    {
+      "id": "psc_009",
+      "sentence": "My mother ___ (work) at a hospital.",
+      "correct": "works",
+      "distractors": ["is working", "work", "worked"],
+      "explanation": "Present Simple используется для описания постоянного места работы. Это факт о её текущей ситуации."
+    },
+    {
+      "id": "psc_010",
+      "sentence": "I ___ (read) a really good book this week.",
+      "correct": "am reading",
+      "distractors": ["read", "reads", "reading"],
+      "explanation": "Present Continuous используется для временного действия в текущем периоде. This week — незаконченный период, книга ещё не дочитана."
+    },
+    {
+      "id": "psc_011",
+      "sentence": "She ___ (not/like) coffee. She prefers tea.",
+      "correct": "doesn't like",
+      "distractors": ["isn't liking", "doesn't likes", "not liking"],
+      "explanation": "Present Simple используется для выражения вкусов и предпочтений. Like — это статичный глагол, который не используется в Continuous."
+    },
+    {
+      "id": "psc_012",
+      "sentence": "The phone ___ (ring)! Can you answer it?",
+      "correct": "is ringing",
+      "distractors": ["rings", "ring", "rang"],
+      "explanation": "Present Continuous описывает действие, происходящее прямо сейчас. Телефон звонит в данный момент."
+    },
+    {
+      "id": "psc_013",
+      "sentence": "We ___ (have) breakfast at 7 a.m. every morning.",
+      "correct": "have",
+      "distractors": ["are having", "has", "having"],
+      "explanation": "Present Simple используется для ежедневных расписаний и привычек. Every morning указывает на регулярность."
+    },
+    {
+      "id": "psc_014",
+      "sentence": "He ___ (cook) dinner right now. Don't disturb him.",
+      "correct": "is cooking",
+      "distractors": ["cooks", "cook", "cooked"],
+      "explanation": "Present Continuous описывает действие в процессе прямо сейчас. Right now — прямое указание на текущий момент."
+    },
+    {
+      "id": "psc_015",
+      "sentence": "Birds ___ (fly) south in winter.",
+      "correct": "fly",
+      "distractors": ["are flying", "flies", "flying"],
+      "explanation": "Present Simple используется для описания природных закономерностей. Миграция птиц — это повторяющийся сезонный факт."
+    },
+    {
+      "id": "psc_016",
+      "sentence": "She ___ (learn) to drive these days.",
+      "correct": "is learning",
+      "distractors": ["learns", "learn", "learned"],
+      "explanation": "Present Continuous описывает временную деятельность. These days указывает на текущий период времени — она учится сейчас."
+    },
+    {
+      "id": "psc_017",
+      "sentence": "They ___ (speak) three languages fluently.",
+      "correct": "speak",
+      "distractors": ["are speaking", "speaks", "spoke"],
+      "explanation": "Present Simple используется для описания способностей и навыков. Умение говорить на языках — это постоянная характеристика."
+    },
+    {
+      "id": "psc_018",
+      "sentence": "I ___ (usually/walk) to work, but today I ___ (take) the bus.",
+      "correct": "usually walk ... am taking",
+      "distractors": ["am usually walking ... take", "usually walk ... take", "usually walks ... is taking"],
+      "explanation": "Present Simple для привычки (usually) и Present Continuous для временного действия сегодня. Контраст между routinen и текущей ситуацией."
+    },
+    {
+      "id": "psc_019",
+      "sentence": "He ___ (work) from home these days because of the renovation.",
+      "correct": "is working",
+      "distractors": ["works", "work", "worked"],
+      "explanation": "Present Continuous описывает временную ситуацию. These days и причина (ремонт) указывают на временный характер работы из дома."
+    },
+    {
+      "id": "psc_020",
+      "sentence": "The museum ___ (open) at 9 a.m. and ___ (close) at 6 p.m.",
+      "correct": "opens ... closes",
+      "distractors": ["is opening ... is closing", "open ... close", "opens ... is closing"],
+      "explanation": "Present Simple используется для расписаний и фиксированного графика работы. Время открытия и закрытия музея — это постоянное расписание."
+    }
+  ]
+}

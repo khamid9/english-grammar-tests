@@ -1,0 +1,142 @@
+[
+  {
+    "id": "psp_001",
+    "sentence": "When I arrived at the cinema, the film already ___ (start).",
+    "correct": "had started",
+    "distractors": ["started", "was starting", "has started"],
+    "explanation": "Past Perfect используется, когда одно действие (start) произошло до другого прошедшего (arrived)."
+  },
+  {
+    "id": "psp_002",
+    "sentence": "She ___ (cook) dinner and then we ate together.",
+    "correct": "cooked",
+    "distractors": ["had cooked", "cooking", "was cooking"],
+    "explanation": "Past Simple используется для последовательных действий в прошлом: сначала одно, потом другое."
+  },
+  {
+    "id": "psp_003",
+    "sentence": "He ___ (finish) his homework before his parents came home.",
+    "correct": "had finished",
+    "distractors": ["finished", "has finished", "finishes"],
+    "explanation": "Past Perfect с 'before' показывает, что одно действие завершилось до начала другого."
+  },
+  {
+    "id": "psp_004",
+    "sentence": "I ___ (see) the man before she pointed at him.",
+    "correct": "had seen",
+    "distractors": ["saw", "have seen", "was seeing"],
+    "explanation": "Past Perfect с 'before' указывает, что действие произошло раньше другого прошедшего."
+  },
+  {
+    "id": "psp_005",
+    "sentence": "We ___ (go) to the park and then we ___ (have) lunch.",
+    "correct": "went ... had",
+    "distractors": ["had gone ... had", "went ... have had", "go ... have"],
+    "explanation": "Два последовательных действия в прошлом выражаются через Past Simple."
+  },
+  {
+    "id": "psp_006",
+    "sentence": "After the rain stopped, the sun ___ (come) out.",
+    "correct": "came",
+    "distractors": ["had come", "was coming", "has come"],
+    "explanation": "Past Simple используется с 'after' для описания действия, которое следовало за предыдущим."
+  },
+  {
+    "id": "psp_007",
+    "sentence": "She told me she ___ (never / fly) on a plane before.",
+    "correct": "had never flown",
+    "distractors": ["never flew", "never has flown", "was never flying"],
+    "explanation": "Past Perfect используется в косвенной речи и указывает на опыт до момента речи."
+  },
+  {
+    "id": "psp_008",
+    "sentence": "They ___ (not / eat) anything because they had no money.",
+    "correct": "didn't eat",
+    "distractors": ["hadn't eaten", "not eating", "don't eat"],
+    "explanation": "Past Simple используется для описания причины в прошлом: оба действия одновременны по контексту."
+  },
+  {
+    "id": "psp_009",
+    "sentence": "By the time I got there, the shop ___ (close).",
+    "correct": "had closed",
+    "distractors": ["closed", "has closed", "was closing"],
+    "explanation": "Past Perfect с 'by the time' (к тому времени как) — действие завершилось до указанного момента."
+  },
+  {
+    "id": "psp_010",
+    "sentence": "He ___ (study) for two hours and then he took a break.",
+    "correct": "had studied",
+    "distractors": ["studied", "was studying", "has studied"],
+    "explanation": "Past Perfect с 'for' используется для длительности действия до другого прошедшего."
+  },
+  {
+    "id": "psp_011",
+    "sentence": "I ___ (walk) into the room and turned on the light.",
+    "correct": "walked",
+    "distractors": ["had walked", "was walking", "have walked"],
+    "explanation": "Past Simple для последовательных действий: вошёл → включил свет."
+  },
+  {
+    "id": "psp_012",
+    "sentence": "After she ___ (finish) the report, she sent it to her boss.",
+    "correct": "finished",
+    "distractors": ["had finished", "finishes", "was finishing"],
+    "explanation": "Past Simple с 'after' используется, когда порядок действий ясен из контекста."
+  },
+  {
+    "id": "psp_013",
+    "sentence": "The teacher ___ (explain) the rules before the test began.",
+    "correct": "had explained",
+    "distractors": ["explained", "was explaining", "has explained"],
+    "explanation": "Past Perfect с 'before' — объяснение началось и завершилось до начала теста."
+  },
+  {
+    "id": "psp_014",
+    "sentence": "We ___ (not / see) each other since we ___ (leave) school.",
+    "correct": "hadn't seen ... left",
+    "distractors": ["didn't see ... had left", "haven't seen ... left", "didn't see ... left"],
+    "explanation": "Past Perfect используется для более раннего действия (не виделись), Past Simple — для завершённого (ушли)."
+  },
+  {
+    "id": "psp_015",
+    "sentence": "She ___ (feel) tired because she ___ (work) all day.",
+    "correct": "felt ... had worked",
+    "distractors": ["had felt ... worked", "feels ... worked", "felt ... worked"],
+    "explanation": "Past Perfect для более раннего действия (работала весь день), Past Simple — для результата (устала)."
+  },
+  {
+    "id": "psp_016",
+    "sentence": "When we arrived, the guests ___ (already / leave).",
+    "correct": "had already left",
+    "distractors": ["already left", "have already left", "were already leaving"],
+    "explanation": "Past Perfect с 'already' и 'when' указывает на действие, завершённое до прибытия."
+  },
+  {
+    "id": "psp_017",
+    "sentence": "He ___ (eat) breakfast and ___ (leave) the house at 7 am.",
+    "correct": "ate ... left",
+    "distractors": ["had eaten ... left", "ate ... had left", "has eaten ... left"],
+    "explanation": "Past Simple для последовательных действий с конкретным временем — 7 am."
+  },
+  {
+    "id": "psp_018",
+    "sentence": "I ___ (realise) I ___ (forget) my phone only after I ___ (get) home.",
+    "correct": "realised ... had forgotten ... got",
+    "distractors": ["had realised ... forgot ... got", "realised ... forgot ... had got", "realise ... forgot ... get"],
+    "explanation": "Past Perfect для действия (забыл телефон), которое произошло до осознания."
+  },
+  {
+    "id": "psp_019",
+    "sentence": "After the concert ___ (finish), we ___ (go) to a café.",
+    "correct": "finished ... went",
+    "distractors": ["had finished ... went", "finished ... had gone", "was finishing ... went"],
+    "explanation": "Past Simple с 'after' — порядок действий очевиден из контекста."
+  },
+  {
+    "id": "psp_020",
+    "sentence": "She ___ (not / tell) him the truth because he ___ (already / know) everything.",
+    "correct": "didn't tell ... already knew",
+    "distractors": ["hadn't told ... already knew", "didn't tell ... had already known", "didn't tell ... already knows"],
+    "explanation": "Past Simple для обоих действий, так как они происходят в одном временном контексте."
+  }
+]

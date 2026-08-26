@@ -1,0 +1,142 @@
+[
+  {
+    "id": "wgt_001",
+    "sentence": "Look at those dark clouds. It ___ (rain) soon.",
+    "correct": "is going to rain",
+    "distractors": ["will rain", "rains", "rained"],
+    "explanation": "Используем 'going to' для предсказания, основанного на видимых признаках (тёмные тучи)."
+  },
+  {
+    "id": "wgt_002",
+    "sentence": "I'm hungry. I ___ (make) a sandwich.",
+    "correct": "will make",
+    "distractors": ["am going to make", "make", "made"],
+    "explanation": "Используем 'will' для спонтанного решения, принятого прямо сейчас."
+  },
+  {
+    "id": "wgt_003",
+    "sentence": "We ___ (move) to a new apartment next month.",
+    "correct": "are going to move",
+    "distractors": ["will move", "move", "moved"],
+    "explanation": "Используем 'going to' для заранее составленного плана или намерения."
+  },
+  {
+    "id": "wgt_004",
+    "sentence": "The phone is ringing. I ___ (answer) it.",
+    "correct": "will answer",
+    "distractors": ["am going to answer", "answer", "answered"],
+    "explanation": "Используем 'will' для реакции на ситуацию, возникшую прямо сейчас."
+  },
+  {
+    "id": "wgt_005",
+    "sentence": "Be careful! You ___ (drop) that plate!",
+    "correct": "are going to drop",
+    "distractors": ["will drop", "drop", "dropped"],
+    "explanation": "Используем 'going to' для предсказания на основе видимых доказательств (тарелка скользит)."
+  },
+  {
+    "id": "wgt_006",
+    "sentence": "I promise I ___ (call) you when I arrive.",
+    "correct": "will call",
+    "distractors": ["am going to call", "call", "called"],
+    "explanation": "Используем 'will' для обещания или гарантии."
+  },
+  {
+    "id": "wgt_007",
+    "sentence": "What are your plans for the summer? — We ___ (travel) to Spain.",
+    "correct": "are going to travel",
+    "distractors": ["will travel", "travel", "traveled"],
+    "explanation": "Используем 'going to' для обсуждения запланированных действий в будущем."
+  },
+  {
+    "id": "wgt_008",
+    "sentence": "I think it ___ (be) a nice day tomorrow.",
+    "correct": "will be",
+    "distractors": ["is going to be", "is", "was"],
+    "explanation": "Используем 'will' для предсказания, основанного на личном мнении."
+  },
+  {
+    "id": "wgt_009",
+    "sentence": "She has the tickets. She ___ (take) us to the cinema.",
+    "correct": "is going to take",
+    "distractors": ["will take", "takes", "took"],
+    "explanation": "Используем 'going to' для намерения, подкреплённого доказательством (у неё есть билеты)."
+  },
+  {
+    "id": "wgt_010",
+    "sentence": "The door is open. I ___ (close) it.",
+    "correct": "will close",
+    "distractors": ["am going to close", "close", "closed"],
+    "explanation": "Используем 'will' для решения, принятого в момент речи."
+  },
+  {
+    "id": "wgt_011",
+    "sentence": "Look at his face! He ___ (pass) the exam.",
+    "correct": "is going to pass",
+    "distractors": ["will pass", "passes", "passed"],
+    "explanation": "Используем 'going to' для предсказания на основе видимых признаков (уверенность на лице)."
+  },
+  {
+    "id": "wgt_012",
+    "sentence": "It's cold in here. I ___ (turn) on the heating.",
+    "correct": "will turn",
+    "distractors": ["am going to turn", "turn", "turned"],
+    "explanation": "Используем 'will' для спонтанного решения о действии."
+  },
+  {
+    "id": "wgt_013",
+    "sentence": "We've already decided: we ___ (buy) a new car.",
+    "correct": "are going to buy",
+    "distractors": ["will buy", "buy", "bought"],
+    "explanation": "Используем 'going to' для выражения заранее принятого решения."
+  },
+  {
+    "id": "wgt_014",
+    "sentence": "Someone's at the door. I ___ (see) who it is.",
+    "correct": "will see",
+    "distractors": ["am going to see", "see", "saw"],
+    "explanation": "Используем 'will' для реакции на новую ситуацию."
+  },
+  {
+    "id": "wgt_015",
+    "sentence": "The sky is clear. It ___ (not/rain) tomorrow.",
+    "correct": "is not going to rain",
+    "distractors": ["will not rain", "doesn't rain", "didn't rain"],
+    "explanation": "Используем 'going to' для предсказания на основе видимых доказательств (ясное небо)."
+  },
+  {
+    "id": "wgt_016",
+    "sentence": "I'm tired. I ___ (go) to bed early tonight.",
+    "correct": "will go",
+    "distractors": ["am going to go", "go", "went"],
+    "explanation": "Используем 'will' для решения, принятого в момент речи."
+  },
+  {
+    "id": "wgt_017",
+    "sentence": "She's been studying hard. She ___ (pass) the test.",
+    "correct": "is going to pass",
+    "distractors": ["will pass", "passes", "passed"],
+    "explanation": "Используем 'going to' для предсказания, основанного на доказательствах (упорная учёба)."
+  },
+  {
+    "id": "wgt_018",
+    "sentence": "I'm thirsty. You ___ (have) some water?",
+    "correct": "will",
+    "distractors": ["are going to", "do", "did"],
+    "explanation": "Используем 'will' для предложения о помощи (спонтанное предложение)."
+  },
+  {
+    "id": "wgt_019",
+    "sentence": "We ___ (have) a party next Saturday. Everyone is invited.",
+    "correct": "are going to have",
+    "distractors": ["will have", "have", "had"],
+    "explanation": "Используем 'going to' для запланированного события."
+  },
+  {
+    "id": "wgt_020",
+    "sentence": "That lamp is broken. I ___ (fix) it.",
+    "correct": "will fix",
+    "distractors": ["am going to fix", "fix", "fixed"],
+    "explanation": "Используем 'will' для решения о действии, принятого в момент речи."
+  }
+]

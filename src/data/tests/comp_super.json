@@ -1,0 +1,142 @@
+[
+  {
+    "id": "csa_001",
+    "sentence": "My brother is ___ (tall) than me.",
+    "correct": "taller",
+    "distractors": ["more tall", "tallest", "most tall"],
+    "explanation": "Для кратких прилагательных (tall) используется суффикс -er для сравнительной степени."
+  },
+  {
+    "id": "csa_002",
+    "sentence": "This is ___ (interesting) book I have ever read.",
+    "correct": "the most interesting",
+    "distractors": ["the interestingest", "more interesting", "most interesting"],
+    "explanation": "Для длинных прилагательных (interesting) используется конструкция the most + прилагательное для превосходной степени."
+  },
+  {
+    "id": "csa_003",
+    "sentence": "My car is ___ (fast) than yours.",
+    "correct": "faster",
+    "distractors": ["more fast", "fastest", "more faster"],
+    "explanation": "Сравнительная степень кратких прилагательных образуется с помощью суффикса -er."
+  },
+  {
+    "id": "csa_004",
+    "sentence": "This restaurant is ___ (cheap) than the one on Main Street.",
+    "correct": "cheaper",
+    "distractors": ["more cheap", "cheapest", "most cheap"],
+    "explanation": "Для кратких прилагательных (cheap) используем -er для сравнительной степени."
+  },
+  {
+    "id": "csa_005",
+    "sentence": "She is ___ (beautiful) woman in our office.",
+    "correct": "the most beautiful",
+    "distractors": ["the beautifulest", "more beautiful", "the more beautiful"],
+    "explanation": "Для длинных прилагательных (beautiful) в превосходной степени используем the most + прилагательное."
+  },
+  {
+    "id": "csa_006",
+    "sentence": "The weather today is ___ (good) than yesterday.",
+    "correct": "better",
+    "distractors": ["more good", "gooder", "best"],
+    "explanation": "Прилагательное good образует сравнительную степень неправильно: better, а не more good или gooder."
+  },
+  {
+    "id": "csa_007",
+    "sentence": "This exercise is ___ (easy) than the last one.",
+    "correct": "easier",
+    "distractors": ["more easy", "easiest", "most easy"],
+    "explanation": "Для кратких прилагательных (easy) используем -er для сравнительной степени."
+  },
+  {
+    "id": "csa_008",
+    "sentence": "Mount Everest is ___ (high) mountain in the world.",
+    "correct": "the highest",
+    "distractors": ["the higher", "most high", "higher"],
+    "explanation": "В превосходной степени для кратких прилагательных используем the + прилагательное + -est."
+  },
+  {
+    "id": "csa_009",
+    "sentence": "My coffee is not ___ (hot) yours.",
+    "correct": "as hot as",
+    "distractors": ["so hot than", "more hot as", "as hot than"],
+    "explanation": "Конструкция as + прилагательное + as используется для сравнения равных качеств."
+  },
+  {
+    "id": "csa_010",
+    "sentence": "This film is ___ (expensive) that one.",
+    "correct": "more expensive than",
+    "distractors": ["expensiver than", "most expensive than", "as expensive than"],
+    "explanation": "Для длинных прилагательных (expensive) в сравнительной степени используем more + прилагательное + than."
+  },
+  {
+    "id": "csa_011",
+    "sentence": "He runs ___ (fast) anyone in our class.",
+    "correct": "the fastest",
+    "distractors": ["the faster", "most fast", "more fast"],
+    "explanation": "В превосходной степени для кратких прилагательных используем the + прилагательное + -est."
+  },
+  {
+    "id": "csa_012",
+    "sentence": "My English is not ___ (good) yours.",
+    "correct": "as good as",
+    "distractors": ["so good than", "more good than", "as good than"],
+    "explanation": "Конструкция as + прилагательное + as используется для сравнения равных качеств."
+  },
+  {
+    "id": "csa_013",
+    "sentence": "This phone is ___ (new) than my old one.",
+    "correct": "newer",
+    "distractors": ["more new", "newest", "most new"],
+    "explanation": "Для кратких прилагательных (new) используем -er для сравнительной степени."
+  },
+  {
+    "id": "csa_014",
+    "sentence": "Winter is ___ (cold) season in Moscow.",
+    "correct": "the coldest",
+    "distractors": ["the colder", "most cold", "more cold"],
+    "explanation": "В превосходной степени для кратких прилагательных используем the + прилагательное + -est."
+  },
+  {
+    "id": "csa_015",
+    "sentence": "This task is ___ (difficult) than the previous one.",
+    "correct": "more difficult",
+    "distractors": ["difficultier", "difficulter", "most difficult"],
+    "explanation": "Для длинных прилагательных (difficult) в сравнительной степени используем more + прилагательное."
+  },
+  {
+    "id": "csa_016",
+    "sentence": "She is not ___ (old) her sister.",
+    "correct": "as old as",
+    "distractors": ["so old than", "more old as", "as old than"],
+    "explanation": "Конструкция as + прилагательное + as используется для сравнения равных качеств."
+  },
+  {
+    "id": "csa_017",
+    "sentence": "This is ___ (bad) weather we've had all year.",
+    "correct": "the worst",
+    "distractors": ["the worse", "most bad", "worse"],
+    "explanation": "Прилагательное bad образует превосходную степень неправильно: the worst, а не the badest или most bad."
+  },
+  {
+    "id": "csa_018",
+    "sentence": "My dog is ___ (friendly) yours.",
+    "correct": "as friendly as",
+    "distractors": ["so friendly than", "more friendly than", "as friendly than"],
+    "explanation": "Конструкция as + прилагательное + as используется для сравнения равных качеств."
+  },
+  {
+    "id": "csa_019",
+    "sentence": "This book is ___ (popular) than that one.",
+    "correct": "more popular",
+    "distractors": ["popularest", "popularer", "most popular"],
+    "explanation": "Для длинных прилагательных (popular) в сравнительной степени используем more + прилагательное."
+  },
+  {
+    "id": "csa_020",
+    "sentence": "She is ___ (intelligent) student in our group.",
+    "correct": "the most intelligent",
+    "distractors": ["the intelligentest", "more intelligent", "the more intelligent"],
+    "explanation": "Для длинных прилагательных (intelligent) в превосходной степени используем the most + прилагательное."
+  }
+]

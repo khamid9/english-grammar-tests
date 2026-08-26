@@ -1,0 +1,142 @@
+[
+  {
+    "id": "pps_001",
+    "sentence": "I ___ (visit) London three times so far.",
+    "correct": "have visited",
+    "distractors": ["visited", "visiting", "visits"],
+    "explanation": "Present Perfect используется для обобщённого опыта вплоть до настоящего момента. Маркер — 'so far' (до сих пор)."
+  },
+  {
+    "id": "pps_002",
+    "sentence": "She ___ (move) to Berlin in 2019.",
+    "correct": "moved",
+    "distractors": ["has moved", "moving", "moves"],
+    "explanation": "Past Simple используется с указанием конкретного прошлого времени — 'in 2019'. Это завершённое действие."
+  },
+  {
+    "id": "pps_003",
+    "sentence": "We ___ (not / finish) the homework yet.",
+    "correct": "haven't finished",
+    "distractors": ["didn't finish", "not finishing", "hasn't finished"],
+    "explanation": "Present Perfect с 'yet' (ещё не) показывает, что действие не завершено к настоящему моменту."
+  },
+  {
+    "id": "pps_004",
+    "sentence": "He ___ (buy) a new car last Monday.",
+    "correct": "bought",
+    "distractors": ["has bought", "buying", "buys"],
+    "explanation": "Past Simple используется с конкретным указанием времени — 'last Monday'."
+  },
+  {
+    "id": "pps_005",
+    "sentence": "___ you ever ___ (try) sushi?",
+    "correct": "Have ... tried",
+    "distractors": ["Did ... try", "Do ... try", "Are ... trying"],
+    "explanation": "Present Perfect с 'ever' спрашивает о жизненном опыте в целом, без указания конкретного времени."
+  },
+  {
+    "id": "pps_006",
+    "sentence": "They ___ (live) in this house since 2010.",
+    "correct": "have lived",
+    "distractors": ["lived", "are living", "living"],
+    "explanation": "Present Perfect с 'since' (с какого-то момента) указывает на действие, продолжающееся до сих пор."
+  },
+  {
+    "id": "pps_007",
+    "sentence": "I ___ (meet) her at the party yesterday.",
+    "correct": "met",
+    "distractors": ["have met", "meeting", "meets"],
+    "explanation": "Past Simple используется с 'yesterday' — конкретная точка в прошлом."
+  },
+  {
+    "id": "pps_008",
+    "sentence": "She already ___ (eat) lunch, so she isn't hungry.",
+    "correct": "has eaten",
+    "distractors": ["ate", "eating", "eats"],
+    "explanation": "Present Perfect с 'already' подчёркивает результат к настоящему моменту: она сыта сейчас."
+  },
+  {
+    "id": "pps_009",
+    "sentence": "We ___ (go) to Italy for our holiday last summer.",
+    "correct": "went",
+    "distractors": ["have gone", "going", "go"],
+    "explanation": "Past Simple используется с 'last summer' — завершённое действие в определённое время."
+  },
+  {
+    "id": "pps_010",
+    "sentence": "He ___ (never / see) snow in his life.",
+    "correct": "has never seen",
+    "distractors": ["never saw", "never seeing", "never sees"],
+    "explanation": "Present Perfect с 'never' и 'in his life' говорит об опыте (или его отсутствии) за всю жизнь."
+  },
+  {
+    "id": "pps_011",
+    "sentence": "I ___ (phone) my mum two hours ago.",
+    "correct": "phoned",
+    "distractors": ["have phoned", "phoning", "phones"],
+    "explanation": "Past Simple используется с 'ago' (назад) — действие произошло в конкретный момент в прошлом."
+  },
+  {
+    "id": "pps_012",
+    "sentence": "The kids ___ (not / do) their chores yet today.",
+    "correct": "haven't done",
+    "distractors": ["didn't do", "not doing", "hasn't done"],
+    "explanation": "Present Perfect с 'yet' и 'today' — действие ещё не выполнено в рамках текущего дня."
+  },
+  {
+    "id": "pps_013",
+    "sentence": "She ___ (finish) the project at 5 pm yesterday.",
+    "correct": "finished",
+    "distractors": ["has finished", "finishing", "finishes"],
+    "explanation": "Past Simple с точным временем — 'at 5 pm yesterday' — указывает на конкретный момент завершения."
+  },
+  {
+    "id": "pps_014",
+    "sentence": "We ___ (be) friends for over ten years.",
+    "correct": "have been",
+    "distractors": ["are", "were", "being"],
+    "explanation": "Present Perfect с 'for' (в течение) показывает длительность состояния от прошлого до настоящего."
+  },
+  {
+    "id": "pps_015",
+    "sentence": "He ___ (lose) his keys yesterday morning.",
+    "correct": "lost",
+    "distractors": ["has lost", "losing", "loses"],
+    "explanation": "Past Simple используется с 'yesterday morning' — конкретное время в прошлом."
+  },
+  {
+    "id": "pps_016",
+    "sentence": "I just ___ (arrive) at the airport.",
+    "correct": "have arrived",
+    "distractors": ["arrived", "arriving", "arrives"],
+    "explanation": "Present Perfect с 'just' (только что)强调动作 только что завершилось и имеет результат сейчас."
+  },
+  {
+    "id": "pps_017",
+    "sentence": "They ___ (watch) that film last Friday.",
+    "correct": "watched",
+    "distractors": ["have watched", "watching", "watches"],
+    "explanation": "Past Simple с 'last Friday' — действие произошло в определённый день в прошлом."
+  },
+  {
+    "id": "pps_018",
+    "sentence": "I ___ (read) this book before. It's great!",
+    "correct": "have read",
+    "distractors": ["read", "am reading", "reads"],
+    "explanation": "Present Perfect с 'before' говорит о прошлом опыте, который важен для настоящего момента."
+  },
+  {
+    "id": "pps_019",
+    "sentence": "She ___ (work) at the hospital from 2015 to 2020.",
+    "correct": "worked",
+    "distractors": ["has worked", "working", "works"],
+    "explanation": "Past Simple используется с 'from 2015 to 2020' — завершённый период в прошлом."
+  },
+  {
+    "id": "pps_020",
+    "sentence": "___ you ___ (finish) your dinner yet?",
+    "correct": "Have ... finished",
+    "distractors": ["Did ... finish", "Are ... finishing", "Do ... finish"],
+    "explanation": "Present Perfect с 'yet' используется в вопросах о действиях, которые могут быть завершены к настоящему моменту."
+  }
+]

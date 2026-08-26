@@ -1,0 +1,142 @@
+[
+  {
+    "id": "pcs_001",
+    "sentence": "I ___ (walk) to work when it ___ (start) to rain.",
+    "correct": "was walking, started",
+    "distractors": ["walked, was starting", "walked, started", "was walking, was starting"],
+    "explanation": "Past Continuous (was walking) для длительного действия в прошлом, Past Simple (started) для короткого завершённого действия."
+  },
+  {
+    "id": "pcs_002",
+    "sentence": "She ___ (cook) dinner while I ___ (watch) TV.",
+    "correct": "was cooking, was watching",
+    "distractors": ["cooked, watched", "was cooking, watched", "cooked, was watching"],
+    "explanation": "Past Continuous используется для двух длительных действий, происходивших одновременно в прошлом (while)."
+  },
+  {
+    "id": "pcs_003",
+    "sentence": "They ___ (play) football when the phone ___ (ring).",
+    "correct": "were playing, rang",
+    "distractors": ["played, was ringing", "were playing, was ringing", "played, rang"],
+    "explanation": "Past Continuous (were playing) для длительного действия, Past Simple (rang) для прерывающего действия."
+  },
+  {
+    "id": "pcs_004",
+    "sentence": "I ___ (see) her at the party last night.",
+    "correct": "saw",
+    "distractors": ["was seeing", "did see", "have seen"],
+    "explanation": "Past Simple используется для завершённого действия в определённый момент в прошлом."
+  },
+  {
+    "id": "pcs_005",
+    "sentence": "At 8 o'clock yesterday, we ___ (have) dinner.",
+    "correct": "were having",
+    "distractors": ["had", "have had", "was having"],
+    "explanation": "Past Continuous используется для действия, происходившего в определённый момент в прошлом."
+  },
+  {
+    "id": "pcs_006",
+    "sentence": "She ___ (fall) asleep while she ___ (read) a book.",
+    "correct": "fell, was reading",
+    "distractors": ["was falling, read", "fell, read", "was falling, was reading"],
+    "explanation": "Past Simple (fell) для короткого действия, Past Continuous (was reading) для длительного действия, которое было прервано."
+  },
+  {
+    "id": "pcs_007",
+    "sentence": "The children ___ (run) in the park when their mother ___ (call) them.",
+    "correct": "were running, called",
+    "distractors": ["ran, was calling", "were running, was calling", "ran, called"],
+    "explanation": "Past Continuous (were running) для длительного действия, Past Simple (called) для прерывающего действия."
+  },
+  {
+    "id": "pcs_008",
+    "sentence": "We ___ (go) to the cinema last Friday.",
+    "correct": "went",
+    "distractors": ["were going", "have gone", "did go"],
+    "explanation": "Past Simple используется для завершённого действия с указанием времени в прошлом."
+  },
+  {
+    "id": "pcs_009",
+    "sentence": "I ___ (study) when my friend ___ (arrive).",
+    "correct": "was studying, arrived",
+    "distractors": ["studied, was arriving", "was studying, was arriving", "studied, arrived"],
+    "explanation": "Past Continuous (was studying) для длительного действия, Past Simple (arrived) для короткого завершённого действия."
+  },
+  {
+    "id": "pcs_010",
+    "sentence": "She ___ (listen) to music while she ___ (cook).",
+    "correct": "was listening, was cooking",
+    "distractors": ["listened, cooked", "was listening, cooked", "listened, was cooking"],
+    "explanation": "Past Continuous используется для двух длительных действий, происходивших одновременно."
+  },
+  {
+    "id": "pcs_011",
+    "sentence": "He ___ (break) the window while he ___ (play) with the ball.",
+    "correct": "broke, was playing",
+    "distractors": ["was breaking, played", "broke, played", "was breaking, was playing"],
+    "explanation": "Past Simple (broke) для короткого действия, Past Continuous (was playing) для длительного действия, которое было прервано."
+  },
+  {
+    "id": "pcs_012",
+    "sentence": "I ___ (phone) you last night, but nobody ___ (answer).",
+    "correct": "phoned, answered",
+    "distractors": ["was phoning, was answering", "phoned, was answering", "was phoning, answered"],
+    "explanation": "Past Simple используется для завершённых действий в прошлом."
+  },
+  {
+    "id": "pcs_013",
+    "sentence": "What ___ you ___ (do) at 3 o'clock yesterday?",
+    "correct": "were, doing",
+    "distractors": ["did, do", "were, done", "are, doing"],
+    "explanation": "Past Continuous используется для действия, происходившего в определённый момент в прошлом."
+  },
+  {
+    "id": "pcs_014",
+    "sentence": "The sun ___ (shine) while we ___ (walk) to school.",
+    "correct": "was shining, were walking",
+    "distractors": ["shined, walked", "was shining, walked", "shined, were walking"],
+    "explanation": "Past Continuous используется для двух длительных действий, происходивших одновременно."
+  },
+  {
+    "id": "pcs_015",
+    "sentence": "She ___ (not hear) the doorbell because she ___ (have) a shower.",
+    "correct": "didn't hear, was having",
+    "distractors": ["wasn't hearing, had", "didn't hear, had", "wasn't hearing, was having"],
+    "explanation": "Past Simple (didn't hear) для завершённого действия, Past Continuous (was having) для длительного действия, которое происходило в этот момент."
+  },
+  {
+    "id": "pcs_016",
+    "sentence": "They ___ (move) to a new house last month.",
+    "correct": "moved",
+    "distractors": ["were moving", "have moved", "did move"],
+    "explanation": "Past Simple используется для завершённого действия с указанием времени в прошлом."
+  },
+  {
+    "id": "pcs_017",
+    "sentence": "I ___ (read) a book when you ___ (call) me.",
+    "correct": "was reading, called",
+    "distractors": ["read, was calling", "was reading, was calling", "read, called"],
+    "explanation": "Past Continuous (was reading) для длительного действия, Past Simple (called) для прерывающего действия."
+  },
+  {
+    "id": "pcs_018",
+    "sentence": "She ___ (write) an email while she ___ (wait) for the bus.",
+    "correct": "was writing, was waiting",
+    "distractors": ["wrote, waited", "was writing, waited", "wrote, was waiting"],
+    "explanation": "Past Continuous используется для двух длительных действий, происходивших одновременно."
+  },
+  {
+    "id": "pcs_019",
+    "sentence": "The baby ___ (sleep) when I ___ (arrive).",
+    "correct": "was sleeping, arrived",
+    "distractors": ["slept, was arriving", "was sleeping, was arriving", "slept, arrived"],
+    "explanation": "Past Continuous (was sleeping) для длительного действия, Past Simple (arrived) для короткого завершённого действия."
+  },
+  {
+    "id": "pcs_020",
+    "sentence": "We ___ (meet) at the café yesterday.",
+    "correct": "met",
+    "distractors": ["were meeting", "have met", "did meet"],
+    "explanation": "Past Simple используется для завершённого действия в определённый момент в прошлом."
+  }
+]

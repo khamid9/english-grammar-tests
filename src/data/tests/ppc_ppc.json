@@ -1,0 +1,142 @@
+[
+  {
+    "id": "ppc_001",
+    "sentence": "She ___ (study) English for two years before she moved to London.",
+    "correct": "had been studying",
+    "distractors": ["has been studying", "studied", "was studying"],
+    "explanation": "Past Perfect Continuous показывает длительное действие до другого прошедшего момента (переезд)."
+  },
+  {
+    "id": "ppc_002",
+    "sentence": "I ___ (wait) for the bus for 20 minutes. It still hasn't come.",
+    "correct": "have been waiting",
+    "distractors": ["had been waiting", "waited", "was waiting"],
+    "explanation": "Present Perfect Continuous показывает действие, которое началось в прошлом и продолжается до сейчас."
+  },
+  {
+    "id": "ppc_003",
+    "sentence": "He ___ (work) at the company for five years before he got promoted.",
+    "correct": "had been working",
+    "distractors": ["has been working", "worked", "was working"],
+    "explanation": "Past Perfect Continuous используется для описания длительного действия до другого прошедшего события (повышение)."
+  },
+  {
+    "id": "ppc_004",
+    "sentence": "We ___ (live) in this house for ten years. We love it here.",
+    "correct": "have been living",
+    "distractors": ["had been living", "lived", "were living"],
+    "explanation": "Present Perfect Continuous используется для действия, продолжающегося до настоящего момента."
+  },
+  {
+    "id": "ppc_005",
+    "sentence": "By the time the police arrived, the thief ___ (run) away.",
+    "correct": "had been running",
+    "distractors": ["has been running", "ran", "was running"],
+    "explanation": "Past Perfect Continuous показывает длительное действие до момента в прошлом (прибытие полиции)."
+  },
+  {
+    "id": "ppc_006",
+    "sentence": "It's raining. I ___ (walk) in the rain for an hour.",
+    "correct": "have been walking",
+    "distractors": ["had been walking", "walked", "was walking"],
+    "explanation": "Present Perfect Continuous используется для действия, которое только что закончилось или продолжается."
+  },
+  {
+    "id": "ppc_007",
+    "sentence": "She was tired because she ___ (run) for an hour.",
+    "correct": "had been running",
+    "distractors": ["has been running", "ran", "was running"],
+    "explanation": "Past Perfect Continuous объясняет причину усталости (длительное действие до момента в прошлом)."
+  },
+  {
+    "id": "ppc_008",
+    "sentence": "I ___ (learn) to play the guitar since last summer.",
+    "correct": "have been learning",
+    "distractors": ["had been learning", "learned", "was learning"],
+    "explanation": "Present Perfect Continuous используется с 'since' для действия, продолжающегося до сейчас."
+  },
+  {
+    "id": "ppc_009",
+    "sentence": "They ___ (travel) for three months when their car broke down.",
+    "correct": "had been traveling",
+    "distractors": ["have been traveling", "traveled", "were traveling"],
+    "explanation": "Past Perfect Continuous показывает длительное действие до момента в прошлом (поломка машины)."
+  },
+  {
+    "id": "ppc_010",
+    "sentence": "The children ___ (play) in the garden all morning. They're still out there.",
+    "correct": "have been playing",
+    "distractors": ["had been playing", "played", "were playing"],
+    "explanation": "Present Perfect Continuous используется для действия, которое началось ранее и продолжается до сейчас."
+  },
+  {
+    "id": "ppc_011",
+    "sentence": "After he ___ (cook) for two hours, the kitchen was a mess.",
+    "correct": "had been cooking",
+    "distractors": ["has been cooking", "cooked", "was cooking"],
+    "explanation": "Past Perfect Continuous описывает длительное действие до другого прошедшего момента."
+  },
+  {
+    "id": "ppc_012",
+    "sentence": "My hands are dirty. I ___ (garden) all day.",
+    "correct": "have been gardening",
+    "distractors": ["had been gardening", "gardened", "was gardening"],
+    "explanation": "Present Perfect Continuous используется, когда результат действия виден сейчас (грязные руки)."
+  },
+  {
+    "id": "ppc_013",
+    "sentence": "She ___ (teach) at the school for 15 years before she retired.",
+    "correct": "had been teaching",
+    "distractors": ["has been teaching", "taught", "was teaching"],
+    "explanation": "Past Perfect Continuous используется для длительного действия до другого прошедшего события (выход на пенсию)."
+  },
+  {
+    "id": "ppc_014",
+    "sentence": "I ___ (look) for my keys all morning. I can't find them.",
+    "correct": "have been looking",
+    "distractors": ["had been looking", "looked", "was looking"],
+    "explanation": "Present Perfect Continuous используется для действия, продолжающегося до настоящего момента."
+  },
+  {
+    "id": "ppc_015",
+    "sentence": "When I arrived, she ___ (wait) for over an hour.",
+    "correct": "had been waiting",
+    "distractors": ["has been waiting", "waited", "was waiting"],
+    "explanation": "Past Perfect Continuous показывает длительное действие до момента в прошлом (прибытие)."
+  },
+  {
+    "id": "ppc_016",
+    "sentence": "We ___ (not/see) each other for ages! How have you been?",
+    "correct": "haven't been seeing",
+    "distractors": ["hadn't been seeing", "didn't see", "weren't seeing"],
+    "explanation": "Present Perfect Continuous используется для периода времени, продолжающегося до сейчас."
+  },
+  {
+    "id": "ppc_017",
+    "sentence": "He was out of breath because he ___ (climb) the stairs.",
+    "correct": "had been climbing",
+    "distractors": ["has been climbing", "climbed", "was climbing"],
+    "explanation": "Past Perfect Continuous объясняет причину состояния (одышка) через предшествующее действие."
+  },
+  {
+    "id": "ppc_018",
+    "sentence": "I ___ (work) on this project for three weeks. It's almost done.",
+    "correct": "have been working",
+    "distractors": ["had been working", "worked", "was working"],
+    "explanation": "Present Perfect Continuous используется для действия, которое началось ранее и продолжается до сейчас."
+  },
+  {
+    "id": "ppc_019",
+    "sentence": "By the time we got to the cinema, the film ___ (already/start).",
+    "correct": "had already been starting",
+    "distractors": ["has already been starting", "already started", "was already starting"],
+    "explanation": "Past Perfect Continuous используется для действия, которое началось до момента в прошлом (приход в кино)."
+  },
+  {
+    "id": "ppc_020",
+    "sentence": "She ___ (practice) the piano for two hours. She's still playing.",
+    "correct": "has been practicing",
+    "distractors": ["had been practicing", "practiced", "was practicing"],
+    "explanation": "Present Perfect Continuous используется для действия, которое началось ранее и продолжается до сейчас."
+  }
+]

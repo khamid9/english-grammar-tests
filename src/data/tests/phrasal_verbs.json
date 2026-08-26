@@ -1,0 +1,702 @@
+[
+  {
+    "id": "pv_001",
+    "sentence": "I have to ___ at six o'clock every morning to get to work on time.",
+    "correct": "get up",
+    "distractors": ["get on", "get off", "get out"],
+    "explanation": "Get up — вставать (с постели). Get on — садиться (в транспорт), get off — выходить (из транспорта)."
+  },
+  {
+    "id": "pv_002",
+    "sentence": "Please ___ the bus at the next stop.",
+    "correct": "get off",
+    "distractors": ["get on", "get up", "get out"],
+    "explanation": "Get off — выходить (из автобуса, поезда). Get on — садиться (в транспорт)."
+  },
+  {
+    "id": "pv_003",
+    "sentence": "The children ___ the house and started playing in the garden.",
+    "correct": "got out of",
+    "distractors": ["got up", "got on", "got off"],
+    "explanation": "Get out of — выходить (из помещения, машины). Get up — вставать."
+  },
+  {
+    "id": "pv_004",
+    "sentence": "The movie will ___ at 9 PM.",
+    "correct": "go on",
+    "distractors": ["go away", "come back", "come in"],
+    "explanation": "Go on — продолжаться, длиться. Go away — уходить."
+  },
+  {
+    "id": "pv_005",
+    "sentence": "Please ___ the room — the baby is sleeping.",
+    "correct": "go away",
+    "distractors": ["go on", "come back", "come in"],
+    "explanation": "Go away — уходить, уходить прочь. Come back — возвращаться."
+  },
+  {
+    "id": "pv_006",
+    "sentence": "When will you ___ from your holiday?",
+    "correct": "come back",
+    "distractors": ["come in", "go on", "go away"],
+    "explanation": "Come back — возвращаться. Come in — входить."
+  },
+  {
+    "id": "pv_007",
+    "sentence": "Someone is knocking — please let them ___.",
+    "correct": "come in",
+    "distractors": ["come back", "go away", "get out"],
+    "explanation": "Come in — входить. Come back — возвращаться."
+  },
+  {
+    "id": "pv_008",
+    "sentence": "The thief ___ when the police arrived.",
+    "correct": "ran away",
+    "distractors": ["walked in", "came back", "got off"],
+    "explanation": "Run away — убегать. Walk in — входить."
+  },
+  {
+    "id": "pv_009",
+    "sentence": "She just ___ into the office without knocking.",
+    "correct": "walked in",
+    "distractors": ["ran away", "got off", "came back"],
+    "explanation": "Walk in — входить (спокойно). Run away — убегать."
+  },
+  {
+    "id": "pv_010",
+    "sentence": "The train is arriving — let's ___ quickly.",
+    "correct": "get on",
+    "distractors": ["get off", "get up", "get out"],
+    "explanation": "Get on — садиться (в поезд, автобус). Get off — выходить."
+  },
+  {
+    "id": "pv_011",
+    "sentence": "Can you ___ the TV? I want to watch the news.",
+    "correct": "turn on",
+    "distractors": ["turn off", "turn up", "turn down"],
+    "explanation": "Turn on — включать (телевизор, свет). Turn off — выключать."
+  },
+  {
+    "id": "pv_012",
+    "sentence": "Please ___ your shoes before entering the house.",
+    "correct": "take off",
+    "distractors": ["put on", "try on", "pick up"],
+    "explanation": "Take off — снимать (обувь, одежду). Put on — надевать."
+  },
+  {
+    "id": "pv_013",
+    "sentence": "It's cold — you should ___ your jacket.",
+    "correct": "put on",
+    "distractors": ["take off", "try on", "pick up"],
+    "explanation": "Put on — надевать (одежду). Take off — снимать."
+  },
+  {
+    "id": "pv_014",
+    "sentence": "She ___ the phone and said hello.",
+    "correct": "picked up",
+    "distractors": ["put on", "took off", "turned on"],
+    "explanation": "Pick up — поднимать, подбирать. Put on — надевать."
+  },
+  {
+    "id": "pv_015",
+    "sentence": "Let's ___ this dress — it might fit you.",
+    "correct": "try on",
+    "distractors": ["put on", "take off", "pick up"],
+    "explanation": "Try on — примерять (одежду). Put on — надевать."
+  },
+  {
+    "id": "pv_016",
+    "sentence": "Please ___ the music — the neighbors are sleeping.",
+    "correct": "turn down",
+    "distractors": ["turn up", "turn on", "turn off"],
+    "explanation": "Turn down — убавлять (громкость). Turn up — прибавлять."
+  },
+  {
+    "id": "pv_017",
+    "sentence": "Could you ___ the radio? I can't hear the music.",
+    "correct": "turn up",
+    "distractors": ["turn down", "turn off", "turn on"],
+    "explanation": "Turn up — прибавлять (громкость). Turn down — убавлять."
+  },
+  {
+    "id": "pv_018",
+    "sentence": "I can't ___ these two brothers — they look identical.",
+    "correct": "tell apart",
+    "distractors": ["call back", "speak up", "bring up"],
+    "explanation": "Tell apart — различать, отличать друг от друга. Speak up — говорить громче."
+  },
+  {
+    "id": "pv_019",
+    "sentence": "I'm busy right now — can I ___ you ___ later?",
+    "correct": "call back",
+    "distractors": ["tell apart", "speak up", "write down"],
+    "explanation": "Call back — перезвонить. Tell apart — различать."
+  },
+  {
+    "id": "pv_020",
+    "sentence": "Could you ___? I can't hear you very well.",
+    "correct": "speak up",
+    "distractors": ["call back", "tell apart", "write down"],
+    "explanation": "Speak up — говорить громче, повысить голос. Call back — перезвонить."
+  },
+  {
+    "id": "pv_021",
+    "sentence": "Please ___ your name and phone number here.",
+    "correct": "write down",
+    "distractors": ["speak up", "call back", "bring up"],
+    "explanation": "Write down — записать. Speak up — говорить громче."
+  },
+  {
+    "id": "pv_022",
+    "sentence": "I don't want to ___ politics at dinner — it always leads to arguments.",
+    "correct": "bring up",
+    "distractors": ["point out", "write down", "call back"],
+    "explanation": "Bring up — поднимать (тему), упоминать. Point out — указывать."
+  },
+  {
+    "id": "pv_023",
+    "sentence": "I'd like to ___ that we still have a lot of work to do.",
+    "correct": "point out",
+    "distractors": ["bring up", "write down", "speak up"],
+    "explanation": "Point out — указывать (на факт), отмечать. Bring up — поднимать тему."
+  },
+  {
+    "id": "pv_024",
+    "sentence": "Let's ___ our ideas on the whiteboard.",
+    "correct": "write down",
+    "distractors": ["bring up", "point out", "call back"],
+    "explanation": "Write down — записать. Bring up — поднимать (тему)."
+  },
+  {
+    "id": "pv_025",
+    "sentence": "He always ___ embarrassing stories from my childhood.",
+    "correct": "brings up",
+    "distractors": ["points out", "writes down", "calls back"],
+    "explanation": "Bring up — поднимать (тему), упоминать. Point out — указывать."
+  },
+  {
+    "id": "pv_026",
+    "sentence": "She ___ several mistakes in my essay.",
+    "correct": "pointed out",
+    "distractors": ["brought up", "wrote down", "called back"],
+    "explanation": "Point out — указывать (на ошибки). Bring up — поднимать тему."
+  },
+  {
+    "id": "pv_027",
+    "sentence": "You should ___ your friends for help.",
+    "correct": "turn to",
+    "distractors": ["point out", "bring up", "call back"],
+    "explanation": "Turn to — обращаться (за помощью). Point out — указывать."
+  },
+  {
+    "id": "pv_028",
+    "sentence": "I need to ___ this information to the team.",
+    "correct": "pass on",
+    "distractors": ["bring up", "write down", "point out"],
+    "explanation": "Pass on — передавать (информацию). Bring up — поднимать тему."
+  },
+  {
+    "id": "pv_029",
+    "sentence": "She refused to ___ any details about the surprise party.",
+    "correct": "give away",
+    "distractors": ["point out", "bring up", "pass on"],
+    "explanation": "Give away — разглашать, выдавать (секрет). Pass on — передавать."
+  },
+  {
+    "id": "pv_030",
+    "sentence": "I'll ___ the message to my boss.",
+    "correct": "pass on",
+    "distractors": ["give away", "bring up", "point out"],
+    "explanation": "Pass on — передавать (сообщение). Give away — разглашать."
+  },
+  {
+    "id": "pv_031",
+    "sentence": "He ___ a new topic during the meeting.",
+    "correct": "brought up",
+    "distractors": ["pointed out", "passed on", "wrote down"],
+    "explanation": "Bring up — поднимать (новую тему). Point out — указывать."
+  },
+  {
+    "id": "pv_032",
+    "sentence": "Please ___ what the teacher said in your own words.",
+    "correct": "go over",
+    "distractors": ["bring up", "point out", "write down"],
+    "explanation": "Go over — повторять, пересматривать. Bring up — поднимать тему."
+  },
+  {
+    "id": "pv_033",
+    "sentence": "Let me ___ the main points of the article.",
+    "correct": "sum up",
+    "distractors": ["point out", "bring up", "go over"],
+    "explanation": "Sum up — подводить итог, резюмировать. Point out — указывать."
+  },
+  {
+    "id": "pv_034",
+    "sentence": "I need to ___ this report before the deadline.",
+    "correct": "finish off",
+    "distractors": ["go over", "sum up", "bring up"],
+    "explanation": "Finish off — заканчивать, доводить до конца. Go over — повторять."
+  },
+  {
+    "id": "pv_035",
+    "sentence": "Please ___ your homework before leaving the classroom.",
+    "correct": "hand in",
+    "distractors": ["carry on", "fill in", "look up"],
+    "explanation": "Hand in — сдавать (работу, документы). Carry on — продолжать."
+  },
+  {
+    "id": "pv_036",
+    "sentence": "Despite being tired, she decided to ___ with the project.",
+    "correct": "carry on",
+    "distractors": ["hand in", "fill in", "look up"],
+    "explanation": "Carry on — продолжать. Hand in — сдавать."
+  },
+  {
+    "id": "pv_037",
+    "sentence": "Could you ___ this form with your personal details?",
+    "correct": "fill in",
+    "distractors": ["hand in", "carry on", "look up"],
+    "explanation": "Fill in — заполнять (форму, бланк). Hand in — сдавать."
+  },
+  {
+    "id": "pv_038",
+    "sentence": "I need to ___ the meaning of this word in the dictionary.",
+    "correct": "look up",
+    "distractors": ["fill in", "find out", "figure out"],
+    "explanation": "Look up — искать, смотреть (слово в словаре). Find out — выяснять."
+  },
+  {
+    "id": "pv_039",
+    "sentence": "I finally ___ the answer to the problem.",
+    "correct": "found out",
+    "distractors": ["looked up", "figured out", "worked out"],
+    "explanation": "Find out — выяснять, узнавать. Figure out — разбираться."
+  },
+  {
+    "id": "pv_040",
+    "sentence": "I can't ___ how to solve this equation.",
+    "correct": "figure out",
+    "distractors": ["find out", "look up", "work out"],
+    "explanation": "Figure out — разбираться, понимать. Find out — выяснять."
+  },
+  {
+    "id": "pv_041",
+    "sentence": "She goes to the gym three times a week to ___.",
+    "correct": "work out",
+    "distractors": ["figure out", "find out", "carry on"],
+    "explanation": "Work out — заниматься спортом. Figure out — разбираться."
+  },
+  {
+    "id": "pv_042",
+    "sentence": "You need to ___ more if you want to improve your grades.",
+    "correct": "work harder",
+    "distractors": ["look up", "fill in", "carry on"],
+    "explanation": "Work harder — работать усерднее. Look up — искать."
+  },
+  {
+    "id": "pv_043",
+    "sentence": "Let's ___ this problem together.",
+    "correct": "work out",
+    "distractors": ["figure out", "find out", "carry on"],
+    "explanation": "Work out — решать (проблему). Figure out — разбираться."
+  },
+  {
+    "id": "pv_044",
+    "sentence": "I need to ___ my essay by Friday.",
+    "correct": "finish off",
+    "distractors": ["hand in", "carry on", "fill in"],
+    "explanation": "Finish off — заканчивать. Hand in — сдавать."
+  },
+  {
+    "id": "pv_045",
+    "sentence": "She ___ the numbers and calculated the total.",
+    "correct": "added up",
+    "distractors": ["figured out", "worked out", "filled in"],
+    "explanation": "Add up — складывать (числа). Figure out — разбираться."
+  },
+  {
+    "id": "pv_046",
+    "sentence": "The teacher asked us to ___ the blanks with the correct words.",
+    "correct": "fill in",
+    "distractors": ["hand in", "look up", "write down"],
+    "explanation": "Fill in — заполнять (пропуски). Hand in — сдавать."
+  },
+  {
+    "id": "pv_047",
+    "sentence": "I'll ___ the report and send it to you.",
+    "correct": "look over",
+    "distractors": ["fill in", "hand in", "carry on"],
+    "explanation": "Look over — проверять, просматривать. Fill in — заполнять."
+  },
+  {
+    "id": "pv_048",
+    "sentence": "You should ___ your notes before the exam.",
+    "correct": "look over",
+    "distractors": ["find out", "figure out", "write down"],
+    "explanation": "Look over — просматривать, повторять. Find out — выяснять."
+  },
+  {
+    "id": "pv_049",
+    "sentence": "She ___ the problem and found a solution.",
+    "correct": "figured out",
+    "distractors": ["looked up", "filled in", "handed in"],
+    "explanation": "Figure out — разбираться, находить решение. Look up — искать."
+  },
+  {
+    "id": "pv_050",
+    "sentence": "The students ___ their assignments on time.",
+    "correct": "handed in",
+    "distractors": ["filled in", "carried on", "looked up"],
+    "explanation": "Hand in — сдавать (задания). Fill in — заполнять."
+  },
+  {
+    "id": "pv_051",
+    "sentence": "I need to ___ this data before presenting it.",
+    "correct": "go over",
+    "distractors": ["hand in", "fill in", "carry on"],
+    "explanation": "Go over — проверять, пересматривать. Hand in — сдавать."
+  },
+  {
+    "id": "pv_052",
+    "sentence": "She gets ___ really well with her new colleagues.",
+    "correct": "along",
+    "distractors": ["on", "off", "out"],
+    "explanation": "Get along — ладить, уживаться. Get on — садиться (в транспорт)."
+  },
+  {
+    "id": "pv_053",
+    "sentence": "They decided to ___ after dating for two years.",
+    "correct": "break up",
+    "distractors": ["make up", "ask out", "hang out"],
+    "explanation": "Break up — расставаться, раскалывать. Make up — мириться."
+  },
+  {
+    "id": "pv_054",
+    "sentence": "After the argument, they apologized and decided to ___.",
+    "correct": "make up",
+    "distractors": ["break up", "hang out", "ask out"],
+    "explanation": "Make up — мириться, примиряться. Break up — расставаться."
+  },
+  {
+    "id": "pv_055",
+    "sentence": "I want to ___ her for a date, but I'm nervous.",
+    "correct": "ask out",
+    "distractors": ["hang out", "break up", "make up"],
+    "explanation": "Ask out — приглашать (на свидание). Hang out — проводить время."
+  },
+  {
+    "id": "pv_056",
+    "sentence": "We often ___ at the coffee shop after school.",
+    "correct": "hang out",
+    "distractors": ["ask out", "break up", "make up"],
+    "explanation": "Hang out — проводить время вместе, болтать. Ask out — приглашать."
+  },
+  {
+    "id": "pv_057",
+    "sentence": "She ___ with her best friend every weekend.",
+    "correct": "hangs out",
+    "distractors": ["asks out", "breaks up", "makes up"],
+    "explanation": "Hang out — проводить время вместе. Ask out — приглашать."
+  },
+  {
+    "id": "pv_058",
+    "sentence": "They ___ after a big fight last month.",
+    "correct": "broke up",
+    "distractors": ["made up", "hung out", "asked out"],
+    "explanation": "Break up — расставаться. Make up — мириться."
+  },
+  {
+    "id": "pv_059",
+    "sentence": "He ___ his girlfriend at a party last year.",
+    "correct": "asked out",
+    "distractors": ["hung out", "broke up", "made up"],
+    "explanation": "Ask out — приглашать (на свидание). Hang out — проводить время."
+  },
+  {
+    "id": "pv_060",
+    "sentence": "They argued but then ___ and became friends again.",
+    "correct": "made up",
+    "distractors": ["broke up", "hung out", "asked out"],
+    "explanation": "Make up — мириться, восстанавливать отношения. Break up — расставаться."
+  },
+  {
+    "id": "pv_061",
+    "sentence": "She doesn't ___ with her brother very well.",
+    "correct": "get along",
+    "distractors": ["get on", "get off", "get out"],
+    "explanation": "Get along — ладить, уживаться. Get on — садиться (в транспорт)."
+  },
+  {
+    "id": "pv_062",
+    "sentence": "I ___ my old friend at the supermarket yesterday.",
+    "correct": "ran into",
+    "distractors": ["hung out", "broke up", "asked out"],
+    "explanation": "Run into — случайно встретить. Hang out — проводить время."
+  },
+  {
+    "id": "pv_063",
+    "sentence": "We decided to ___ and watch a movie together.",
+    "correct": "hang out",
+    "distractors": ["break up", "make up", "ask out"],
+    "explanation": "Hang out — проводить время вместе. Break up — расставаться."
+  },
+  {
+    "id": "pv_064",
+    "sentence": "He ___ with his friends after work.",
+    "correct": "hangs out",
+    "distractors": ["breaks up", "makes up", "asks out"],
+    "explanation": "Hang out — проводить время с друзьями. Break up — расставаться."
+  },
+  {
+    "id": "pv_065",
+    "sentence": "They've been ___ for years — they're a happy couple.",
+    "correct": "going out",
+    "distractors": ["breaking up", "making up", "hanging out"],
+    "explanation": "Go out — встречаться (романтически). Break up — расставаться."
+  },
+  {
+    "id": "pv_066",
+    "sentence": "She ___ her ex-boyfriend on social media.",
+    "correct": "broke up with",
+    "distractors": ["made up with", "hung out with", "asked out"],
+    "explanation": "Break up with — расставаться (с кем-то). Make up — мириться."
+  },
+  {
+    "id": "pv_067",
+    "sentence": "They ___ after the misunderstanding.",
+    "correct": "made up",
+    "distractors": ["broke up", "hung out", "asked out"],
+    "explanation": "Make up — мириться после ссоры. Break up — расставаться."
+  },
+  {
+    "id": "pv_068",
+    "sentence": "I ___ my colleague at the conference last week.",
+    "correct": "ran into",
+    "distractors": ["hung out", "broke up", "made up"],
+    "explanation": "Run into — случайно встретить. Hang out — проводить время."
+  },
+  {
+    "id": "pv_069",
+    "sentence": "I always ___ at seven o'clock without an alarm.",
+    "correct": "wake up",
+    "distractors": ["put on", "take off", "pick up"],
+    "explanation": "Wake up — просыпаться. Put on — надевать."
+  },
+  {
+    "id": "pv_070",
+    "sentence": "She ___ her coat and left the house.",
+    "correct": "put on",
+    "distractors": ["take off", "try on", "pick up"],
+    "explanation": "Put on — надевать (одежду). Take off — снимать."
+  },
+  {
+    "id": "pv_071",
+    "sentence": "It's hot inside — please ___ your jacket.",
+    "correct": "take off",
+    "distractors": ["put on", "try on", "pick up"],
+    "explanation": "Take off — снимать (одежду). Put on — надевать."
+  },
+  {
+    "id": "pv_072",
+    "sentence": "Could you ___ the phone? I'm busy cooking.",
+    "correct": "pick up",
+    "distractors": ["put on", "take off", "turn on"],
+    "explanation": "Pick up — поднимать, ответить (на звонок). Put on — надевать."
+  },
+  {
+    "id": "pv_073",
+    "sentence": "Don't forget to ___ the lights before you leave.",
+    "correct": "turn off",
+    "distractors": ["turn on", "turn up", "turn down"],
+    "explanation": "Turn off — выключать. Turn on — включать."
+  },
+  {
+    "id": "pv_074",
+    "sentence": "I want to ___ this shirt — does it look good?",
+    "correct": "try on",
+    "distractors": ["put on", "take off", "pick up"],
+    "explanation": "Try on — примерять (одежду). Put on — надевать."
+  },
+  {
+    "id": "pv_075",
+    "sentence": "She ___ her sunglasses and walked outside.",
+    "correct": "put on",
+    "distractors": ["take off", "try on", "pick up"],
+    "explanation": "Put on — надевать (очки, одежду). Take off — снимать."
+  },
+  {
+    "id": "pv_076",
+    "sentence": "Please ___ the radio — I want to listen to the news.",
+    "correct": "turn on",
+    "distractors": ["turn off", "turn up", "turn down"],
+    "explanation": "Turn on — включать (радио, прибор). Turn off — выключать."
+  },
+  {
+    "id": "pv_077",
+    "sentence": "He ___ his shoes and ran barefoot on the grass.",
+    "correct": "took off",
+    "distractors": ["put on", "tried on", "picked up"],
+    "explanation": "Take off — снимать (обувь). Put on — надевать."
+  },
+  {
+    "id": "pv_078",
+    "sentence": "I ___ a book from the shelf and started reading.",
+    "correct": "picked up",
+    "distractors": ["put on", "took off", "turned on"],
+    "explanation": "Pick up — поднимать, брать (книгу). Put on — надевать."
+  },
+  {
+    "id": "pv_079",
+    "sentence": "Can you ___ the TV? I want to watch a movie.",
+    "correct": "turn on",
+    "distractors": ["turn off", "turn up", "turn down"],
+    "explanation": "Turn on — включать (телевизор). Turn off — выключать."
+  },
+  {
+    "id": "pv_080",
+    "sentence": "It's late — let's ___ the TV and go to bed.",
+    "correct": "turn off",
+    "distractors": ["turn on", "turn up", "turn down"],
+    "explanation": "Turn off — выключать (телевизор). Turn on — включать."
+  },
+  {
+    "id": "pv_081",
+    "sentence": "She ___ her bag and left for work.",
+    "correct": "picked up",
+    "distractors": ["put on", "took off", "turned off"],
+    "explanation": "Pick up — поднимать, брать (сумку). Put on — надевать."
+  },
+  {
+    "id": "pv_082",
+    "sentence": "I need to ___ these clothes before putting them away.",
+    "correct": "fold up",
+    "distractors": ["put on", "take off", "pick up"],
+    "explanation": "Fold up — складывать (одежду). Put on — надевать."
+  },
+  {
+    "id": "pv_083",
+    "sentence": "Please ___ the shoes by the door.",
+    "correct": "put down",
+    "distractors": ["pick up", "put on", "take off"],
+    "explanation": "Put down — ставить, класть. Pick up — поднимать."
+  },
+  {
+    "id": "pv_084",
+    "sentence": "She ___ her coat and hung it on the hook.",
+    "correct": "took off",
+    "distractors": ["put on", "tried on", "picked up"],
+    "explanation": "Take off — снимать (пальто). Put on — надевать."
+  },
+  {
+    "id": "pv_085",
+    "sentence": "I'll ___ the ingredients and start cooking.",
+    "correct": "get out",
+    "distractors": ["put on", "take off", "pick up"],
+    "explanation": "Get out — доставать (ингредиенты). Put on — надевать."
+  },
+  {
+    "id": "pv_086",
+    "sentence": "Don't ___ — you're almost there!",
+    "correct": "give up",
+    "distractors": ["run out", "break down", "deal with"],
+    "explanation": "Give up — сдаваться, прекращать. Run out — заканчиваться."
+  },
+  {
+    "id": "pv_087",
+    "sentence": "We've ___ milk — can you buy some?",
+    "correct": "run out of",
+    "distractors": ["given up", "broken down", "dealt with"],
+    "explanation": "Run out of — заканчиваться (запас чего-то). Give up — сдаваться."
+  },
+  {
+    "id": "pv_088",
+    "sentence": "My car ___ on the highway yesterday.",
+    "correct": "broke down",
+    "distractors": ["ran out", "gave up", "dealt with"],
+    "explanation": "Break down — ломаться (о технике). Run out — заканчиваться."
+  },
+  {
+    "id": "pv_089",
+    "sentence": "She knows how to ___ stress at work.",
+    "correct": "cope with",
+    "distractors": ["deal with", "give up", "run out"],
+    "explanation": "Cope with — справляться (со стрессом). Deal with — иметь дело."
+  },
+  {
+    "id": "pv_090",
+    "sentence": "I don't know how to ___ this difficult situation.",
+    "correct": "deal with",
+    "distractors": ["cope with", "give up", "break down"],
+    "explanation": "Deal with — иметь дело, справляться. Cope with — справляться."
+  },
+  {
+    "id": "pv_091",
+    "sentence": "He ___ because the problem was too hard.",
+    "correct": "gave up",
+    "distractors": ["ran out", "broke down", "coped with"],
+    "explanation": "Give up — сдаваться, прекращать попытки. Break down — ломаться."
+  },
+  {
+    "id": "pv_092",
+    "sentence": "The car ___ because we forgot to put in gas.",
+    "correct": "ran out of fuel",
+    "distractors": ["broke down", "gave up", "dealt with"],
+    "explanation": "Run out of — заканчиваться (топливо). Break down — ломаться."
+  },
+  {
+    "id": "pv_093",
+    "sentence": "My computer ___ in the middle of the exam.",
+    "correct": "broke down",
+    "distractors": ["ran out", "gave up", "coped with"],
+    "explanation": "Break down — ломаться (о технике). Run out — заканчиваться."
+  },
+  {
+    "id": "pv_094",
+    "sentence": "She learned to ___ her fear of public speaking.",
+    "correct": "deal with",
+    "distractors": ["cope with", "give up", "break down"],
+    "explanation": "Deal with — справляться (со страхом). Cope with — справляться."
+  },
+  {
+    "id": "pv_095",
+    "sentence": "He ___ under pressure and made mistakes.",
+    "correct": "broke down",
+    "distractors": ["gave up", "ran out", "coped with"],
+    "explanation": "Break down — ломаться (психически). Give up — сдаваться."
+  },
+  {
+    "id": "pv_096",
+    "sentence": "Don't ___ — keep trying and you'll succeed.",
+    "correct": "give up",
+    "distractors": ["break down", "run out", "deal with"],
+    "explanation": "Give up — сдаваться, прекращать. Break down — ломаться."
+  },
+  {
+    "id": "pv_097",
+    "sentence": "We've ___ time — we need to hurry.",
+    "correct": "run out of",
+    "distractors": ["given up", "broken down", "dealt with"],
+    "explanation": "Run out of — заканчиваться (время). Give up — сдаваться."
+  },
+  {
+    "id": "pv_098",
+    "sentence": "She ___ during the interview and started crying.",
+    "correct": "broke down",
+    "distractors": ["gave up", "ran out", "coped with"],
+    "explanation": "Break down — эмоционально сорваться. Give up — сдаваться."
+  },
+  {
+    "id": "pv_099",
+    "sentence": "He can ___ any challenge that comes his way.",
+    "correct": "cope with",
+    "distractors": ["deal with", "give up", "break down"],
+    "explanation": "Cope with — справляться (с трудностями). Deal with — иметь дело."
+  },
+  {
+    "id": "pv_100",
+    "sentence": "I can't ___ this noise — it's driving me crazy.",
+    "correct": "put up with",
+    "distractors": ["give up", "deal with", "cope with"],
+    "explanation": "Put up with — терпеть, мириться (с чем-то неприятным). Deal with — справляться."
+  }
+]
