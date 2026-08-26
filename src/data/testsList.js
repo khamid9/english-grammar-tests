@@ -121,12 +121,12 @@ const testsList = [
   },
   {
     id: "modal_verbs",
-    title: "Can / Could / Must / Have to",
-    titleRu: "Can / Could / Must / Have to",
+    title: "Can / Could / Must / Have to / Should / Be able to / Had to",
+    titleRu: "Модальные глаголы",
     questionsFile: "modal_verbs",
     category: "Modals",
     icon: "scales",
-    questionCount: 20,
+    questionCount: 40,
     hasContent: true,
   },
   {
