@@ -40,6 +40,25 @@ function TestPage() {
 
   useEffect(() => {
     if (!testInfo) return;
+
+    sessionStorage.setItem("activeTest", testInfo.id);
+
+    const handleBeforeUnload = () => {
+      sessionStorage.removeItem("activeTest");
+    };
+    window.addEventListener("beforeunload", handleBeforeUnload);
+
+    return () => {
+      window.removeEventListener("beforeunload", handleBeforeUnload);
+      sessionStorage.removeItem("activeTest");
+    };
+  }, [testInfo]);
+
+  useEffect(() => {
+    if (!testInfo) return;
+    if (sessionStorage.getItem("activeTest") !== testInfo.id) {
+      setRestartKey((k) => k + 1);
+    }
     setQuestions(null);
     setLoadError(false);
     setCurrentIndex(0);
