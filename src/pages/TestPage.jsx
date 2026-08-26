@@ -130,7 +130,7 @@ function TestPage() {
     const percent = Math.round((score / totalQuestions) * 100);
     return (
       <div className="test-page result-screen">
-        <h2>{testInfo.titleRu}</h2>
+        <h2>{testInfo.title}</h2>
 
         <div className="score-display">
           <span className="score-number">{score}</span>
@@ -204,7 +204,7 @@ function TestPage() {
     <div className="test-page">
       <div className="test-header">
         <Link to="/" className="back-link">&larr; Topics</Link>
-        <h2 className="test-title">{testInfo.titleRu}</h2>
+        <h2 className="test-title">{testInfo.title}</h2>
         <div className="progress-text">
           Question {currentIndex + 1} of {totalQuestions}
         </div>

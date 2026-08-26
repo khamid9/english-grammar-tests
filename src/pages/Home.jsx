@@ -63,7 +63,7 @@ function Home() {
             >
               <TopicIcon name={test.icon} className="topic-card__icon" />
               <span className="topic-card__category">{test.category}</span>
-              <h2 className="topic-card__title">{test.titleRu}</h2>
+              <h2 className="topic-card__title">{test.title}</h2>
               <div className="topic-card__footer">
                 {hasContent ? (
                   <>

@@ -2,7 +2,6 @@ const testsList = [
   {
     id: "pp_ps",
     title: "Present Perfect or Past Simple",
-    titleRu: "Present Perfect или Past Simple",
     questionsFile: "pp_ps",
     category: "Tenses",
     icon: "clock",
@@ -12,7 +11,6 @@ const testsList = [
   {
     id: "ps_pp",
     title: "Past Simple or Past Perfect",
-    titleRu: "Past Simple или Past Perfect",
     questionsFile: "ps_pp",
     category: "Tenses",
     icon: "history",
@@ -22,7 +20,6 @@ const testsList = [
   {
     id: "pp_pastpp",
     title: "Present Perfect or Past Perfect",
-    titleRu: "Present Perfect или Past Perfect",
     questionsFile: "pp_pastpp",
     category: "Tenses",
     icon: "calendar",
@@ -32,7 +29,6 @@ const testsList = [
   {
     id: "ps_pc",
     title: "Present Simple or Present Continuous",
-    titleRu: "Present Simple или Present Continuous",
     questionsFile: "ps_pc",
     category: "Tenses",
     icon: "clock",
@@ -42,7 +38,6 @@ const testsList = [
   {
     id: "will_going_to",
     title: "Will or Going to",
-    titleRu: "Will или Going to",
     questionsFile: "will_going_to",
     category: "Tenses",
     icon: "calendar",
@@ -52,7 +47,6 @@ const testsList = [
   {
     id: "ppc_ppc",
     title: "Past Perfect Continuous or Present Perfect Continuous",
-    titleRu: "Past Perfect Continuous или Present Perfect Continuous",
     questionsFile: "ppc_ppc",
     category: "Tenses",
     icon: "history",
@@ -62,7 +56,6 @@ const testsList = [
   {
     id: "phrasal_verbs",
     title: "Phrasal Verbs",
-    titleRu: "Фразовые глаголы",
     questionsFile: "phrasal_verbs",
     category: "Vocabulary",
     icon: "quotes",
@@ -72,7 +65,6 @@ const testsList = [
   {
     id: "comp_super",
     title: "Comparative or Superlative Adjectives",
-    titleRu: "Сравнительная или превосходная степень",
     questionsFile: "comp_super",
     category: "Grammar",
     icon: "stack",
@@ -82,7 +74,6 @@ const testsList = [
   {
     id: "pastc_pasts",
     title: "Past Continuous or Past Simple",
-    titleRu: "Past Continuous или Past Simple",
     questionsFile: "pastc_pasts",
     category: "Tenses",
     icon: "history",
@@ -92,7 +83,6 @@ const testsList = [
   {
     id: "pp_pc",
     title: "Present Perfect Continuous or Present Perfect",
-    titleRu: "Present Perfect Continuous или Present Perfect",
     questionsFile: "pp_pc",
     category: "Tenses",
     icon: "clock",
@@ -102,7 +92,6 @@ const testsList = [
   {
     id: "passive_voice",
     title: "Passive Voice or Active Voice",
-    titleRu: "Passive Voice или Active Voice",
     questionsFile: "passive_voice",
     category: "Voice",
     icon: "arrows",
@@ -112,7 +101,6 @@ const testsList = [
   {
     id: "future_perfect_simple",
     title: "Future Perfect or Future Simple",
-    titleRu: "Future Perfect или Future Simple",
     questionsFile: "future_perfect_simple",
     category: "Tenses",
     icon: "calendar",
@@ -122,7 +110,6 @@ const testsList = [
   {
     id: "modal_verbs",
     title: "Can / Could / Must / Have to / Should / Be able to / Had to",
-    titleRu: "Модальные глаголы",
     questionsFile: "modal_verbs",
     category: "Modals",
     icon: "scales",
@@ -132,7 +119,6 @@ const testsList = [
   {
     id: "idioms",
     title: "Idioms",
-    titleRu: "Идиомы",
     questionsFile: "idioms",
     category: "Vocabulary",
     icon: "quotes",
@@ -142,7 +128,6 @@ const testsList = [
   {
     id: "conditionals",
     title: "Conditional Sentences",
-    titleRu: "Условные предложения",
     questionsFile: "conditionals",
     category: "Sentence Structure",
     icon: "branch",
@@ -152,7 +137,6 @@ const testsList = [
   {
     id: "have_done",
     title: "Have something done",
-    titleRu: "Have something done (V3)",
     questionsFile: "have_done",
     category: "Voice",
     icon: "wrench",
@@ -162,7 +146,6 @@ const testsList = [
   {
     id: "ing_ed_adjectives",
     title: "Adjectives ending in -ing and -ed",
-    titleRu: "Прилагательные на -ing и -ed",
     questionsFile: "ing_ed_adjectives",
     category: "Vocabulary",
     icon: "tag",
@@ -172,7 +155,6 @@ const testsList = [
   {
     id: "used_to",
     title: "Used to / Be used to + V-ing",
-    titleRu: "Used to / Be used to + V-ing",
     questionsFile: "used_to",
     category: "Tenses",
     icon: "history",
@@ -182,7 +164,6 @@ const testsList = [
   {
     id: "articles",
     title: "Articles — a / an / the",
-    titleRu: "Артикли — a / an / the",
     questionsFile: "articles",
     category: "Grammar",
     icon: "hash",
@@ -192,7 +173,6 @@ const testsList = [
   {
     id: "countable_uncountable",
     title: "Countable or Uncountable",
-    titleRu: "Исчисляемые и неисчисляемые существительные",
     questionsFile: "countable_uncountable",
     category: "Grammar",
     icon: "stack",
@@ -202,7 +182,6 @@ const testsList = [
   {
     id: "relative_clauses",
     title: "Relative Clauses — who / that / which",
-    titleRu: "Придаточные предложения — who / that / which",
     questionsFile: "relative_clauses",
     category: "Sentence Structure",
     icon: "link",
@@ -212,7 +191,6 @@ const testsList = [
   {
     id: "conjunctions",
     title: "Although / Though / In spite of / Despite",
-    titleRu: "Although / Though / In spite of / Despite",
     questionsFile: "conjunctions",
     category: "Sentence Structure",
     icon: "split",
@@ -222,7 +200,6 @@ const testsList = [
   {
     id: "condition_conj",
     title: "In case / Unless / As long as",
-    titleRu: "In case / Unless / As long as",
     questionsFile: "condition_conj",
     category: "Sentence Structure",
     icon: "shield",
@@ -232,7 +209,6 @@ const testsList = [
   {
     id: "adj_prepositions",
     title: "Adjectives + Prepositions",
-    titleRu: "Прилагательные с предлогами",
     questionsFile: "adj_prepositions",
     category: "Grammar",
     icon: "plus",
@@ -242,7 +218,6 @@ const testsList = [
   {
     id: "verb_prepositions",
     title: "Verb + Prepositions",
-    titleRu: "Глаголы с предлогами",
     questionsFile: "verb_prepositions",
     category: "Grammar",
     icon: "arrowRight",

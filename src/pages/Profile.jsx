@@ -110,7 +110,7 @@ function Profile() {
             <div key={test.id} className={`record-row ${r ? "" : "record-row--empty"}`}>
               <div className="record-info">
                 <span className="record-category">{test.category}</span>
-                <span className="record-title">{test.titleRu}</span>
+                <span className="record-title">{test.title}</span>
               </div>
               <div className="record-result">
                 {r ? (
