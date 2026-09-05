@@ -274,6 +274,28 @@
   margin-bottom: 0;
 }
 
+.topic-intro__examples {
+  margin-bottom: 1.25rem;
+  padding: 1rem 1.15rem;
+  background: rgba(232, 163, 61, 0.08);
+  border-left: 3px solid var(--accent);
+}
+
+.topic-intro__examples h2 {
+  font-size: 0.95rem;
+  margin-bottom: 0.55rem;
+}
+
+.topic-intro__examples p {
+  color: var(--ink-muted);
+  line-height: 1.55;
+  margin: 0 0 0.45rem;
+}
+
+.topic-intro__examples p:last-child {
+  margin-bottom: 0;
+}
+
 .topic-intro__meta {
   color: var(--ink-muted);
   font-size: 0.85rem;

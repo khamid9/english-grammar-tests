@@ -188,6 +188,10 @@ function TestPage() {
                   {explanation.rules.map((rule) => <li key={rule}>{rule}</li>)}
                 </ul>
               </div>
+              <div className="topic-intro__examples">
+                <h2>Примеры</h2>
+                {explanation.examples.map((example) => <p key={example}>{example}</p>)}
+              </div>
             </>
           ) : (
             <p className="topic-intro__summary">Перед тестом повторите основные правила этой темы.</p>
