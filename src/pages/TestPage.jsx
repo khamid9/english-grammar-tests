@@ -1,6 +1,7 @@
 import { useState, useMemo, useCallback, useEffect, useRef } from "react";
 import { useParams, Link, useNavigate } from "react-router-dom";
 import testsList from "../data/testsList";
+import topicExplanations from "../data/topicExplanations";
 import ComingSoon from "./ComingSoon";
 
 function shuffleArray(array) {
@@ -37,6 +38,7 @@ function TestPage() {
   const [answers, setAnswers] = useState([]);
   const [restartKey, setRestartKey] = useState(0);
   const [isNewRecord, setIsNewRecord] = useState(false);
+  const [hasStarted, setHasStarted] = useState(false);
   const navigateRef = useRef(navigate);
   navigateRef.current = navigate;
 
@@ -69,6 +71,7 @@ function TestPage() {
     setScore(0);
     setAnswers([]);
     setIsNewRecord(false);
+    setHasStarted(false);
     import(`../data/tests/${testInfo.questionsFile}.json`)
       .then((mod) => {
         const data = mod.default;
@@ -134,6 +137,10 @@ function TestPage() {
     setRestartKey((k) => k + 1);
   }, []);
 
+  const handleStart = useCallback(() => {
+    setHasStarted(true);
+  }, []);
+
   const handleExit = useCallback(() => {
     if (window.confirm("Your progress will be lost. Exit to menu?")) {
       navigate("/");
@@ -157,6 +164,37 @@ function TestPage() {
     return (
       <div className="test-page">
         <div className="loading">Loading...</div>
+      </div>
+    );
+  }
+
+  if (!hasStarted) {
+    const explanation = topicExplanations[testInfo.id];
+
+    return (
+      <div className="test-page intro-page">
+        <button onClick={() => navigate("/")} className="back-link back-btn">
+          &larr; К темам
+        </button>
+        <div className="topic-intro">
+          <div className="topic-intro__eyebrow">Краткое объяснение</div>
+          <h1 className="topic-intro__title">{testInfo.title}</h1>
+          {explanation ? (
+            <>
+              <p className="topic-intro__summary">{explanation.summary}</p>
+              <div className="topic-intro__rules">
+                <h2>Главное</h2>
+                <ul>
+                  {explanation.rules.map((rule) => <li key={rule}>{rule}</li>)}
+                </ul>
+              </div>
+            </>
+          ) : (
+            <p className="topic-intro__summary">Перед тестом повторите основные правила этой темы.</p>
+          )}
+          <p className="topic-intro__meta">В тесте {totalQuestions} вопросов</p>
+          <button onClick={handleStart} className="btn btn-primary">Начать тест</button>
+        </div>
       </div>
     );
   }
