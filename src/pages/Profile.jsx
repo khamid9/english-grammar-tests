@@ -1,4 +1,4 @@
-import { useState, useMemo, useRef, useEffect } from "react";
+import { useState, useMemo, useRef } from "react";
 import { Link } from "react-router-dom";
 import testsList from "../data/testsList";
 
@@ -13,34 +13,6 @@ function Profile() {
   const [name, setName] = useState(profile.name || "");
   const [avatar, setAvatar] = useState(profile.avatar || null);
   const fileInputRef = useRef(null);
-
-  // Update rating display in DOM
-  useEffect(() => {
-    const stats = ratingStats;
-    const historyEl = document.getElementById("rating-tests-count");
-    const avgEl = document.getElementById("rating-avg-score");
-    const bestEl = document.getElementById("rating-best-score");
-    const historyList = document.getElementById("rating-history");
-
-    if (stats) {
-      if (stats.totalTests > 0) {
-        const totalCorrect = Object.values(results).reduce((s, r) => s + r.score, 0);
-        if (historyEl) historyEl.innerHTML = `
-          ${Object.entries(results)
-            .sort((a, b) => b[1].date.localeCompare(a[1].date))
-            .slice(0, 5)
-            .map(([testId, r]) => `
-              <li>
-                <span>${testInfoMap[testId] || testId}</span>
-                <span>${r.score}/${r.total}</span>
-              </li>
-            `).join('')}
-        `;
-        if (avgEl) avgEl.textContent = stats.avgScore + '%';
-        if (bestEl) bestEl.textContent = bestScore;
-      }
-    }
-  }, [results, ratingStats, testInfoMap]);
 
   const results = useMemo(() => {
     try {
@@ -57,7 +29,7 @@ function Profile() {
       map[test.id] = test.title;
     });
     return map;
-  }, [testsList]);
+  }, []);
 
   // Calculate rating stats - run when results change
   const ratingStats = useMemo(() => {
@@ -153,15 +125,15 @@ function Profile() {
         <h3 className="profile-section-title">My Rating</h3>
         <div className="rating-info">
           <div className="rating-stat">
-            <span className="rating-value" id="rating-tests-count">0</span>
+              <span className="rating-value">{ratingStats.totalTests}</span>
             <span className="rating-label">tests</span>
           </div>
           <div className="rating-stat">
-            <span className="rating-value" id="rating-avg-score">0%</span>
+              <span className="rating-value">{ratingStats.avgScore}%</span>
             <span className="rating-label">avg score</span>
           </div>
           <div className="rating-stat">
-            <span className="rating-value" id="rating-best-score">0</span>
+              <span className="rating-value">{ratingStats.bestScore}</span>
             <span className="rating-label">best score</span>
           </div>
         </div>

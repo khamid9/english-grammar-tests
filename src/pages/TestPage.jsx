@@ -1,4 +1,4 @@
-import { useState, useMemo, useCallback, useEffect, useRef } from "react";
+import { useState, useMemo, useCallback, useEffect } from "react";
 import { useParams, Link, useNavigate } from "react-router-dom";
 import testsList from "../data/testsList";
 import topicExplanations from "../data/topicExplanations";
@@ -39,8 +39,6 @@ function TestPage() {
   const [restartKey, setRestartKey] = useState(0);
   const [isNewRecord, setIsNewRecord] = useState(false);
   const [hasStarted, setHasStarted] = useState(false);
-  const navigateRef = useRef(navigate);
-  navigateRef.current = navigate;
 
   useEffect(() => {
     if (!testInfo) return;
@@ -50,7 +48,7 @@ function TestPage() {
 
     const handleVisibility = () => {
       if (active && document.hidden) {
-        navigateRef.current("/", { replace: true });
+        navigate("/", { replace: true });
       }
     };
     document.addEventListener("visibilitychange", handleVisibility);
@@ -59,7 +57,7 @@ function TestPage() {
       clearTimeout(timer);
       document.removeEventListener("visibilitychange", handleVisibility);
     };
-  }, [testInfo]);
+  }, [testInfo, navigate]);
 
   useEffect(() => {
     if (!testInfo) return;
@@ -94,7 +92,7 @@ function TestPage() {
   const options = useMemo(() => {
     if (!currentQuestion) return [];
     return shuffleArray([currentQuestion.correct, ...currentQuestion.distractors]);
-  }, [currentQuestion?.id, restartKey]);
+  }, [currentQuestion]);
 
   const handleSelect = useCallback(
     (option) => {
