@@ -39,6 +39,8 @@ function TestPage() {
   const [restartKey, setRestartKey] = useState(0);
   const [isNewRecord, setIsNewRecord] = useState(false);
   const [hasStarted, setHasStarted] = useState(false);
+  const requestKey = testInfo ? `${testInfo.id}:${restartKey}` : null;
+  const [loadedKey, setLoadedKey] = useState(null);
 
   useEffect(() => {
     if (!testInfo) return;
@@ -61,33 +63,38 @@ function TestPage() {
 
   useEffect(() => {
     if (!testInfo) return;
-    setQuestions(null);
-    setLoadError(false);
-    setCurrentIndex(0);
-    setSelected(null);
-    setShowResult(false);
-    setScore(0);
-    setAnswers([]);
-    setIsNewRecord(false);
-    setHasStarted(false);
     import(`../data/tests/${testInfo.questionsFile}.json`)
       .then((mod) => {
         const data = mod.default;
         if (Array.isArray(data)) {
           setQuestions(data);
+          setLoadError(false);
+          setLoadedKey(requestKey);
         } else if (data && Array.isArray(data.questions)) {
           setQuestions(data.questions);
+          setLoadError(false);
+          setLoadedKey(requestKey);
         } else {
           setLoadError(true);
+          setLoadedKey(requestKey);
         }
+        setCurrentIndex(0);
+        setSelected(null);
+        setShowResult(false);
+        setScore(0);
+        setAnswers([]);
+        setIsNewRecord(false);
+        setHasStarted(false);
       })
       .catch(() => {
         setLoadError(true);
+        setLoadedKey(requestKey);
       });
-  }, [testInfo, restartKey]);
+  }, [testInfo, requestKey]);
 
-  const currentQuestion = questions?.[currentIndex];
-  const totalQuestions = questions?.length || 0;
+  const isCurrentLoad = loadedKey === requestKey;
+  const currentQuestion = isCurrentLoad ? questions?.[currentIndex] : null;
+  const totalQuestions = isCurrentLoad ? questions?.length || 0 : 0;
 
   const options = useMemo(() => {
     if (!currentQuestion) return [];
@@ -154,11 +161,11 @@ function TestPage() {
     );
   }
 
-  if (loadError) {
+  if (isCurrentLoad && loadError) {
     return <ComingSoon title={testInfo.title} />;
   }
 
-  if (!questions) {
+  if (!isCurrentLoad || !questions) {
     return (
       <div className="test-page">
         <div className="loading">Loading...</div>
